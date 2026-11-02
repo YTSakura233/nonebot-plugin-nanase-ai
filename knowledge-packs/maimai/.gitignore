@@ -1,5 +1,0 @@
-__pycache__/
-.pytest_cache/
-dist/
-.staging-*/
-!.env.knowledge.example
