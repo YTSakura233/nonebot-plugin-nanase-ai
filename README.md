@@ -4,7 +4,9 @@
 
 由 [astrbot_plugin_soruto_ai](https://github.com/sbga-fake/maimaibots/tree/6bf9ad2335d81c416950798a89c52c3d32f81651/soruto/astrbot_plugin_soruto_ai) 移植而来，机器人名称为「ナナセ」。运行时不依赖 AstrBot，也不依赖其他舞萌插件。
 
-**当前版本：0.1.4。** 仓库采用可直接克隆的本地插件结构，根目录就是插件代码；Python 模块名与配置前缀保留为 `nonebot_plugin_soruto_ai`、`SORUTO_`。
+**当前版本：0.1.5。** 仓库采用可直接克隆的本地插件结构，根目录就是插件代码；Python 模块名与配置前缀保留为 `nonebot_plugin_soruto_ai`、`SORUTO_`。
+
+0.1.5 修复普通群聊审核提示词未明确包含 `JSON`，导致 DeepSeek JSON 模式请求可能返回 HTTP 400、已有回复被 `review_suppressed` 过滤的问题。保留合宜性和重复审核，审核请求失败时仍保持沉默；更新后重启即可，无需修改 `.env`、数据库或依赖。
 
 0.1.4 调整了普通群聊接话规则：简短共鸣、鼓励和相关玩笑本身也有交流价值，不要求先被 @、命中知识库或提供新事实。保留选择性接话、重复过滤及不打断一对一对话的规则；不设置随机回复概率。模型返回日志新增沉默阶段标记，依赖版本要求保持不变。
 
@@ -454,6 +456,8 @@ python -m pip check
 
 调用失败仍记录为 `调用失败(None)`。这些标记不包含聊天正文或模型的内部推理，也不代表具体话题的拒答原因。
 
+若 `context=model_decision HTTP 400` 后紧跟 `review_suppressed`，先确认已经更新到 0.1.5 并重启。该版本修正闲聊审核提示词缺少 `JSON` 关键词的问题：[DeepSeek JSON 模式](https://api-docs.deepseek.com/guides/json_mode/)要求在开启 `json_object` 时，提示中同时明确包含 `json` 及所需格式示例。其他请求格式问题也可能产生 HTTP 400，不能仅凭状态码认定同一原因。
+
 ### 文字收到了，仍然出现 HTTPStatusError
 
 一次回答可能包含策略、正式回答、摘要或工具等多个请求，正文发送成功不代表其他请求均成功。0.1.3 的日志会保留 HTTP 状态码、已知请求类别、模型用途和插件源码位置，结合这些字段定位失败环节。
@@ -478,6 +482,6 @@ SORUTO_ENABLE_HELP_ALIAS=false
 
 人格提示词、禁词及部分会话/好感度设计源自 [maimaibots 的 AstrBot 插件](https://github.com/sbga-fake/maimaibots/tree/6bf9ad2335d81c416950798a89c52c3d32f81651/soruto/astrbot_plugin_soruto_ai)，基准提交为 `6bf9ad2335d81c416950798a89c52c3d32f81651`。感谢原作者的工作。原目录未附单独许可证，本仓库不另行声明上游内容的授权条款。
 
-本插件重新实现了 NoneBot/QQ 接入、数据库初始化、DeepSeek 调用、MCP、Skills 和知识库适配。0.1.4 通过 130 项离线回归及 57 项子测试，包含真实 MCP SDK 本地 stdio 和 NoneBot 加载检查；此前也验证过直接克隆到插件目录后的加载和资源读取。不代表已对所有 QQ 客户端、生产数据库或付费 API 完成实机验收。群聊发言效果仍需部署后结合真实语境观察。
+本插件重新实现了 NoneBot/QQ 接入、数据库初始化、DeepSeek 调用、MCP、Skills 和知识库适配。0.1.5 通过 134 项离线回归及 57 项子测试，包含审核实际请求格式、真实 MCP SDK 本地 stdio 和 NoneBot 加载检查；此前也验证过直接克隆到插件目录后的加载和资源读取。不代表已对所有 QQ 客户端、生产数据库或付费 API 完成实机验收。群聊发言效果仍需部署后结合真实语境观察。
 
 本仓库保留部署所需插件文件与 README，未包含开发测试工程、打包工程、API 凭据或预制知识资料。

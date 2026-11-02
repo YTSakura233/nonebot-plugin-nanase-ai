@@ -11,7 +11,7 @@ from .config import Config
 from .core import access, commands, config, db, decision, knowledge, llm, schema, tools, transport
 from .core.util import logger, report_exception
 
-__version__ = '0.1.4'
+__version__ = '0.1.5'
 __plugin_meta__ = PluginMetadata(
     name='ナナセ AI', description='人格、好感度、三层记忆、主动闲聊、DeepSeek 与受限工具循环',
     usage='/ai help', type='application', config=Config, supported_adapters={'~onebot.v11'},
