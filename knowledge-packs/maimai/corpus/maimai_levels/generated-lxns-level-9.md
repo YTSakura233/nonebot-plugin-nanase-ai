@@ -1,0 +1,159 @@
+# 等级 9 的常规谱面索引
+
+国服社区快照 2026-11-01；分组依据落雪显示等级，不含宴会场。
+每行保留曲名、类型、难度和来源；两源等级不同已标明。disabled/未配信不代表可游玩。
+
+- 等级9｜腐れ外道とチョコレゐト｜ピノキオP｜standard ADVANCED｜落雪ID 109｜社区定数 9｜国服NET显示8。
+- 等级9｜Like the Wind [Reborn]｜sampling masters MEGA「パワードリフト」｜standard ADVANCED｜落雪ID 112｜社区定数 9｜国服NET显示8。
+- 等级9｜＊ハロー、プラネット。｜sasakure.UK｜dx EXPERT｜落雪ID 185｜社区定数 9｜国服NET显示9。
+- 等级9｜KONNANじゃないっ！｜澤村 遥「龍が如く５ 夢、叶えし者」｜standard EXPERT｜落雪ID 213｜社区定数 9｜国服NET显示8。
+- 等级9｜Garakuta Doll Play｜t+pazolite｜standard ADVANCED｜落雪ID 227｜社区定数 9｜国服NET显示8。
+- 等级9｜火炎地獄｜山根ミチル｜standard ADVANCED｜落雪ID 235｜社区定数 9｜国服NET显示8。
+- 等级9｜Jack-the-Ripper◆｜sasakure.UK｜standard ADVANCED｜落雪ID 324｜社区定数 9｜国服NET显示8。
+- 等级9｜shake it!｜emon｜standard EXPERT｜落雪ID 353｜社区定数 9｜国服NET显示8。
+- 等级9｜色は匂へど散りぬるを｜幽閉サテライト(Produce:嵯峨飛鳥 Arranged:Iceon)｜dx EXPERT｜落雪ID 535｜社区定数 9｜国服NET显示9。
+- 等级9｜Justified｜MintJam feat.光吉猛修｜standard ADVANCED｜落雪ID 642｜社区定数 9｜国服NET显示8。
+- 等级9｜人里に下ったアタイがいつの間にか社畜になっていた件｜ねこみりん + nora2r feat. 小宮真央｜standard ADVANCED｜落雪ID 658｜社区定数 9｜国服NET显示8。
+- 等级9｜Moon of Noon｜Sampling Masters MEGA｜standard ADVANCED｜落雪ID 664｜社区定数 9｜国服NET显示8。
+- 等级9｜Credits｜Frums｜standard ADVANCED｜落雪ID 689｜社区定数 9｜国服NET显示8。
+- 等级9｜Good Bye, Mr. Jack｜sasakure.UK｜standard ADVANCED｜落雪ID 836｜社区定数 9｜国服NET显示8。
+- 等级9｜前前前世｜RADWIMPS｜standard EXPERT｜落雪ID 853｜社区定数 9｜国服NET显示9。
+- 等级9｜Blows Up Everything｜USAO｜dx ADVANCED｜落雪ID 1023｜社区定数 9｜国服NET显示9。
+- 等级9｜CocktaiL｜XYZ｜dx EXPERT｜落雪ID 1067｜社区定数 9｜国服NET显示9。
+- 等级9｜渦状銀河のシンフォニエッタ｜山本真央樹｜standard ADVANCED｜落雪ID 1103｜社区定数 9｜国服NET显示9。
+- 等级9｜popcorn｜happy machine｜dx EXPERT｜落雪ID 1111｜社区定数 9｜国服NET显示9。
+- 等级9｜Witches night｜Liz Triangle｜dx EXPERT｜落雪ID 1137｜社区定数 9｜国服NET显示9。
+- 等级9｜ベノム｜かいりきベア feat.flower｜dx EXPERT｜落雪ID 1194｜社区定数 9｜国服NET显示9。
+- 等级9｜アスノヨゾラ哨戒班｜Orangestar feat.IA｜dx EXPERT｜落雪ID 1198｜社区定数 9｜国服NET显示9。
+- 等级9｜絡繰りドール｜SOUND HOLIC feat. Nana Takahashi｜dx EXPERT｜落雪ID 1201｜社区定数 9｜国服NET显示9。
+- 等级9｜自傷無色｜ササノマリイ / 初音ミク / 25時、ナイトコードで。「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」｜dx EXPERT｜落雪ID 1218｜社区定数 9｜国服NET显示9。
+- 等级9｜≠彡"/了→｜水野健治｜dx ADVANCED｜落雪ID 1221｜社区定数 9｜国服NET显示9。
+- 等级9｜Heavenly Blast｜xi｜dx ADVANCED｜落雪ID 1223｜社区定数 9｜国服NET显示9。
+- 等级9｜タケモトピアノCMソング｜タケモトピアノCM｜dx EXPERT｜落雪ID 1255｜社区定数 9｜国服NET显示9。
+- 等级9｜雨とペトラ｜バルーン｜dx EXPERT｜落雪ID 1261｜社区定数 9｜国服NET显示9。
+- 等级9｜アルティメットセンパイ｜ピノキオピー｜dx EXPERT｜落雪ID 1274｜社区定数 9｜国服NET显示9。
+- 等级9｜U&iVERSE -銀河鸞翔-｜Kai VS 大国奏音 VS 水野健治｜dx ADVANCED｜落雪ID 1300｜社区定数 9｜国服NET显示9。
+- 等级9｜Lia=Fail｜Team Grimoire｜dx ADVANCED｜落雪ID 1364｜社区定数 9｜国服NET显示9。
+- 等级9｜若い力｜作詞：セガ社員、作曲：若草恵、歌：135｜dx EXPERT｜落雪ID 1444｜社区定数 9｜国服NET显示9。
+- 等级9｜ただ選択があった｜フロクロ｜dx EXPERT｜落雪ID 1448｜社区定数 9｜国服NET显示9。
+- 等级9｜Don't Fight The Music｜黒魔｜dx ADVANCED｜落雪ID 1472｜社区定数 9｜国服NET显示9。
+- 等级9｜EYE｜Kanaria｜dx EXPERT｜落雪ID 1487｜社区定数 9｜国服NET显示9。
+- 等级9｜アイム・マイヒーロー｜Ino(chronoize) feat. 柳瀬マサキ｜dx EXPERT｜落雪ID 1508｜社区定数 9｜国服NET显示9。
+- 等级9｜ViRTUS｜Hiro｜dx ADVANCED｜落雪ID 1523｜社区定数 9｜国服NET显示9。
+- 等级9｜ヱデン｜koyori（電ポルP）｜dx EXPERT｜落雪ID 1532｜社区定数 9｜国服NET显示9。
+- 等级9｜地球｜立秋 feat.ちょこ｜dx ADVANCED｜落雪ID 1546｜社区定数 9｜国服NET显示9。
+- 等级9｜Shooting Shower～DANCE TIME(シンディ)～｜Sammy Sound Team｜dx EXPERT｜落雪ID 1570｜社区定数 9｜国服NET显示9。
+- 等级9｜1000年生きてる｜いよわ｜dx EXPERT｜落雪ID 1630｜社区定数 9｜国服NET显示9。
+- 等级9｜ℝ∈Χ LUNATiCA｜Kai｜dx ADVANCED｜落雪ID 1685｜社区定数 9｜国服NET显示9。
+- 等级9｜ouroboros -twin stroke of the end-｜Cranky VS MASAKI｜dx ADVANCED｜落雪ID 1707｜社区定数 9｜国服NET显示9。
+- 等级9｜Re:Unknown X｜まらしぃ｜dx ADVANCED｜落雪ID 1720｜社区定数 9｜国服NET显示9。
+- 等级9｜雨露霜雪｜かねこちはる vs t+pazolite｜dx ADVANCED｜落雪ID 1752｜社区定数 9｜国服NET显示9。
+- 等级9｜ゆりかご｜歌：可不／作詞・作曲：MIMI｜dx EXPERT｜落雪ID 1833｜社区定数 9｜国服NET显示9。
+- 等级9｜ももいろの鍵｜いよわ｜dx EXPERT｜落雪ID 1839｜社区定数 9｜国服NET显示9。
+- 等级9｜美しく燃える森｜東京スカパラダイスオーケストラ [cover]｜standard EXPERT｜落雪ID 53｜社区定数 9.1｜国服NET显示8。
+- 等级9｜Urban Crusher [Remix]｜「BORDER BREAK」｜standard ADVANCED｜落雪ID 83｜社区定数 9.1｜国服NET显示8。
+- 等级9｜おちゃめ機能｜ゴジマジP｜standard EXPERT｜落雪ID 101｜社区定数 9.1｜国服NET显示8。
+- 等级9｜デコボコ体操第二｜光吉猛修＆体操隊｜standard EXPERT｜落雪ID 120｜社区定数 9.1｜国服NET显示8。
+- 等级9｜Feel My Fire｜発熱巫女～ず｜standard ADVANCED｜落雪ID 135｜社区定数 9.1｜国服NET显示8。
+- 等级9｜System “Z”｜Jimmy Weckl｜standard ADVANCED｜落雪ID 239｜社区定数 9.1｜国服NET显示8。
+- 等级9｜キズナの物語｜Trefle「チェインクロニクル」｜standard EXPERT｜落雪ID 330｜社区定数 9.1｜国服NET显示8。
+- 等级9｜Hyper Active｜HiTECH NINJA｜standard ADVANCED｜落雪ID 495｜社区定数 9.1｜国服NET显示8。
+- 等级9｜We Gonna Journey｜Queen P.A.L.｜standard ADVANCED｜落雪ID 771｜社区定数 9.1｜国服NET显示8。
+- 等级9｜STARTLINER｜曲：kz(livetune)／歌：オンゲキシューターズ｜dx EXPERT｜落雪ID 1010｜社区定数 9.1｜国服NET显示9。
+- 等级9｜Crush On You｜福山光晴「Crackin’DJ」｜standard EXPERT｜落雪ID 23｜社区定数 9.2｜国服NET显示8。
+- 等级9｜記憶、記録｜LOPIT(SEGA)｜standard ADVANCED｜落雪ID 219｜社区定数 9.2｜国服NET显示8。
+- 等级9｜Blew Moon｜t+pazolite｜standard ADVANCED｜落雪ID 226｜社区定数 9.2｜国服NET显示8。
+- 等级9｜ダンスロボットダンス｜ナユタン星人｜dx EXPERT｜落雪ID 690｜社区定数 9.2｜国服NET显示9。
+- 等级9｜シャルル｜バルーン｜dx EXPERT｜落雪ID 706｜社区定数 9.2｜国服NET显示8+。
+- 等级9｜奏者はただ背中と提琴で語るのみ｜月鈴那知(CV:今村彩夏)｜standard ADVANCED｜落雪ID 823｜社区定数 9.2｜国服NET显示8。
+- 等级9｜アマツキツネ｜まらしぃ｜dx EXPERT｜落雪ID 1061｜社区定数 9.2｜国服NET显示9。
+- 等级9｜だれかの心臓になれたなら｜ユリイ・カノン feat.GUMI｜dx EXPERT｜落雪ID 1086｜社区定数 9.2｜国服NET显示9。
+- 等级9｜Dive into The Sky ～initialized～｜A-One｜dx EXPERT｜落雪ID 1205｜社区定数 9.2｜国服NET显示9。
+- 等级9｜永遠にゲームで対戦したいキリタン｜GYARI｜dx EXPERT｜落雪ID 1262｜社区定数 9.2｜国服NET显示9。
+- 等级9｜ヴィラン｜flower・てにをは｜dx EXPERT｜落雪ID 1486｜社区定数 9.2｜国服NET显示9。
+- 等级9｜シックスプラン｜針原翼（はりーP）feat. はく｜dx EXPERT｜落雪ID 1622｜社区定数 9.2｜国服NET显示9。
+- 等级9｜愛包ダンスホール｜HIMEHINA｜dx EXPERT｜落雪ID 1765｜社区定数 9.2｜国服NET显示9。
+- 等级9｜帝国少女｜R Sound Design｜dx EXPERT｜落雪ID 1866｜社区定数 9.2｜未配信；未匹配NET快照。
+- 等级9｜Sweets×Sweets｜Team-D｜standard EXPERT｜落雪ID 25｜社区定数 9.3｜国服NET显示8。
+- 等级9｜jelly｜capsule [cover]｜standard EXPERT｜落雪ID 42｜社区定数 9.3｜国服NET显示8。
+- 等级9｜ルカルカ★ナイトフィーバー｜samfree｜standard EXPERT｜落雪ID 46｜社区定数 9.3｜国服NET显示8。
+- 等级9｜Beat Of Mind｜Hiro「Crackin’DJ」｜standard ADVANCED｜落雪ID 61｜社区定数 9.3｜国服NET显示8。
+- 等级9｜ZIGG-ZAGG｜Junky｜standard EXPERT｜落雪ID 65｜社区定数 9.3｜国服NET显示8。
+- 等级9｜Fragrance｜Tsukasa(Arte Refact)｜standard ADVANCED｜落雪ID 143｜社区定数 9.3｜国服NET显示8。
+- 等级9｜39｜sasakure.UK x DECO*27｜dx EXPERT｜落雪ID 146｜社区定数 9.3｜国服NET显示9。
+- 等级9｜maimaiちゃんのテーマ｜YMCK｜standard EXPERT｜落雪ID 159｜社区定数 9.3｜国服NET显示8。
+- 等级9｜awake｜下田麻美「Shining・Force CROSS ELYSION」｜standard EXPERT｜落雪ID 214｜社区定数 9.3｜国服NET显示8。
+- 等级9｜神々の祈り｜舞風-MAIKAZE/沙紗飛鳥｜standard EXPERT｜落雪ID 309｜社区定数 9.3｜国服NET显示8。
+- 等级9｜幸せになれる隠しコマンドがあるらしい｜うたたP｜standard ADVANCED｜落雪ID 432｜社区定数 9.3｜国服NET显示8。
+- 等级9｜CITRUS MONSTER｜D-Cee｜standard ADVANCED｜落雪ID 494｜社区定数 9.3｜国服NET显示8。
+- 等级9｜Prophesy One｜vox2（小野秀幸）｜standard ADVANCED｜落雪ID 531｜社区定数 9.3｜国服NET显示8。
+- 等级9｜夜明けまであと３秒｜BNSI（Taku Inoue）「シンクロニカ」より｜standard ADVANCED｜落雪ID 556｜社区定数 9.3｜国服NET显示8。
+- 等级9｜HERA｜ルゼ｜standard ADVANCED｜落雪ID 567｜社区定数 9.3｜国服NET显示8。
+- 等级9｜ねぇ、壊れタ人形ハ何処へ棄テらレるノ？｜cosMo＠暴走P｜standard ADVANCED｜落雪ID 581｜社区定数 9.3｜国服NET显示8。
+- 等级9｜Maxi｜Nizikawa｜standard ADVANCED｜落雪ID 625｜社区定数 9.3｜国服NET显示8。
+- 等级9｜Calamity Fortune｜LeaF｜standard ADVANCED｜落雪ID 641｜社区定数 9.3｜国服NET显示8。
+- 等级9｜Mare Maris｜M2U｜standard ADVANCED｜落雪ID 705｜社区定数 9.3｜国服NET显示8。
+- 等级9｜Tic Tac DREAMIN’｜天王洲 なずな(CV:山本 彩乃)｜standard EXPERT｜落雪ID 722｜社区定数 9.3｜国服NET显示8。
+- 等级9｜larva｜ガリガリさむし｜standard ADVANCED｜落雪ID 746｜社区定数 9.3｜国服NET显示8。
+- 等级9｜Ragnarok｜sky_delta｜standard ADVANCED｜落雪ID 760｜社区定数 9.3｜国服NET显示8。
+- 等级9｜Scarlet Lance｜MASAKI（ZUNTATA）「グルーヴコースター3EXドリームパーティー」より｜standard ADVANCED｜落雪ID 797｜社区定数 9.3｜国服NET显示8。
+- 等级9｜雷切-RAIKIRI-｜kanone｜standard ADVANCED｜落雪ID 825｜社区定数 9.3｜国服NET显示8。
+- 等级9｜End Time｜Cres.｜standard ADVANCED｜落雪ID 844｜社区定数 9.3｜国服NET显示8。
+- 等级9｜Kattobi KEIKYU Rider｜Sampling Masters MEGA｜standard ADVANCED｜落雪ID 849｜社区定数 9.3｜国服NET显示8。
+- 等级9｜Crazy Circle｜みきとP feat. FantasticYouth｜dx EXPERT｜落雪ID 1008｜社区定数 9.3｜国服NET显示9。
+- 等级9｜だからパンを焼いたんだ｜あわのあゆむ｜dx EXPERT｜落雪ID 1070｜社区定数 9.3｜国服NET显示9。
+- 等级9｜39みゅーじっく！｜みきとP｜dx EXPERT｜落雪ID 1088｜社区定数 9.3｜国服NET显示9。
+- 等级9｜檄！帝国華撃団(改)｜「サクラ大戦」｜standard EXPERT｜落雪ID 62｜社区定数 9.4｜国服NET显示8。
+- 等级9｜メランコリック｜Junky｜standard EXPERT｜落雪ID 63｜社区定数 9.4｜国服NET显示8。
+- 等级9｜I ♥｜Junky｜standard EXPERT｜落雪ID 184｜社区定数 9.4｜国服NET显示8。
+- 等级9｜六兆年と一夜物語｜kemu｜dx EXPERT｜落雪ID 288｜社区定数 9.4｜国服NET显示9。
+- 等级9｜みくみくにしてあげる♪【してやんよ】｜ika｜standard EXPERT｜落雪ID 289｜社区定数 9.4｜国服NET显示8。
+- 等级9｜ハロ／ハワユ｜ナノウ｜standard EXPERT｜落雪ID 291｜社区定数 9.4｜国服NET显示8。
+- 等级9｜Caliburne ～Story of the Legendary sword～｜Project Grimoire｜standard ADVANCED｜落雪ID 379｜社区定数 9.4｜国服NET显示8。
+- 等级9｜東京リアルワールド｜out of service｜standard EXPERT｜落雪ID 517｜社区定数 9.4｜国服NET显示8。
+- 等级9｜月に叢雲華に風｜幽閉サテライト(Produce:嵯峨飛鳥 Arranged:Iceon)｜dx EXPERT｜落雪ID 536｜社区定数 9.4｜国服NET显示9。
+- 等级9｜チルノのパーフェクトさんすう教室　⑨周年バージョン｜IOSYSと愉快な⑨周年フレンズ｜dx EXPERT｜落雪ID 665｜社区定数 9.4｜国服NET显示9。
+- 等级9｜にじよめちゃん体操第一億｜にじよめちゃんとZIPたん｜standard EXPERT｜落雪ID 776｜社区定数 9.4｜国服NET显示8。
+- 等级9｜HOT LIMIT｜T.M.Revolution [covered by 光吉猛修]｜dx EXPERT｜落雪ID 1037｜社区定数 9.4｜国服NET显示9。
+- 等级9｜UTAKATA｜曲：ゆよゆっぺ／歌：九條 楓(CV：佳村 はるか)｜dx EXPERT｜落雪ID 1108｜社区定数 9.4｜国服NET显示9。
+- 等级9｜Prismatic｜CielArc｜dx EXPERT｜落雪ID 1219｜社区定数 9.4｜国服NET显示9。
+- 等级9｜Future｜★STAR GUiTAR [cover]｜standard EXPERT｜落雪ID 17｜社区定数 9.5｜国服NET显示8。
+- 等级9｜Love or Lies｜capsule [cover]｜standard EXPERT｜落雪ID 27｜社区定数 9.5｜国服NET显示8。
+- 等级9｜ネコ日和。｜Kai/能登有沙｜dx EXPERT｜落雪ID 30｜社区定数 9.5｜国服NET显示9。
+- 等级9｜ハッピーシンセサイザ｜EasyPop｜dx EXPERT｜落雪ID 44｜社区定数 9.5｜国服NET显示9。
+- 等级9｜魔理沙は大変なものを盗んでいきました｜ARM＋夕野ヨシミ(IOSYS)feat. 藤咲かりん｜standard EXPERT｜落雪ID 201｜社区定数 9.5｜国服NET显示8。
+- 等级9｜Grip & Break down !!｜SOUND HOLIC feat. Nana Takahashi｜dx EXPERT｜落雪ID 202｜社区定数 9.5｜国服NET显示9。
+- 等级9｜深海少女｜ゆうゆ｜dx EXPERT｜落雪ID 315｜社区定数 9.5｜国服NET显示9。
+- 等级9｜電車で電車でGO!GO!GO!GC! -GMT remix-｜COSIO(ZUNTATA/TAITO)/沢城千春「電車でGO!」｜standard EXPERT｜落雪ID 343｜社区定数 9.5｜国服NET显示8。
+- 等级9｜Contrapasso -paradiso-｜t+pazolite｜standard ADVANCED｜落雪ID 431｜社区定数 9.5｜国服NET显示8+。
+- 等级9｜フォルテシモBELL｜天王洲 なずな(CV:山本 彩乃)｜standard EXPERT｜落雪ID 546｜社区定数 9.5｜国服NET显示8。
+- 等级9｜Panopticon｜cybermiso｜standard ADVANCED｜落雪ID 589｜社区定数 9.5｜国服NET显示8+。
+- 等级9｜猛進ソリストライフ！｜月鈴 那知(CV:今村 彩夏)｜standard ADVANCED｜落雪ID 649｜社区定数 9.5｜国服NET显示8+。
+- 等级9｜麒麟｜sasakure.UK｜standard ADVANCED｜落雪ID 688｜社区定数 9.5｜国服NET显示9。
+- 等级9｜FREEDOM DiVE (tpz Overcute Remix)｜t+pazolite｜standard ADVANCED｜落雪ID 772｜社区定数 9.5｜国服NET显示8+。
+- 等级9｜極圏｜cosMo VS dj TAKA「SOUND VOLTEX」より｜standard ADVANCED｜落雪ID 796｜社区定数 9.5｜国服NET显示8+。
+- 等级9｜FFT｜cybermiso｜standard ADVANCED｜落雪ID 820｜社区定数 9.5｜国服NET显示8+。
+- 等级9｜STEREOSCAPE｜164 feat. めいちゃん｜dx EXPERT｜落雪ID 1009｜社区定数 9.5｜国服NET显示9。
+- 等级9｜METEOR｜DIVELA feat.初音ミク｜dx EXPERT｜落雪ID 1034｜社区定数 9.5｜国服NET显示9。
+- 等级9｜Jump!! Jump!! Jump!!｜曲：宮崎誠／歌：オンゲキシューターズ｜dx EXPERT｜落雪ID 1080｜社区定数 9.5｜国服NET显示9。
+- 等级9｜wheel｜Syrufit + HDLV｜dx EXPERT｜落雪ID 1139｜社区定数 9.5｜国服NET显示9。
+- 等级9｜Paranoia｜DiGiTAL WiNG feat. 花たん｜dx EXPERT｜落雪ID 1200｜社区定数 9.5｜国服NET显示9。
+- 等级9｜オーケー？　オーライ！｜五十嵐 撫子(CV:花井 美春)｜dx EXPERT｜落雪ID 1239｜社区定数 9.5｜国服NET显示9。
+- 等级9｜MEGATON BLAST｜BlackY vs. Yooh｜dx ADVANCED｜落雪ID 1248｜社区定数 9.5｜国服NET显示9。
+- 等级9｜猫猫的宇宙論｜ナユタン星人｜dx EXPERT｜落雪ID 1268｜社区定数 9.5｜国服NET显示9。
+- 等级9｜リモコン｜じーざす（ワンダフル☆オポチュニティ！）｜dx EXPERT｜落雪ID 1360｜社区定数 9.5｜国服NET显示9。
+- 等级9｜響け！CHIREI MY WAY!｜森羅万象｜dx EXPERT｜落雪ID 1362｜社区定数 9.5｜国服NET显示9。
+- 等级9｜スカーレット警察のゲットーパトロール24時｜七条レタスグループ｜dx EXPERT｜落雪ID 1488｜社区定数 9.5｜国服NET显示9。
+- 等级9｜群青讃歌｜Eve / 初音ミク、星乃一歌、花里みのり、小豆沢こはね、天馬司、宵崎奏「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」｜dx EXPERT｜落雪ID 1492｜社区定数 9.5｜国服NET显示9。
+- 等级9｜『んっあっあっ。』｜SLAVE.V-V-R｜dx EXPERT｜落雪ID 1519｜社区定数 9.5｜国服NET显示9。
+- 等级9｜魔法少女とチョコレゐト｜ピノキオピー｜dx EXPERT｜落雪ID 1559｜社区定数 9.5｜国服NET显示9。
+- 等级9｜魂のルフラン｜高橋洋子 [covered by 光吉猛修]｜dx EXPERT｜落雪ID 1569｜社区定数 9.5｜国服NET显示9。
+- 等级9｜ド屑｜なきそ｜dx EXPERT｜落雪ID 1601｜社区定数 9.5｜国服NET显示9。
+- 等级9｜ツギハギスタッカート｜とあ｜dx EXPERT｜落雪ID 1655｜社区定数 9.5｜国服NET显示9。
+- 等级9｜プリズム△▽リズム｜Shoichiro Hirata feat.Sana｜standard EXPERT｜落雪ID 1736｜社区定数 9.5｜未匹配NET快照。
+- 等级9｜唱｜Ado｜dx EXPERT｜落雪ID 1764｜社区定数 9.5｜国服NET显示9。
+- 等级9｜On your mark (104期 Ver.)｜蓮ノ空女学院スクールアイドルクラブ｜dx EXPERT｜落雪ID 1791｜社区定数 9.5｜国服NET显示9。
+- 等级9｜ワールドワイドワンダー｜TOKOTOKO（西沢さんP）｜dx EXPERT｜落雪ID 1802｜社区定数 9.5｜国服NET显示9。
+- 等级9｜Åntinomiε｜ああ…翡翠茶漬け…｜dx ADVANCED｜落雪ID 1809｜社区定数 9.5｜国服NET显示9。
+- 等级9｜好きな惣菜発表ドラゴン｜ンバヂ｜dx EXPERT｜落雪ID 1852｜社区定数 9.5｜国服NET显示9。
+- 等级9｜MIRA｜Kanaria｜dx EXPERT｜落雪ID 1856｜社区定数 9.5｜未配信；未匹配NET快照。

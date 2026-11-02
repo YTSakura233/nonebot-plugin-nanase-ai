@@ -1,0 +1,65 @@
+# 国服NET快照显示等级 14+ 索引
+
+来源：CrazyKidCN国服NET社区快照；快照采集 2026-11-01。
+本表按国服NET观察等级分组，不使用落雪等级代替；不含宴会场。
+
+- 国服NET等级14+｜BATTLE NO.1｜TANO*C Sound Team｜dx MASTER｜关联落雪ID [1206]｜版本 舞萌DX 2021。
+- 国服NET等级14+｜In Chaos｜Hiro「Crackin’DJ」｜standard Re:MASTER｜关联落雪ID [22]｜版本 maimai。
+- 国服NET等级14+｜Valsqotch｜owl＊tree feat.chi＊tree｜dx MASTER｜关联落雪ID [1106]｜版本 舞萌DX。
+- 国服NET等级14+｜TEmPTaTiON｜かねこちはる｜dx MASTER｜关联落雪ID [1026]｜版本 舞萌DX。
+- 国服NET等级14+｜SILENT BLUE｜かねこちはる｜standard MASTER｜关联落雪ID [773]｜版本 MiLK PLUS。
+- 国服NET等级14+｜雷切-RAIKIRI-｜kanone｜standard Re:MASTER｜关联落雪ID [825]｜版本 FiNALE。
+- 国服NET等级14+｜larva｜ガリガリさむし｜standard MASTER｜关联落雪ID [746]｜版本 MiLK PLUS。
+- 国服NET等级14+｜Excalibur ～Revived resolution～｜Project Grimoire｜standard MASTER｜关联落雪ID [643]｜版本 MiLK。
+- 国服NET等级14+｜Alea jacta est!｜BlackY fused with WAiKURO｜standard Re:MASTER｜关联落雪ID [812]｜版本 FiNALE。
+- 国服NET等级14+｜AMAZING MIGHTYYYY!!!!｜WAiKURO｜standard MASTER｜关联落雪ID [496]｜版本 PiNK PLUS。
+- 国服NET等级14+｜PANDORA PARADOXXX｜削除｜standard MASTER｜关联落雪ID [834]｜版本 FiNALE。
+- 国服NET等级14+｜the EmpErroR｜sasakure.UK｜standard MASTER｜关联落雪ID [833]｜版本 FiNALE。
+- 国服NET等级14+｜the EmpErroR｜sasakure.UK｜standard Re:MASTER｜关联落雪ID [833]｜版本 FiNALE。
+- 国服NET等级14+｜ガラテアの螺旋｜sasakure.UK｜standard Re:MASTER｜关联落雪ID [365]｜版本 ORANGE PLUS。
+- 国服NET等级14+｜QZKago Requiem｜t+pazolite｜standard MASTER｜关联落雪ID [799]｜版本 FiNALE。
+- 国服NET等级14+｜QZKago Requiem｜t+pazolite｜standard Re:MASTER｜关联落雪ID [799]｜版本 FiNALE。
+- 国服NET等级14+｜Our Wrenally｜t+pazolite｜standard MASTER｜关联落雪ID [571]｜版本 MURASAKi。
+- 国服NET等级14+｜Garakuta Doll Play｜t+pazolite｜standard Re:MASTER｜关联落雪ID [227]｜版本 GreeN。
+- 国服NET等级14+｜Glorious Crown｜xi｜standard MASTER｜关联落雪ID [456]｜版本 PiNK。
+- 国服NET等级14+｜Schwarzschild｜Tsukasa｜standard Re:MASTER｜关联落雪ID [803]｜版本 FiNALE。
+- 国服NET等级14+｜ジングルベル｜SEGA Sound Unit [H.]｜dx MASTER｜关联落雪ID [70]｜版本 舞萌DX 2023。
+- 国服NET等级14+｜怒槌｜光吉猛修｜standard MASTER｜关联落雪ID [779]｜版本 MiLK PLUS。
+- 国服NET等级14+｜封焔の135秒｜大国奏音｜dx MASTER｜关联落雪ID [1102]｜版本 舞萌DX 2021。
+- 国服NET等级14+｜BREaK! BREaK! BREaK!｜HiTECH NINJA vs Cranky｜dx MASTER｜关联落雪ID [1222]｜版本 舞萌DX 2021。
+- 国服NET等级14+｜Regulus｜お月さま交響曲｜dx MASTER｜关联落雪ID [1165]｜版本 舞萌DX 2021。
+- 国服NET等级14+｜Heavenly Blast｜xi｜dx MASTER｜关联落雪ID [1223]｜版本 舞萌DX 2022。
+- 国服NET等级14+｜VIIIbit Explorer｜Lime｜dx MASTER｜关联落雪ID [1235]｜版本 舞萌DX 2023。
+- 国服NET等级14+｜Lia=Fail｜Team Grimoire｜dx MASTER｜关联落雪ID [1364]｜版本 舞萌DX 2022。
+- 国服NET等级14+｜GIGANTØMAKHIA｜BlackYooh vs. siromaru｜dx MASTER｜关联落雪ID [1374]｜版本 舞萌DX 2022。
+- 国服NET等级14+｜躯樹の墓守｜隣の庭は青い(庭師+Aoi)｜dx MASTER｜关联落雪ID [1311]｜版本 舞萌DX 2022。
+- 国服NET等级14+｜sølips｜rintaro soma｜dx MASTER｜关联落雪ID [1379]｜版本 舞萌DX 2023。
+- 国服NET等级14+｜WiPE OUT MEMORIES｜t+pazolite｜dx MASTER｜关联落雪ID [1391]｜版本 舞萌DX 2023。
+- 国服NET等级14+｜Sage｜かめりあ｜dx MASTER｜关联落雪ID [1389]｜版本 舞萌DX 2023。
+- 国服NET等级14+｜World's end loneliness｜打打だいず｜dx MASTER｜关联落雪ID [1394]｜版本 舞萌DX 2023。
+- 国服NET等级14+｜mystique as iris｜かねこちはる｜dx MASTER｜关联落雪ID [1457]｜版本 舞萌DX 2023。
+- 国服NET等级14+｜ViRTUS｜Hiro｜dx MASTER｜关联落雪ID [1523]｜版本 舞萌DX 2023。
+- 国服NET等级14+｜康莊大道｜Spiegel vs Yukino｜dx MASTER｜关联落雪ID [1470]｜版本 舞萌DX 2023。
+- 国服NET等级14+｜VeRForTe αRtE:VEiN｜orangentle｜dx MASTER｜关联落雪ID [1530]｜版本 舞萌DX 2024。
+- 国服NET等级14+｜VERTeX (rintaro soma deconstructed remix)｜Hiro／rintaro soma｜dx MASTER｜关联落雪ID [1544]｜版本 舞萌DX 2024。
+- 国服NET等级14+｜超熊猫的周遊記（ワンダーパンダートラベラー）｜FANTAGIRAFF｜dx MASTER｜关联落雪ID [1548]｜版本 舞萌DX 2024。
+- 国服NET等级14+｜系ぎて｜rintaro soma｜dx MASTER｜关联落雪ID [1663]｜版本 舞萌DX 2024。
+- 国服NET等级14+｜Latent Kingdom｜Laur vs 大国奏音｜dx MASTER｜关联落雪ID [1612]｜版本 舞萌DX 2024。
+- 国服NET等级14+｜LAMIA｜BlackY｜dx MASTER｜关联落雪ID [1554]｜版本 舞萌DX 2024。
+- 国服NET等级14+｜KHYMΞXΛ｜のらねこさい feat.ricono｜dx MASTER｜关联落雪ID [1619]｜版本 舞萌DX 2024。
+- 国服NET等级14+｜raputa｜sasakure.UK × TJ.hangneil｜dx MASTER｜关联落雪ID [1662]｜版本 舞萌DX 2024。
+- 国服NET等级14+｜Apollo｜TJ.hangneil｜dx MASTER｜关联落雪ID [1661]｜版本 舞萌DX 2024。
+- 国服NET等级14+｜Straight into the lights｜Cosmograph｜dx MASTER｜关联落雪ID [1537]｜版本 舞萌DX 2024。
+- 国服NET等级14+｜Re:Unknown X｜まらしぃ｜dx MASTER｜关联落雪ID [1720]｜版本 舞萌DX 2025。
+- 国服NET等级14+｜Λzure Vixen｜かめりあ｜dx MASTER｜关联落雪ID [1686]｜版本 舞萌DX 2025。
+- 国服NET等级14+｜Divide et impera!｜BlackY a.k.a. WAiKURO survive｜dx MASTER｜关联落雪ID [1746]｜版本 舞萌DX 2025。
+- 国服NET等级14+｜ℝ∈Χ LUNATiCA｜Kai｜dx MASTER｜关联落雪ID [1685]｜版本 舞萌DX 2025。
+- 国服NET等级14+｜Cryptarithm｜削除｜dx MASTER｜关联落雪ID [1741]｜版本 舞萌DX 2025。
+- 国服NET等级14+｜零號車輛｜seatrus｜dx MASTER｜关联落雪ID [1946]｜版本 舞萌DX 2025。
+- 国服NET等级14+｜雨露霜雪｜かねこちはる vs t+pazolite｜dx MASTER｜关联落雪ID [1752]｜版本 舞萌DX 2025。
+- 国服NET等级14+｜IF:U｜MisoilePunch♪｜dx MASTER｜关联落雪ID [1673]｜版本 舞萌DX 2025。
+- 国服NET等级14+｜氷滅の135小節｜大国奏音｜dx MASTER｜关联落雪ID [1745]｜版本 舞萌DX 2025。
+- 国服NET等级14+｜宙天｜t+pazolite vs かねこちはる｜dx MASTER｜关联落雪ID [1753]｜版本 舞萌DX 2025。
+- 国服NET等级14+｜Åntinomiε｜ああ…翡翠茶漬け…｜dx MASTER｜关联落雪ID [1809]｜版本 舞萌DX 2026。
+- 国服NET等级14+｜FLΛME/FRΦST｜FANTAGIRAFF｜dx MASTER｜关联落雪ID [1814]｜版本 舞萌DX 2026。
+- 国服NET等级14+｜魔法仕掛けのファンタジア｜igel｜dx MASTER｜关联落雪ID [2025]｜版本 舞萌DX 2026。

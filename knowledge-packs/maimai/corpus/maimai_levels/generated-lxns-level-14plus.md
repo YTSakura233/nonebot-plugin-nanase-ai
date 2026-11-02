@@ -1,0 +1,84 @@
+# 等级 14+ 的常规谱面索引
+
+国服社区快照 2026-11-01；分组依据落雪显示等级，不含宴会场。
+每行保留曲名、类型、难度和来源；两源等级不同已标明。disabled/未配信不代表可游玩。
+
+- 等级14+｜源平大戦絵巻テーマソング｜新小田夢童 ＆ キラ★ロッソ｜standard Re:MASTER｜落雪ID 47｜社区定数 14.6｜未匹配NET快照。
+- 等级14+｜ジングルベル｜SEGA Sound Unit [H.]｜dx MASTER｜落雪ID 70｜社区定数 14.6｜国服NET显示14+。
+- 等级14+｜Fragrance｜Tsukasa(Arte Refact)｜standard Re:MASTER｜落雪ID 143｜社区定数 14.6｜国服NET显示14。
+- 等级14+｜ガラテアの螺旋｜sasakure.UK｜standard MASTER｜落雪ID 365｜社区定数 14.6｜国服NET显示14。
+- 等级14+｜Prophesy One｜vox2（小野秀幸）｜standard MASTER｜落雪ID 531｜社区定数 14.6｜国服NET显示14。
+- 等级14+｜Credits｜Frums｜standard MASTER｜落雪ID 689｜社区定数 14.6｜国服NET显示14。
+- 等级14+｜雷切-RAIKIRI-｜kanone｜standard MASTER｜落雪ID 825｜社区定数 14.6｜国服NET显示14。
+- 等级14+｜TiamaT:F minor｜Team Grimoire｜standard MASTER｜落雪ID 852｜社区定数 14.6｜国服NET显示14。
+- 等级14+｜Titania｜xi｜dx MASTER｜落雪ID 1029｜社区定数 14.6｜国服NET显示14。
+- 等级14+｜渦状銀河のシンフォニエッタ｜山本真央樹｜dx MASTER｜落雪ID 1103｜社区定数 14.6｜国服NET显示14。
+- 等级14+｜BREaK! BREaK! BREaK!｜HiTECH NINJA vs Cranky｜dx MASTER｜落雪ID 1222｜社区定数 14.6｜国服NET显示14+。
+- 等级14+｜AMABIE｜OSTER project｜dx MASTER｜落雪ID 1238｜社区定数 14.6｜国服NET显示14。
+- 等级14+｜脳天直撃｜黒沢ダイスケ VS 穴山大輔｜dx MASTER｜落雪ID 1295｜社区定数 14.6｜国服NET显示14。
+- 等级14+｜BLACK SWAN｜ぺのれり｜dx MASTER｜落雪ID 1302｜社区定数 14.6｜国服NET显示14。
+- 等级14+｜Yorugao｜An & Ryunosuke Kudo｜dx MASTER｜落雪ID 1307｜社区定数 14.6｜国服NET显示14。
+- 等级14+｜mystique as iris｜かねこちはる｜dx MASTER｜落雪ID 1457｜社区定数 14.6｜国服NET显示14+。
+- 等级14+｜ViRTUS｜Hiro｜dx MASTER｜落雪ID 1523｜社区定数 14.6｜国服NET显示14+。
+- 等级14+｜VERTeX (rintaro soma deconstructed remix)｜Hiro／rintaro soma｜dx MASTER｜落雪ID 1544｜社区定数 14.6｜国服NET显示14+。
+- 等级14+｜超熊猫的周遊記（ワンダーパンダートラベラー）｜FANTAGIRAFF｜dx MASTER｜落雪ID 1548｜社区定数 14.6｜国服NET显示14+。
+- 等级14+｜神威｜TJ.hangneil｜dx MASTER｜落雪ID 1646｜社区定数 14.6｜国服NET显示14。
+- 等级14+｜IF:U｜MisoilePunch♪｜dx MASTER｜落雪ID 1673｜社区定数 14.6｜国服NET显示14+。
+- 等级14+｜Λzure Vixen｜かめりあ｜dx MASTER｜落雪ID 1686｜社区定数 14.6｜国服NET显示14+。
+- 等级14+｜Åntinomiε｜ああ…翡翠茶漬け…｜dx MASTER｜落雪ID 1809｜社区定数 14.6｜国服NET显示14+。
+- 等级14+｜零號車輛｜seatrus｜dx MASTER｜落雪ID 1946｜社区定数 14.6｜国服NET显示14+。
+- 等级14+｜ガラテアの螺旋｜sasakure.UK｜standard Re:MASTER｜落雪ID 365｜社区定数 14.7｜国服NET显示14+。
+- 等级14+｜VERTeX｜Hiro「maimai」より｜standard MASTER｜落雪ID 384｜社区定数 14.7｜国服NET显示14。
+- 等级14+｜AMAZING MIGHTYYYY!!!!｜WAiKURO｜standard MASTER｜落雪ID 496｜社区定数 14.7｜国服NET显示14+。
+- 等级14+｜End Time｜Cres.｜standard MASTER｜落雪ID 844｜社区定数 14.7｜国服NET显示14。
+- 等级14+｜TEmPTaTiON｜かねこちはる｜dx MASTER｜落雪ID 1026｜社区定数 14.7｜国服NET显示14+。
+- 等级14+｜Valsqotch｜owl＊tree feat.chi＊tree｜dx MASTER｜落雪ID 1106｜社区定数 14.7｜国服NET显示14+。
+- 等级14+｜Regulus｜お月さま交響曲｜dx MASTER｜落雪ID 1165｜社区定数 14.7｜国服NET显示14+。
+- 等级14+｜VIIIbit Explorer｜Lime｜dx MASTER｜落雪ID 1235｜社区定数 14.7｜国服NET显示14+。
+- 等级14+｜Lia=Fail｜Team Grimoire｜dx MASTER｜落雪ID 1364｜社区定数 14.7｜国服NET显示14+。
+- 等级14+｜GIGANTØMAKHIA｜BlackYooh vs. siromaru｜dx MASTER｜落雪ID 1374｜社区定数 14.7｜国服NET显示14+。
+- 等级14+｜Metamorphosism｜削除｜dx MASTER｜落雪ID 1392｜社区定数 14.7｜国服NET显示14。
+- 等级14+｜康莊大道｜Spiegel vs Yukino｜dx MASTER｜落雪ID 1470｜社区定数 14.7｜国服NET显示14+。
+- 等级14+｜LAMIA｜BlackY｜dx MASTER｜落雪ID 1554｜社区定数 14.7｜国服NET显示14+。
+- 等级14+｜KHYMΞXΛ｜のらねこさい feat.ricono｜dx MASTER｜落雪ID 1619｜社区定数 14.7｜国服NET显示14+。
+- 等级14+｜Apollo｜TJ.hangneil｜dx MASTER｜落雪ID 1661｜社区定数 14.7｜国服NET显示14+。
+- 等级14+｜系ぎて｜rintaro soma｜dx MASTER｜落雪ID 1663｜社区定数 14.7｜国服NET显示14+。
+- 等级14+｜Re:Unknown X｜まらしぃ｜dx MASTER｜落雪ID 1720｜社区定数 14.7｜国服NET显示14+。
+- 等级14+｜Cryptarithm｜削除｜dx MASTER｜落雪ID 1741｜社区定数 14.7｜国服NET显示14+。
+- 等级14+｜雨露霜雪｜かねこちはる vs t+pazolite｜dx MASTER｜落雪ID 1752｜社区定数 14.7｜国服NET显示14+。
+- 等级14+｜ATLAS RUSH｜kanone｜dx MASTER｜落雪ID 1810｜社区定数 14.7｜未匹配NET快照。
+- 等级14+｜In Chaos｜Hiro「Crackin’DJ」｜standard Re:MASTER｜落雪ID 22｜社区定数 14.8｜国服NET显示14+。
+- 等级14+｜Garakuta Doll Play｜t+pazolite｜standard Re:MASTER｜落雪ID 227｜社区定数 14.8｜国服NET显示14+。
+- 等级14+｜Glorious Crown｜xi｜standard MASTER｜落雪ID 456｜社区定数 14.8｜国服NET显示14+。
+- 等级14+｜Our Wrenally｜t+pazolite｜standard MASTER｜落雪ID 571｜社区定数 14.8｜国服NET显示14+。
+- 等级14+｜Excalibur ～Revived resolution～｜Project Grimoire｜standard MASTER｜落雪ID 643｜社区定数 14.8｜国服NET显示14+。
+- 等级14+｜larva｜ガリガリさむし｜standard MASTER｜落雪ID 746｜社区定数 14.8｜国服NET显示14+。
+- 等级14+｜SILENT BLUE｜かねこちはる｜standard MASTER｜落雪ID 773｜社区定数 14.8｜国服NET显示14+。
+- 等级14+｜怒槌｜光吉猛修｜standard MASTER｜落雪ID 779｜社区定数 14.8｜国服NET显示14+。
+- 等级14+｜QZKago Requiem｜t+pazolite｜standard MASTER｜落雪ID 799｜社区定数 14.8｜国服NET显示14+。
+- 等级14+｜Alea jacta est!｜BlackY fused with WAiKURO｜standard Re:MASTER｜落雪ID 812｜社区定数 14.8｜国服NET显示14+。
+- 等级14+｜雷切-RAIKIRI-｜kanone｜standard Re:MASTER｜落雪ID 825｜社区定数 14.8｜国服NET显示14+。
+- 等级14+｜the EmpErroR｜sasakure.UK｜standard MASTER｜落雪ID 833｜社区定数 14.8｜国服NET显示14+。
+- 等级14+｜封焔の135秒｜大国奏音｜dx MASTER｜落雪ID 1102｜社区定数 14.8｜国服NET显示14+。
+- 等级14+｜Heavenly Blast｜xi｜dx MASTER｜落雪ID 1223｜社区定数 14.8｜国服NET显示14+。
+- 等级14+｜チューリングの跡｜Frums｜dx MASTER｜落雪ID 1388｜社区定数 14.8｜国服NET显示14。
+- 等级14+｜WiPE OUT MEMORIES｜t+pazolite｜dx MASTER｜落雪ID 1391｜社区定数 14.8｜国服NET显示14+。
+- 等级14+｜VeRForTe αRtE:VEiN｜orangentle｜dx MASTER｜落雪ID 1530｜社区定数 14.8｜国服NET显示14+。
+- 等级14+｜Straight into the lights｜Cosmograph｜dx MASTER｜落雪ID 1537｜社区定数 14.8｜国服NET显示14+。
+- 等级14+｜ℝ∈Χ LUNATiCA｜Kai｜dx MASTER｜落雪ID 1685｜社区定数 14.8｜国服NET显示14+。
+- 等级14+｜氷滅の135小節｜大国奏音｜dx MASTER｜落雪ID 1745｜社区定数 14.8｜国服NET显示14+。
+- 等级14+｜Divide et impera!｜BlackY a.k.a. WAiKURO survive｜dx MASTER｜落雪ID 1746｜社区定数 14.8｜国服NET显示14+。
+- 等级14+｜FLΛME/FRΦST｜FANTAGIRAFF｜dx MASTER｜落雪ID 1814｜社区定数 14.8｜国服NET显示14+。
+- 等级14+｜魔法仕掛けのファンタジア｜igel｜dx MASTER｜落雪ID 2025｜社区定数 14.8｜国服NET显示14+。
+- 等级14+｜QZKago Requiem｜t+pazolite｜standard Re:MASTER｜落雪ID 799｜社区定数 14.9｜国服NET显示14+。
+- 等级14+｜Schwarzschild｜Tsukasa｜standard Re:MASTER｜落雪ID 803｜社区定数 14.9｜国服NET显示14+。
+- 等级14+｜the EmpErroR｜sasakure.UK｜standard Re:MASTER｜落雪ID 833｜社区定数 14.9｜国服NET显示14+。
+- 等级14+｜PANDORA PARADOXXX｜削除｜standard MASTER｜落雪ID 834｜社区定数 14.9｜国服NET显示14+。
+- 等级14+｜躯樹の墓守｜隣の庭は青い(庭師+Aoi)｜dx MASTER｜落雪ID 1311｜社区定数 14.9｜国服NET显示14+。
+- 等级14+｜sølips｜rintaro soma｜dx MASTER｜落雪ID 1379｜社区定数 14.9｜国服NET显示14+。
+- 等级14+｜World's end loneliness｜打打だいず｜dx MASTER｜落雪ID 1394｜社区定数 14.9｜国服NET显示14+。
+- 等级14+｜Latent Kingdom｜Laur vs 大国奏音｜dx MASTER｜落雪ID 1612｜社区定数 14.9｜国服NET显示14+。
+- 等级14+｜raputa｜sasakure.UK × TJ.hangneil｜dx MASTER｜落雪ID 1662｜社区定数 14.9｜国服NET显示14+。
+- 等级14+｜宙天｜t+pazolite vs かねこちはる｜dx MASTER｜落雪ID 1753｜社区定数 14.9｜国服NET显示14+。
+- 等级14+｜World's end BLACKBOX｜打打だいず｜dx MASTER｜落雪ID 1818｜社区定数 14.9｜未匹配NET快照。
+- 等级14+｜Xaleid◆scopiX｜xi｜dx MASTER｜落雪ID 1820｜社区定数 14.9｜未匹配NET快照。

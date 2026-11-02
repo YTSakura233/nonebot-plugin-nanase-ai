@@ -1,0 +1,5 @@
+* text=auto eol=lf
+# Preserve the byte hashes of the independently validated knowledge snapshot.
+knowledge-packs/maimai/data/** -text
+knowledge-packs/maimai/corpus/** -text
+knowledge-packs/maimai/manifest.json -text

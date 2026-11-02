@@ -1,0 +1,376 @@
+# 等级 13+ 的常规谱面索引
+
+国服社区快照 2026-11-01；分组依据落雪显示等级，不含宴会场。
+每行保留曲名、类型、难度和来源；两源等级不同已标明。disabled/未配信不代表可游玩。
+
+- 等级13+｜おちゃめ機能｜ゴジマジP｜standard MASTER｜落雪ID 101｜社区定数 13.6｜国服NET显示12+。
+- 等级13+｜Space Harrier Main Theme [Reborn]｜佐野 信義「スペースハリアー」｜standard MASTER｜落雪ID 114｜社区定数 13.6｜国服NET显示13。
+- 等级13+｜記憶、記録｜LOPIT(SEGA)｜standard MASTER｜落雪ID 219｜社区定数 13.6｜国服NET显示13。
+- 等级13+｜ロストワンの号哭｜Neru｜standard MASTER｜落雪ID 299｜社区定数 13.6｜国服NET显示13。
+- 等级13+｜リッジでリッジでGO!GO!GO! -GMT mashup-｜Hiro(SEGA)「RIDGE RACER」「電車でGO!」｜standard MASTER｜落雪ID 345｜社区定数 13.6｜国服NET显示12+。
+- 等级13+｜Oshama Scramble!｜t+pazolite｜dx MASTER｜落雪ID 363｜社区定数 13.6｜国服NET显示13。
+- 等级13+｜ありふれたせかいせいふく｜ピノキオピー｜standard MASTER｜落雪ID 448｜社区定数 13.6｜国服NET显示13。
+- 等级13+｜FEEL the BEATS｜A-One｜standard MASTER｜落雪ID 463｜社区定数 13.6｜国服NET显示13。
+- 等级13+｜AMAZING MIGHTYYYY!!!!｜WAiKURO｜standard EXPERT｜落雪ID 496｜社区定数 13.6｜国服NET显示13。
+- 等级13+｜木彫り鯰と右肩ゾンビ｜hanzo/赤飯歌唱Ver｜standard MASTER｜落雪ID 520｜社区定数 13.6｜国服NET显示12+。
+- 等级13+｜Calamity Fortune｜LeaF｜dx MASTER｜落雪ID 641｜社区定数 13.6｜国服NET显示12+。
+- 等级13+｜ドーナツホール｜ハチ｜standard MASTER｜落雪ID 670｜社区定数 13.6｜国服NET显示13+。
+- 等级13+｜ナンセンス文学｜Eve｜standard MASTER｜落雪ID 720｜社区定数 13.6｜国服NET显示13。
+- 等级13+｜進捗どうですか？｜sumijun(Halozy) feat. ななひら(Confetto)｜standard MASTER｜落雪ID 767｜社区定数 13.6｜国服NET显示13。
+- 等级13+｜-OutsideR:RequieM-｜箱部なる(CV:M・A・O)｜standard MASTER｜落雪ID 821｜社区定数 13.6｜国服NET显示13。
+- 等级13+｜バーチャルダム　ネーション｜Sampling Masters MEGA｜dx MASTER｜落雪ID 1005｜社区定数 13.6｜国服NET显示13。
+- 等级13+｜Jörqer｜owl＊tree feat.yu＊tree｜dx MASTER｜落雪ID 1214｜社区定数 13.6｜国服NET显示13。
+- 等级13+｜Irresistible｜MK｜dx MASTER｜落雪ID 1383｜社区定数 13.6｜国服NET显示13+。
+- 等级13+｜OTOGEMA｜ビートまりお｜dx MASTER｜落雪ID 1390｜社区定数 13.6｜国服NET显示13+。
+- 等级13+｜モンダイナイトリッパー！｜名取さな｜dx MASTER｜落雪ID 1498｜社区定数 13.6｜国服NET显示13+。
+- 等级13+｜リフヴェイン｜青栗鼠 feat.sekai｜dx MASTER｜落雪ID 1539｜社区定数 13.6｜国服NET显示13+。
+- 等级13+｜宵の鳥｜n.k feat.影縫英｜dx MASTER｜落雪ID 1541｜社区定数 13.6｜国服NET显示13+。
+- 等级13+｜コンティニュー！ feat. 藍月なくる｜lapix｜dx MASTER｜落雪ID 1584｜社区定数 13.6｜国服NET显示13+。
+- 等级13+｜トンデモワンダーズ｜sasakure.UK｜dx MASTER｜落雪ID 1645｜社区定数 13.6｜国服NET显示13。
+- 等级13+｜HANIPAGANDA｜暁Records｜dx MASTER｜落雪ID 1656｜社区定数 13.6｜国服NET显示13。
+- 等级13+｜エスオーエス｜カロンズベカラズ｜dx MASTER｜落雪ID 1669｜社区定数 13.6｜国服NET显示13+。
+- 等级13+｜新人類｜まらしぃ×じん×堀江晶太(kemu) feat.鏡音リン｜dx MASTER｜落雪ID 1699｜社区定数 13.6｜国服NET显示13+。
+- 等级13+｜DUAL ROZES｜SOUND HOLIC Vs. Eurobeat Union feat. Nana Takahashi｜dx MASTER｜落雪ID 1704｜社区定数 13.6｜国服NET显示13+。
+- 等级13+｜バカ通信｜isonosuke｜dx MASTER｜落雪ID 1716｜社区定数 13.6｜国服NET显示13+。
+- 等级13+｜BOOM! BOOM!! BOOM!!!｜P*Light｜dx MASTER｜落雪ID 1723｜社区定数 13.6｜国服NET显示13+。
+- 等级13+｜Everybody Say HARDCORE TANO*C｜DJ Noriken｜dx MASTER｜落雪ID 1724｜社区定数 13.6｜国服NET显示13。
+- 等级13+｜Trust｜Massive New Krew feat. 光吉猛修｜dx MASTER｜落雪ID 1726｜社区定数 13.6｜国服NET显示13+。
+- 等级13+｜地獄｜164 feat.ELISA・小林太郎｜dx MASTER｜落雪ID 1747｜社区定数 13.6｜国服NET显示13+。
+- 等级13+｜Drivessover｜Taishi｜dx MASTER｜落雪ID 1829｜社区定数 13.6｜国服NET显示13+。
+- 等级13+｜ホラフキパペット｜七次元生徒会！｜dx MASTER｜落雪ID 1869｜社区定数 13.6｜国服NET显示13+。
+- 等级13+｜Crush On You｜福山光晴「Crackin’DJ」｜standard Re:MASTER｜落雪ID 23｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜ネコ日和。｜Kai/能登有沙｜dx MASTER｜落雪ID 30｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜JACKY [Remix]｜「バーチャファイター」｜standard MASTER｜落雪ID 85｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜腐れ外道とチョコレゐト｜ピノキオP｜standard MASTER｜落雪ID 109｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜炎歌 -ほむらうた-｜Hiro/森山愛子｜standard MASTER｜落雪ID 117｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜FEEL ALIVE｜ELEMENTAS feat. NAGISA｜standard MASTER｜落雪ID 130｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜Turn around｜Clean Tears｜standard MASTER｜落雪ID 132｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜We Gonna Party｜Cranky｜standard MASTER｜落雪ID 133｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜Streak｜ARM(IOSYS)｜standard MASTER｜落雪ID 136｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜air's gravity｜zts｜standard Re:MASTER｜落雪ID 144｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜DO RORO DERODERO ON DO RORO｜怒髪天「百鬼大戦絵巻」｜standard MASTER｜落雪ID 154｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜Life Feels Good｜Cranky｜standard MASTER｜落雪ID 232｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜Danza zandA｜福山光晴｜standard Re:MASTER｜落雪ID 247｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜みんなのマイマイマー｜ビートまりお(COOL＆CREATE)+ ARM(IOSYS)｜standard MASTER｜落雪ID 252｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜みんなのマイマイマー｜ビートまりお(COOL＆CREATE)+ ARM(IOSYS)｜standard Re:MASTER｜落雪ID 252｜社区定数 13.7｜未匹配NET快照。
+- 等级13+｜LUCIA｜SHIKI｜standard Re:MASTER｜落雪ID 260｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜BREAK YOU!!｜A-One｜standard MASTER｜落雪ID 262｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜L'épilogue｜SOUND HOLIC feat. Nana Takahashi｜standard MASTER｜落雪ID 264｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜ネトゲ廃人シュプレヒコール｜さつき が てんこもり｜standard MASTER｜落雪ID 283｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜magician's operation｜EZFG｜standard MASTER｜落雪ID 285｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜緋色のDance｜岸田教団＆THE明星ロケッツ｜standard Re:MASTER｜落雪ID 295｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜患部で止まってすぐ溶ける～狂気の優曇華院｜ARM＋夕野ヨシミ(IOSYS)feat. miko｜standard MASTER｜落雪ID 301｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜Back 2 Back｜長沼英樹「ソニック ラッシュ」｜standard MASTER｜落雪ID 308｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜コトバ・カラフル｜うたよめ575＜正岡小豆(大坪由佳)小林抹茶(大橋彩香)＞｜standard MASTER｜落雪ID 326｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜オパ! オパ! RACER -GMT mashup-｜COSIO(ZUNTATA/TAITO)「ファンタジーゾーン」「RIDGE RACER」｜standard MASTER｜落雪ID 346｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜ピーマンたべたら｜カタオカツグミ｜standard MASTER｜落雪ID 349｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜oboro｜ヒゲドライバー｜dx MASTER｜落雪ID 366｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜oboro｜ヒゲドライバー｜standard MASTER｜落雪ID 366｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜Dragoon｜Shandy kubota｜dx MASTER｜落雪ID 367｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜L9｜paraoka｜standard MASTER｜落雪ID 376｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜planet dancer｜樽木栄一郎｜standard Re:MASTER｜落雪ID 378｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜どうしてこうなった｜うどんゲルゲ｜standard MASTER｜落雪ID 380｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜赤心性：カマトト荒療治｜スズム｜standard MASTER｜落雪ID 401｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜After Burner｜東京アクティブNEETs｜standard MASTER｜落雪ID 454｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜無敵We are one!!｜イロドリミドリ「CHUNITHM」｜standard MASTER｜落雪ID 461｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜Party 4U ”holy nite mix”｜Cranky｜standard MASTER｜落雪ID 482｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜エテルニタス・ルドロジー｜IRON ATTACK!｜standard MASTER｜落雪ID 539｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜STAIRWAY TO GENERATION｜Yosh(Survive Said The Prophet)｜standard MASTER｜落雪ID 558｜社区定数 13.7｜国服NET显示12+。
+- 等级13+｜空威張りビヘイビア｜un:c・ろん×じーざすP｜standard MASTER｜落雪ID 559｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜いっしそう電☆舞舞神拳！｜さつき が てんこもり feat. YURiCa/花たん｜standard MASTER｜落雪ID 561｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜すーぱーぬこになりたい｜まふまふ｜standard MASTER｜落雪ID 598｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜夢花火｜豚乙女｜standard MASTER｜落雪ID 614｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜光線チューニング｜ナユタン星人｜standard MASTER｜落雪ID 628｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜Limit Break｜DiGiTAL WiNG｜standard Re:MASTER｜落雪ID 629｜社区定数 13.7｜未匹配NET快照。
+- 等级13+｜猛進ソリストライフ！｜月鈴 那知(CV:今村 彩夏)｜standard MASTER｜落雪ID 649｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜オーディエンスを沸かす程度の能力 feat.タイツォン｜D.watt(IOSYS)＋らっぷびと｜standard MASTER｜落雪ID 657｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜天狗の落とし文 feat. ｙｔｒ｜魂音泉｜dx MASTER｜落雪ID 699｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜疾走あんさんぶる｜ビートまりお（COOL&CREATE）｜standard MASTER｜落雪ID 700｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜REVIVER オルタンシア・サーガ -蒼の騎士団- オリジナルVer.｜MY FIRST STORY｜standard MASTER｜落雪ID 710｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜進め！イッスン軍団 -Rebellion of the Dwarfs-｜dawn-system｜standard MASTER｜落雪ID 739｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜インビジブル｜kemu｜standard Re:MASTER｜落雪ID 741｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜なるとなぎのパーフェクトロックンロール教室｜イロドリミドリ「CHUNITHM」｜standard MASTER｜落雪ID 769｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜Altale｜削除｜standard MASTER｜落雪ID 837｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜最終鬼畜妹フランドール・S｜ビートまりお（COOL&CREATE）｜standard Re:MASTER｜落雪ID 838｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜終点｜cosMo@暴走P｜standard MASTER｜落雪ID 841｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜Kattobi KEIKYU Rider｜Sampling Masters MEGA｜standard MASTER｜落雪ID 849｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜魔ジョ狩リ｜Nothing But Requiem (feat.Aikapin & Chiyoko)｜dx MASTER｜落雪ID 1021｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜TwisteD! XD｜t+pazolite｜dx MASTER｜落雪ID 1022｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜CHOCOLATE BOMB!!!!｜YUC'e｜dx MASTER｜落雪ID 1032｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜My My My｜C-Show｜dx MASTER｜落雪ID 1092｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜シエルブルーマルシェ｜OSTER project feat. かなたん｜dx Re:MASTER｜落雪ID 1100｜社区定数 13.7｜未匹配NET快照。
+- 等级13+｜アトロポスと最果の探究者｜しーけー｜dx MASTER｜落雪ID 1143｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜Komplexe｜雄之助 feat. Sennzai｜dx MASTER｜落雪ID 1158｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜Beautiful Future｜PSYQUI｜dx MASTER｜落雪ID 1159｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜レーイレーイ｜かいりきベア feat.松下｜dx Re:MASTER｜落雪ID 1177｜社区定数 13.7｜未匹配NET快照。
+- 等级13+｜マネマネサイコトロピック｜かいりきベア feat.GUMI｜dx MASTER｜落雪ID 1195｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜Sweet Requiem｜REDALiCE & aran｜dx MASTER｜落雪ID 1204｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜カラッポ・ノンフィクション｜Ino(chronoize) feat. 柳瀬マサキ｜dx MASTER｜落雪ID 1211｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜emomomo｜Ras｜dx MASTER｜落雪ID 1212｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜生命不詳｜蜂屋ななし｜dx MASTER｜落雪ID 1231｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜Never Give Up!｜nanobii｜dx Re:MASTER｜落雪ID 1232｜社区定数 13.7｜未匹配NET快照。
+- 等级13+｜BOUNCE & DANCE｜IOSYS TRAX｜dx MASTER｜落雪ID 1246｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜MAKE IT FUNKY NOW｜DOT96｜dx MASTER｜落雪ID 1285｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜ヒミツCULT｜t+pazolite｜dx MASTER｜落雪ID 1291｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜LOSE CONTROL｜Massive New Krew｜dx MASTER｜落雪ID 1293｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜とびだせ！TO THE COSMIC!!｜t+pazolite feat. しゃま(CV:種﨑 敦美) & みるく(CV:伊藤 あすか)｜dx MASTER｜落雪ID 1296｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜ヨミビトシラズ｜Limonène (サノカモメ+月島春果)｜dx MASTER｜落雪ID 1308｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜sølips｜rintaro soma｜dx EXPERT｜落雪ID 1379｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜星空パーティーチューン｜OSTER project feat. そらこ｜dx MASTER｜落雪ID 1387｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜See The Light｜anubasu-anubasu｜dx MASTER｜落雪ID 1404｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜enchanted love｜linear ring｜dx MASTER｜落雪ID 1418｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜遺伝子レベル∞スパイラル｜NAOKI feat.小坂りゆ｜dx MASTER｜落雪ID 1445｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜[X]｜Blacklolita｜dx MASTER｜落雪ID 1455｜社区定数 13.7｜国服NET显示14。
+- 等级13+｜分解収束テイル｜un:c・konoco×cosMo＠暴走P｜dx MASTER｜落雪ID 1456｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜You Mean the World to Me｜Mameyudoufu feat. Shully｜dx MASTER｜落雪ID 1459｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜Random｜Sobrem × Silentroom｜dx MASTER｜落雪ID 1490｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜Baddest｜樋口楓｜dx MASTER｜落雪ID 1503｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜きゅうくらりん｜いよわ｜dx MASTER｜落雪ID 1512｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜Alice's Suitcase｜Endorfin.｜dx MASTER｜落雪ID 1524｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜にゃーにゃー冒険譚｜黒魔｜dx MASTER｜落雪ID 1533｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜モ°ルモ°ル (MZK Skippin' Remix)｜sasakure.UK／水野健治｜dx MASTER｜落雪ID 1543｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜おとせサンダー｜ぼっちぼろまる｜dx Re:MASTER｜落雪ID 1561｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜リスペク風神｜ビートまりおとまろん｜dx MASTER｜落雪ID 1564｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜Halfway(＞∀＜)｜Blacklolita｜dx MASTER｜落雪ID 1587｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜『ウソテイ』 ～一回戦せりなvsしろなvsなずな～｜イロドリミドリ「CHUNITHM」｜dx MASTER｜落雪ID 1604｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜MAGENTA POTION｜EmoCosine｜dx MASTER｜落雪ID 1607｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜my flow｜crayvxn｜dx MASTER｜落雪ID 1616｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜ふらふらふら、｜アオワイファイ feat.犀羅｜dx MASTER｜落雪ID 1621｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜IMAWANOKIWA｜いよわ｜dx MASTER｜落雪ID 1631｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜月面基地｜sasakure.UK｜dx MASTER｜落雪ID 1648｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜raputa｜sasakure.UK × TJ.hangneil｜dx EXPERT｜落雪ID 1662｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜PinqPiq (xovevox Remix)｜owl＊tree Remixed by sasakure.UK｜dx MASTER｜落雪ID 1668｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜Beginning together!｜高瀬一矢 feat. R.I.N.A｜dx MASTER｜落雪ID 1679｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜Geranium｜Osanzi feat.藍月なくる｜dx MASTER｜落雪ID 1682｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜最っ高のエンタメだ!!｜曲：本田正樹(Dream Monster)／歌：7EVENDAYS⇔HOLIDAYS [井之原 小星(CV：ももの はるな)、柏木 咲姫(CV：石見 舞菜香)]｜dx MASTER｜落雪ID 1689｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜New York Back Raise｜saaa + kei_iwata + stuv + わかどり｜dx MASTER｜落雪ID 1702｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜サイバーサンダーサイダー｜EZFG｜dx MASTER｜落雪ID 1710｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜MUSIC PЯAYER｜A-One｜dx MASTER｜落雪ID 1733｜社区定数 13.7｜国服NET显示13。
+- 等级13+｜壱雫空｜MyGO!!!!!｜dx MASTER｜落雪ID 1734｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜果ての空、僕らが見た光。｜TAKU1175 ft.駄々子｜dx MASTER｜落雪ID 1740｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜Resolution｜曲：ANCHOR／歌：皇城 セツナ(CV：八巻 アンナ)｜dx MASTER｜落雪ID 1756｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜Radiance｜Nhato｜dx MASTER｜落雪ID 1758｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜Ultimate taste｜ぱらどっと｜dx MASTER｜落雪ID 1770｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜人マニア｜原口沙輔 feat.重音テト｜dx MASTER｜落雪ID 1772｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜ゆけむり魂温泉 II｜魂音泉｜dx MASTER｜落雪ID 1776｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜プラネタリウム・レヴュー｜千寿 暦(CV.鳥部万里子)、ラモーナ・ウォルフ(CV.田中美海)、王 雪(CV.花井美春)、リリヤ・クルトベイ(CV.安齋由香里)、与那国緋花里(CV.下地紫野)｜dx Re:MASTER｜落雪ID 1779｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜snooze｜wotaku feat.SHIKI｜dx MASTER｜落雪ID 1783｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜Empire of Winter｜Street｜dx MASTER｜落雪ID 1786｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜迷える音色は恋の唄｜からとP⍺ոchii少年 feat.はるの｜dx MASTER｜落雪ID 1787｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜バベル｜いよわ feat.重音テト｜dx MASTER｜落雪ID 1797｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜MORNINGLOOM｜saaa｜dx MASTER｜落雪ID 1803｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜Fraq｜owl＊tree feat. べんざ｜dx MASTER｜落雪ID 1806｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜概して過誤｜isonosuke feat.知声｜dx MASTER｜落雪ID 1811｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜Xaleid◆scopiX｜xi｜dx EXPERT｜落雪ID 1820｜社区定数 13.7｜未匹配NET快照。
+- 等级13+｜なんかノイズにきこえる｜HaNaMiNa feat.Hana｜dx MASTER｜落雪ID 1824｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜Lover's Trick｜litmus*｜dx MASTER｜落雪ID 1826｜社区定数 13.7｜未配信；未匹配NET快照。
+- 等级13+｜サウンドプレイヤー｜tilt-six feat.バル｜dx MASTER｜落雪ID 1827｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜月光｜歌：V.I.P／作詞・作曲：廉｜dx MASTER｜落雪ID 1834｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜M@GICAL☆CURE! LOVE ♥ SHOT!｜SAWTOWNE｜dx MASTER｜落雪ID 1847｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜うぇいびー｜三枝明那｜dx Re:MASTER｜落雪ID 1867｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜エンジェル ドリーム｜「太鼓の達人」より｜dx MASTER｜落雪ID 1919｜社区定数 13.7｜国服NET显示13+。
+- 等级13+｜DADDY MULK -Groove remix-｜Performed by SEGA Sound Unit [H.]｜standard MASTER｜落雪ID 115｜社区定数 13.8｜国服NET显示13。
+- 等级13+｜DADDY MULK -Groove remix-｜Performed by SEGA Sound Unit [H.]｜standard Re:MASTER｜落雪ID 115｜社区定数 13.8｜国服NET显示13。
+- 等级13+｜ココロスキャンのうた｜ササキトモコ「音声感情測定器ココロスキャン」｜standard MASTER｜落雪ID 209｜社区定数 13.8｜国服NET显示13。
+- 等级13+｜夜咄ディセイブ｜じん｜standard MASTER｜落雪ID 223｜社区定数 13.8｜国服NET显示13。
+- 等级13+｜Get Happy｜Jimmy Weckl｜standard MASTER｜落雪ID 238｜社区定数 13.8｜国服NET显示13。
+- 等级13+｜Beat of getting entangled｜Shoichiro Hirata｜standard MASTER｜落雪ID 240｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜Burning Hearts ～炎のANGEL～｜幡谷尚史 Arranged by SEGA Sound Unit [H.]「バーニングレンジャー」｜standard Re:MASTER｜落雪ID 255｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜Nyan Cat EX｜daniwell｜standard MASTER｜落雪ID 258｜社区定数 13.8｜国服NET显示12+。
+- 等级13+｜Death Scythe｜SHIKI｜standard MASTER｜落雪ID 261｜社区定数 13.8｜国服NET显示13。
+- 等级13+｜トルコ行進曲 - オワタ＼(^o^)／｜オワタP｜standard MASTER｜落雪ID 268｜社区定数 13.8｜国服NET显示13。
+- 等级13+｜六兆年と一夜物語｜kemu｜dx MASTER｜落雪ID 288｜社区定数 13.8｜国服NET显示12+。
+- 等级13+｜六兆年と一夜物語｜kemu｜standard MASTER｜落雪ID 288｜社区定数 13.8｜国服NET显示13。
+- 等级13+｜電車で電車でOPA!OPA!OPA! -GMT mashup-｜Yuji Masubuchi(BNGI)「電車でGO!」「ファンタジーゾーン」｜standard MASTER｜落雪ID 347｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜D✪N’T  ST✪P  R✪CKIN’｜EB(aka EarBreaker)｜standard MASTER｜落雪ID 364｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜Scars of FAUNA｜猫叉Master「jubeat」より｜standard MASTER｜落雪ID 386｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜デッドレッドガールズ｜MARUDARUMA｜standard MASTER｜落雪ID 400｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜LANCE｜Ras｜standard MASTER｜落雪ID 422｜社区定数 13.8｜国服NET显示13。
+- 等级13+｜頓珍漢の宴｜ピノキオピー｜standard MASTER｜落雪ID 451｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜Revive The Rave｜void(Mournfinale)｜standard MASTER｜落雪ID 464｜社区定数 13.8｜国服NET显示13。
+- 等级13+｜スリップフリップ｜tilt-six feat.串伊トモミ｜standard MASTER｜落雪ID 465｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜儚きもの人間｜豚乙女｜standard MASTER｜落雪ID 467｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜Infantoon Fantasy｜t+pazolite｜standard MASTER｜落雪ID 490｜社区定数 13.8｜国服NET显示13。
+- 等级13+｜高気圧ねこロック｜小野隊長とJimmy親分｜standard MASTER｜落雪ID 530｜社区定数 13.8｜国服NET显示13。
+- 等级13+｜DETARAME ROCK&ROLL THEORY｜箱部 なる(CV:M・A・O)｜standard MASTER｜落雪ID 548｜社区定数 13.8｜国服NET显示13。
+- 等级13+｜Last Brave ～ Go to zero｜MECHANiCAL PANDA「BORDER BREAK」｜standard MASTER｜落雪ID 557｜社区定数 13.8｜国服NET显示13。
+- 等级13+｜Selector｜Aliesrite* (Ym1024 feat. lamie*)｜standard MASTER｜落雪ID 574｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜吉原ラメント｜亜沙｜standard MASTER｜落雪ID 580｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜リンカーネイション｜kemu｜standard MASTER｜落雪ID 610｜社区定数 13.8｜国服NET显示12+。
+- 等级13+｜Maxi｜Nizikawa｜dx MASTER｜落雪ID 625｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜MilK｜モリモリあつし｜standard MASTER｜落雪ID 672｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜Candy Tall Woman｜naotyu- feat. 佐々木恵梨｜standard MASTER｜落雪ID 680｜社区定数 13.8｜国服NET显示13。
+- 等级13+｜人生リセットボタン｜kemu｜standard MASTER｜落雪ID 682｜社区定数 13.8｜国服NET显示13。
+- 等级13+｜Doll Judgment｜ぬるはち｜standard MASTER｜落雪ID 701｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜拝啓ドッペルゲンガー｜kemu｜standard MASTER｜落雪ID 711｜社区定数 13.8｜国服NET显示13。
+- 等级13+｜Rodeo Machine｜HALFBY｜standard MASTER｜落雪ID 753｜社区定数 13.8｜国服NET显示13。
+- 等级13+｜CYBER Sparks｜Tatsh｜standard Re:MASTER｜落雪ID 756｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜にじよめちゃん体操第一億｜にじよめちゃんとZIPたん｜standard MASTER｜落雪ID 776｜社区定数 13.8｜国服NET显示13。
+- 等级13+｜花と、雪と、ドラムンベース。｜kanone feat. せんざい｜standard Re:MASTER｜落雪ID 777｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜My First Phone｜cubesato｜standard MASTER｜落雪ID 786｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜奏者はただ背中と提琴で語るのみ｜月鈴那知(CV:今村彩夏)｜standard MASTER｜落雪ID 823｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜立ち入り禁止｜まふまふ｜standard Re:MASTER｜落雪ID 830｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜ネクロファンタジア～Arr.Demetori｜Demetori｜standard MASTER｜落雪ID 839｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜Imperishable Night 2006 (2016 Refine)｜ゆうゆ / 篠螺悠那｜standard MASTER｜落雪ID 840｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜Secret Sleuth｜島爺×蜂屋ななし｜dx Re:MASTER｜落雪ID 1002｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜MAXRAGE｜EBIMAYO｜dx MASTER｜落雪ID 1004｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜超常マイマイン｜ナユタン星人｜dx Re:MASTER｜落雪ID 1007｜社区定数 13.8｜未匹配NET快照。
+- 等级13+｜Technicians High｜HiTECH NINJA｜standard MASTER｜落雪ID 1020｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜Blows Up Everything｜USAO｜dx MASTER｜落雪ID 1023｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜管弦楽組曲 第3番 ニ長調「第2曲（G線上のアリア）」BWV.1068-2｜月鈴 那知（ヴァイオリン） 伴奏：イロドリミドリ｜dx MASTER｜落雪ID 1025｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜立川浄穢捕物帳｜青島探偵事務所器楽捜査部B担｜dx MASTER｜落雪ID 1031｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜Little "Sister" Bitch｜t+pazolite｜dx MASTER｜落雪ID 1064｜社区定数 13.8｜国服NET显示13。
+- 等级13+｜プナイプナイせんそう｜立秋 feat.ちょこ｜dx MASTER｜落雪ID 1075｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜Black Lair｜削除 feat. void (Mournfinale)｜dx MASTER｜落雪ID 1140｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜energy trixxx｜KAH｜dx MASTER｜落雪ID 1141｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜ぼくたちいつでも　しゅわっしゅわ！｜ヒゲドライバー feat.らいむっくま(CV:村川梨衣) ＆ れもんっくま(CV:MoeMi)｜dx Re:MASTER｜落雪ID 1152｜社区定数 13.8｜未匹配NET快照。
+- 等级13+｜パラボラ｜*Luna feat.NORISTRY｜dx MASTER｜落雪ID 1164｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜宛城、炎上！！｜Cranky feat.おもしろ三国志｜dx MASTER｜落雪ID 1175｜社区定数 13.8｜国服NET显示14。
+- 等级13+｜Cyaegha｜USAO｜dx MASTER｜落雪ID 1208｜社区定数 13.8｜国服NET显示13。
+- 等级13+｜c.s.q.n.｜Aoi｜dx MASTER｜落雪ID 1210｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜VANTABLACK RAVER｜DIVELA feat.桐谷こむぎ｜dx MASTER｜落雪ID 1225｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜Never Give Up!｜nanobii｜dx MASTER｜落雪ID 1232｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜単一指向性オーバーブルーム｜葛城 華(CV:丸岡 和佳奈)｜dx Re:MASTER｜落雪ID 1241｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜ハジマリノピアノ｜ゆゆうた｜dx MASTER｜落雪ID 1243｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜Big Daddy｜USAO｜dx MASTER｜落雪ID 1288｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜前衛的Landscape｜HiTECH NINJA feat. RANASOL｜dx MASTER｜落雪ID 1309｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜幻想に咲いた花｜岸田教団&THE明星ロケッツ×草野華余子「東方ダンマクカグラ」｜dx Re:MASTER｜落雪ID 1342｜社区定数 13.8｜未匹配NET快照。
+- 等级13+｜白花の天使｜Yu-dachi｜dx MASTER｜落雪ID 1393｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜Jouez Avec Moi?｜Retropolitaliens (Ms.+駄々子)｜dx MASTER｜落雪ID 1395｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜Estahv｜Feryquitous｜dx MASTER｜落雪ID 1424｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜Princess♂｜TOPHAMHAT-KYO｜dx MASTER｜落雪ID 1432｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜8-EM｜Sampling Masters AYA｜dx MASTER｜落雪ID 1443｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜エゴロック｜すりぃ｜dx MASTER｜落雪ID 1447｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜Rainbow Rush Story｜いるかアイス feat.ちょこ｜dx MASTER｜落雪ID 1453｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜Neon Kingdom｜litmus*｜dx MASTER｜落雪ID 1460｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜群青シグナル｜テヅカ feat. 獅子神レオナ｜dx MASTER｜落雪ID 1466｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜星見草｜秋田 真典｜dx MASTER｜落雪ID 1468｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜MAGNETAR GIRL｜Yu-dachi｜dx MASTER｜落雪ID 1474｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜Lost Desire｜Powerless feat. Sennzai｜dx MASTER｜落雪ID 1514｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜ピュグマリオンの咒文｜アリスシャッハと魔法の楽団｜dx MASTER｜落雪ID 1525｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜enchanted wanderer｜linear ring｜dx MASTER｜落雪ID 1527｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜ここからはじまるプロローグ。 (Kanon Remix)｜ああああ／大国奏音｜dx MASTER｜落雪ID 1542｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜Churros Parlor｜ピエロ☆マン｜dx MASTER｜落雪ID 1547｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜Last Kingdom｜USAO｜dx MASTER｜落雪ID 1553｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜Hello, Hologram｜HIMEHINA｜dx MASTER｜落雪ID 1556｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜Knight Rider｜USAO｜dx MASTER｜落雪ID 1566｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜Final Step!｜Lime｜dx MASTER｜落雪ID 1573｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜Complex Mind｜YUKIYANAGI｜dx MASTER｜落雪ID 1588｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜あつすぎの歌｜からめる｜dx MASTER｜落雪ID 1590｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜POWER OF UNITY｜Zekk｜dx MASTER｜落雪ID 1617｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜フェイクフェイス・フェイルセイフ｜カラスヤサボウ feat. もるでお｜dx MASTER｜落雪ID 1620｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜OMAKENO Stroke｜t+pazolite｜dx MASTER｜落雪ID 1633｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜バグ｜かいりきベア｜dx Re:MASTER｜落雪ID 1637｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜星界ちゃんと可不ちゃんのおつかい合騒曲｜南ノ南｜dx MASTER｜落雪ID 1638｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜DANGEROOOOUS JUNGLE｜Laur｜dx MASTER｜落雪ID 1642｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜HUMANBORG｜SARUKANI｜dx MASTER｜落雪ID 1652｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜Rush-Hour｜litmus*｜dx MASTER｜落雪ID 1657｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜系ぎて｜rintaro soma｜dx EXPERT｜落雪ID 1663｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜Lunatic Vibes｜K-forest｜dx MASTER｜落雪ID 1676｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜Baqeela｜owl＊tree｜dx MASTER｜落雪ID 1690｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜INTERNET YAMERO｜Aiobahn feat. KOTOKO｜dx Re:MASTER｜落雪ID 1692｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜偉大なる悪魔は実は大天使パトラちゃん様なのだ！｜周防パトラ｜dx MASTER｜落雪ID 1730｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜YKWTD｜r-906｜dx MASTER｜落雪ID 1738｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜天蓋｜花徒めと（Metomate）｜dx MASTER｜落雪ID 1743｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜Colorfull:Encounter｜Reku Mochizuki｜dx MASTER｜落雪ID 1751｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜ずんだパーリナイ｜なみぐる feat.ずんだもん｜dx MASTER｜落雪ID 1769｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜イガク｜原口沙輔 feat.重音テト｜dx MASTER｜落雪ID 1784｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜はげしこの夜 -Psylent Crazy Night-｜aran & Kobaryo｜dx MASTER｜落雪ID 1792｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜ウルトラトレーラー｜マサラダ｜dx MASTER｜落雪ID 1796｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜ピポピポ -People People- feat. ななひら｜Neko Hacker｜dx MASTER｜落雪ID 1800｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜How To Make 音ゲ～曲！｜F Rabbeat feat.マスタード｜dx MASTER｜落雪ID 1804｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜ウタヒメナイトストーム｜yowanecity feat.Eye｜dx MASTER｜落雪ID 1807｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜Feel The Luv｜EmoCosine｜dx MASTER｜落雪ID 1808｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜Unfinished Epic｜SLAVE.V-V-R feat.Sor△｜dx MASTER｜落雪ID 1812｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜JIGOKU STATION CENTRAL GATE｜鬱P feat.000｜dx MASTER｜落雪ID 1825｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜crazy (about you)｜kamome sano｜dx MASTER｜落雪ID 1828｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜Tidal Wave｜D-Cee｜dx MASTER｜落雪ID 1830｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜きゅびびびびずむ｜超てんちゃん｜dx MASTER｜落雪ID 1832｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜メズマライザー｜サツキ feat.初音ミク・重音テト｜dx Re:MASTER｜落雪ID 1838｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜モエチャッカファイア｜弌誠「ゲーム『ゼンレスゾーンゼロ』エレン・ジョー 同人イメージソング」｜dx MASTER｜落雪ID 1844｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜ありきたりな恋の歌｜GYARI｜dx MASTER｜落雪ID 1859｜社区定数 13.8｜未配信；未匹配NET快照。
+- 等级13+｜BlackFlagBreaker!!｜社築 × sasakure.UK｜dx MASTER｜落雪ID 1870｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜Leave All Behind｜rider｜dx MASTER｜落雪ID 1875｜社区定数 13.8｜未配信；未匹配NET快照。
+- 等级13+｜Luminescence｜米虾Fomiki & 初云CLoudie｜dx MASTER｜落雪ID 1877｜社区定数 13.8｜未配信；未匹配NET快照。
+- 等级13+｜Restricted Access｜Knighthood｜dx MASTER｜落雪ID 1944｜社区定数 13.8｜国服NET显示13+。
+- 等级13+｜Reach For The Stars｜大谷智哉, Jean Paul Makhlouf of Cash Cash「ソニック カラーズ」｜standard MASTER｜落雪ID 82｜社区定数 13.9｜国服NET显示13。
+- 等级13+｜We Gonna Party｜Cranky｜standard Re:MASTER｜落雪ID 133｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜裏表ラバーズ｜wowaka｜standard MASTER｜落雪ID 269｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜Cosmic Magic Shooter｜SOUND HOLIC feat. Nana Takahashi｜standard MASTER｜落雪ID 314｜社区定数 13.9｜国服NET显示13。
+- 等级13+｜DRAGONLADY｜Nankumo/CUBE3｜standard MASTER｜落雪ID 339｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜FLOWER｜DJ YOSHITAKA「jubeat」より｜standard MASTER｜落雪ID 389｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜初音ミクの消失｜cosMo＠暴走P｜standard MASTER｜落雪ID 411｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜LANCE｜Ras｜dx MASTER｜落雪ID 422｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜少女幻葬戦慄曲 ～ Necro Fantasia｜どぶウサギ｜standard MASTER｜落雪ID 427｜社区定数 13.9｜国服NET显示13。
+- 等级13+｜最終鬼畜妹・一部声｜ビートまりお｜standard MASTER｜落雪ID 439｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜GEMINI -M-｜Tatsh｜standard MASTER｜落雪ID 446｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜閃鋼のブリューナク｜sasakure.UK｜standard MASTER｜落雪ID 460｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜FEEL the BEATS｜A-One｜standard Re:MASTER｜落雪ID 463｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜Imitation:Loud Lounge｜Ino(chronoize)｜dx MASTER｜落雪ID 493｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜Hyper Active｜HiTECH NINJA｜standard MASTER｜落雪ID 495｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜Scream out! -maimai SONIC WASHER Edit-｜A-One｜standard MASTER｜落雪ID 572｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜四月の雨｜cubesato｜standard MASTER｜落雪ID 573｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜Selector｜Aliesrite* (Ym1024 feat. lamie*)｜dx MASTER｜落雪ID 574｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜Sakura Fubuki｜Street｜standard MASTER｜落雪ID 592｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜GO BACK 2 YOUR RAVE｜nora2r｜standard MASTER｜落雪ID 612｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜KING is BACK!!｜A-One｜standard MASTER｜落雪ID 631｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜デスパレイト｜owl＊tree｜standard MASTER｜落雪ID 666｜社区定数 13.9｜国服NET显示13。
+- 等级13+｜Mare Maris｜M2U｜standard MASTER｜落雪ID 705｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜ENERGY SYNERGY MATRIX｜Tanchiky｜standard MASTER｜落雪ID 734｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜ULTRA B+K｜nora2r｜standard MASTER｜落雪ID 740｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜keep hopping｜kamome sano｜standard MASTER｜落雪ID 745｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜アマノジャクリバース feat. ｙｔｒ｜魂音泉｜standard MASTER｜落雪ID 766｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜We Gonna Journey｜Queen P.A.L.｜standard MASTER｜落雪ID 771｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜セイクリッド　ルイン｜Drop＆祇羽 feat. 葉月ゆら「太鼓の達人」より｜standard MASTER｜落雪ID 798｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜PANDORA PARADOXXX｜削除｜standard EXPERT｜落雪ID 834｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜Good Bye, Mr. Jack｜sasakure.UK｜standard MASTER｜落雪ID 836｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜玩具狂奏曲 -終焉-｜きくお｜dx MASTER｜落雪ID 1028｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜Yakumo ＞＞JOINT STRUGGLE (2019 Update)｜くっちー (DARKSIDE APPROACH)｜dx MASTER｜落雪ID 1065｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜モ°ルモ°ル｜sasakure.UK｜dx MASTER｜落雪ID 1096｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜GRÄNDIR｜Rigel Theatre feat. ミーウェル｜dx MASTER｜落雪ID 1101｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜NULCTRL｜Silentroom｜dx MASTER｜落雪ID 1142｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜Ether Strike｜Akira Complex｜dx MASTER｜落雪ID 1207｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜Arty Party｜yaseta｜dx MASTER｜落雪ID 1213｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜Last Samurai｜Street｜dx MASTER｜落雪ID 1236｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜蒼穹舞楽｜Capchii｜dx MASTER｜落雪ID 1237｜社区定数 13.9｜国服NET显示14。
+- 等级13+｜もぺもぺ｜LeaF & Optie｜dx MASTER｜落雪ID 1282｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜Sound Chimera｜Laur｜dx MASTER｜落雪ID 1283｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜Strange Bar｜Laur｜dx MASTER｜落雪ID 1287｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜MEGATON KICK｜DJ Myosuke｜dx MASTER｜落雪ID 1292｜社区定数 13.9｜国服NET显示14。
+- 等级13+｜華の集落、秋のお届け｜Umiai｜dx MASTER｜落雪ID 1301｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜華の集落、秋のお届け｜Umiai｜standard MASTER｜落雪ID 1301｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜LiftOff｜MAYA AKAI｜dx MASTER｜落雪ID 1314｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜ハードコア・シンドローム｜t+pazolite (HARDCORE TANO*C) feat.TANO*C ALL STARS｜dx MASTER｜落雪ID 1319｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜スーパーシンメトリー｜Sta feat. b｜dx MASTER｜落雪ID 1331｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜Southern Cross｜403｜dx Re:MASTER｜落雪ID 1333｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜Upshift｜s-don as Iriss-Frantzz｜dx MASTER｜落雪ID 1334｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜マツヨイナイトバグ｜COOL&CREATE feat.ビートまりおとまろん「東方ダンマクカグラ」｜dx MASTER｜落雪ID 1343｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜HAGAKIRI｜Masayoshi Iimori｜dx MASTER｜落雪ID 1384｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜folern｜ぬゆり｜dx MASTER｜落雪ID 1400｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜初音天地開闢神話｜cosMo＠暴走P｜dx MASTER｜落雪ID 1412｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜Armageddon｜LeaF｜dx MASTER｜落雪ID 1413｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜Dreadnought｜Mastermind(xi+nora2r)｜dx MASTER｜落雪ID 1415｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜Caterpillar Song｜Bitplane feat. 葉月ゆら｜dx MASTER｜落雪ID 1419｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜First Dance｜削除｜dx MASTER｜落雪ID 1425｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜Reach For The Stars (Re-Colors)｜大谷智哉「ソニックカラーズ アルティメット」｜dx MASTER｜落雪ID 1438｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜Destiny Runner｜さわわ｜dx MASTER｜落雪ID 1496｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜エナドリおいしいソング｜冥堂院・アレクサンドル・ヴィクトリア・リヒテンシュタイン・聖斗 feat.TINOP｜dx MASTER｜落雪ID 1502｜社区定数 13.9｜国服NET显示14。
+- 等级13+｜れっつ！みらくる☆はーどこあっ！｜Laur feat.みしゃも｜dx MASTER｜落雪ID 1505｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜NightTheater｜わかどり｜dx MASTER｜落雪ID 1509｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜Comet Panto Men!｜MYUKKE.｜dx MASTER｜落雪ID 1528｜社区定数 13.9｜国服NET显示14。
+- 等级13+｜ツムギボシ｜大国奏音 feat.timao｜dx MASTER｜落雪ID 1529｜社区定数 13.9｜国服NET显示14。
+- 等级13+｜Redemption｜XinG、10lulu｜dx MASTER｜落雪ID 1535｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜Ether Second｜Akira Complex｜dx MASTER｜落雪ID 1536｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜熱異常｜いよわ｜dx Re:MASTER｜落雪ID 1629｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜ozma｜TJ.hangneil｜dx MASTER｜落雪ID 1647｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜Edelweiss｜やどりぎ｜dx MASTER｜落雪ID 1671｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜RE:INCARNATED DRAGNER｜黒沢ダイスケ × 小寺可南子｜dx MASTER｜落雪ID 1678｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜tiny tales continue｜黒魔｜dx MASTER｜落雪ID 1706｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜Flashback｜RiraN｜dx MASTER｜落雪ID 1750｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜病み垢ステロイド｜かいりきベア｜dx MASTER｜落雪ID 1761｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜Löschen｜BlackY feat. Risa Yuzuki｜dx MASTER｜落雪ID 1788｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜Amereistr｜rN｜dx MASTER｜落雪ID 1817｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜Supersonic Generation｜Massive New Krew｜dx MASTER｜落雪ID 1822｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜超最終鬼畜妹フランドール・S｜ビートまりお×まろん｜dx MASTER｜落雪ID 1854｜社区定数 13.9｜国服NET显示13+。
+- 等级13+｜NO ONE YES MAN｜MYUKKE.｜dx MASTER｜落雪ID 1874｜社区定数 13.9｜未配信；未匹配NET快照。
+- 等级13+｜胡蝶乃舞｜Srav3R｜dx MASTER｜落雪ID 1945｜社区定数 13.9｜国服NET显示13+。

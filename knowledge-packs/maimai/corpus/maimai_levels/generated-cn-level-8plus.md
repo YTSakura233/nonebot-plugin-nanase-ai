@@ -1,0 +1,138 @@
+# 国服NET快照显示等级 8+ 索引
+
+来源：CrazyKidCN国服NET社区快照；快照采集 2026-11-01。
+本表按国服NET观察等级分组，不使用落雪等级代替；不含宴会场。
+
+- 国服NET等级8+｜GET!! 夢&DREAM｜加賀美 祥「学園ハンサム」｜standard EXPERT｜关联落雪ID [634]｜版本 MURASAKi PLUS。
+- 国服NET等级8+｜バラライカ｜Performed by 光吉猛修｜standard EXPERT｜关联落雪ID [321]｜版本 GreeN PLUS。
+- 国服NET等级8+｜ウッーウッーウマウマ(ﾟ∀ﾟ)｜Caramell/Caramelldansen [cover]｜standard EXPERT｜关联落雪ID [56]｜版本 maimai。
+- 国服NET等级8+｜YATTA!｜はっぱ隊 [cover]｜standard EXPERT｜关联落雪ID [323]｜版本 GreeN PLUS。
+- 国服NET等级8+｜ポップミュージックは僕のもの｜ONIGAWARA｜standard EXPERT｜关联落雪ID [579]｜版本 MURASAKi。
+- 国服NET等级8+｜ウミユリ海底譚｜n-buna｜standard EXPERT｜关联落雪ID [417]｜版本 ORANGE PLUS。
+- 国服NET等级8+｜フラジール｜ぬゆり｜standard EXPERT｜关联落雪ID [655]｜版本 MURASAKi PLUS。
+- 国服NET等级8+｜命ばっかり｜ぬゆり｜standard EXPERT｜关联落雪ID [832]｜版本 FiNALE。
+- 国服NET等级8+｜マトリョシカ｜ハチ｜standard EXPERT｜关联落雪ID [71]｜版本 maimai。
+- 国服NET等级8+｜パンダヒーロー｜ハチ｜standard EXPERT｜关联落雪ID [67]｜版本 maimai。
+- 国服NET等级8+｜ローリンガール｜wowaka｜standard EXPERT｜关联落雪ID [187]｜版本 GreeN。
+- 国服NET等级8+｜ワールズエンド・ダンスホール｜wowaka｜standard EXPERT｜关联落雪ID [66]｜版本 maimai。
+- 国服NET等级8+｜ありふれたせかいせいふく｜ピノキオピー｜standard EXPERT｜关联落雪ID [448]｜版本 PiNK。
+- 国服NET等级8+｜ラブチーノ｜Junky｜standard EXPERT｜关联落雪ID [618]｜版本 MURASAKi PLUS。
+- 国服NET等级8+｜リリリリ★バーニングナイト｜samfree｜standard EXPERT｜关联落雪ID [290]｜版本 GreeN PLUS。
+- 国服NET等级8+｜イアイア★ナイトオブデザイア｜samfree｜standard EXPERT｜关联落雪ID [186]｜版本 GreeN。
+- 国服NET等级8+｜深海少女｜ゆうゆ｜standard EXPERT｜关联落雪ID [315]｜版本 舞萌DX 2024。
+- 国服NET等级8+｜Heart Beats｜向日葵×emon(Tes.)｜standard EXPERT｜关联落雪ID [331]｜版本 ORANGE。
+- 国服NET等级8+｜メルティランドナイトメア｜はるまきごはん feat.初音ミク｜dx EXPERT｜关联落雪ID [1044]｜版本 舞萌DX。
+- 国服NET等级8+｜メルト｜supercell｜dx EXPERT｜关联落雪ID [1043]｜版本 舞萌DX。
+- 国服NET等级8+｜踊れオーケストラ｜YASUHIRO(康寛)｜standard EXPERT｜关联落雪ID [599]｜版本 MURASAKi。
+- 国服NET等级8+｜赤心性：カマトト荒療治｜スズム｜standard EXPERT｜关联落雪ID [401]｜版本 ORANGE PLUS。
+- 国服NET等级8+｜イノコリ先生｜HoneyWorks｜standard EXPERT｜关联落雪ID [412]｜版本 PiNK。
+- 国服NET等级8+｜ぽっぴっぽー｜｜standard EXPERT｜关联落雪ID [259]｜版本 GreeN。
+- 国服NET等级8+｜教えて!! 魔法のLyric｜ちょむP ＜advanced mix＞｜standard EXPERT｜关联落雪ID [64]｜版本 maimai。
+- 国服NET等级8+｜quiet room｜有機酸｜dx EXPERT｜关联落雪ID [1078]｜版本 舞萌DX。
+- 国服NET等级8+｜シャルル｜バルーン｜standard EXPERT｜关联落雪ID [706]｜版本 MiLK。
+- 国服NET等级8+｜シャルル｜バルーン｜dx EXPERT｜关联落雪ID [706]｜版本 MiLK。
+- 国服NET等级8+｜華鳥風月｜幽閉サテライト｜standard EXPERT｜关联落雪ID [541]｜版本 MURASAKi PLUS。
+- 国服NET等级8+｜色は匂へど散りぬるを｜幽閉サテライト｜standard EXPERT｜关联落雪ID [535]｜版本 舞萌DX 2024。
+- 国服NET等级8+｜物凄い勢いでけーねが物凄いうた｜Halozy｜standard EXPERT｜关联落雪ID [360]｜版本 PiNK。
+- 国服NET等级8+｜不思議の国のクリスマス｜SOUND HOLIC feat. 3L｜standard EXPERT｜关联落雪ID [802]｜版本 FiNALE。
+- 国服NET等级8+｜Grip & Break down !!｜SOUND HOLIC feat. Nana Takahashi｜standard EXPERT｜关联落雪ID [202]｜版本 舞萌DX 2023。
+- 国服NET等级8+｜しゅわスパ大作戦☆｜SOUND HOLIC feat. Nana Takahashi｜standard EXPERT｜关联落雪ID [206]｜版本 GreeN。
+- 国服NET等级8+｜待チ人ハ来ズ。｜豚乙女｜standard EXPERT｜关联落雪ID [313]｜版本 GreeN PLUS。
+- 国服NET等级8+｜響縁｜豚乙女｜standard EXPERT｜关联落雪ID [404]｜版本 舞萌DX 2023。
+- 国服NET等级8+｜フラグメンツ -T.V. maimai edit-｜発熱巫女～ず｜standard EXPERT｜关联落雪ID [434]｜版本 PiNK。
+- 国服NET等级8+｜エピクロスの虹はもう見えない｜SYNC.ART'S feat. 美里｜standard EXPERT｜关联落雪ID [310]｜版本 GreeN PLUS。
+- 国服NET等级8+｜ってゐ！ ～えいえんてゐVer～｜石鹸屋｜standard EXPERT｜关联落雪ID [312]｜版本 ORANGE PLUS。
+- 国服NET等级8+｜東方妖々夢 ～the maximum moving about～｜石鹸屋｜standard EXPERT｜关联落雪ID [425]｜版本 PiNK。
+- 国服NET等级8+｜極圏｜cosMo VS dj TAKA「SOUND VOLTEX」より｜standard ADVANCED｜关联落雪ID [796]｜版本 FiNALE。
+- 国服NET等级8+｜セイクリッド　ルイン｜Drop＆祇羽 feat. 葉月ゆら「太鼓の達人」より｜standard ADVANCED｜关联落雪ID [798]｜版本 FiNALE。
+- 国服NET等级8+｜Halcyon｜xi｜standard ADVANCED｜关联落雪ID [1085]｜版本 舞萌DX 2023。
+- 国服NET等级8+｜FREEDOM DiVE (tpz Overcute Remix)｜t+pazolite｜standard ADVANCED｜关联落雪ID [772]｜版本 MiLK PLUS。
+- 国服NET等级8+｜レッツゴー!陰陽師｜「新豪血寺一族 -煩悩解放-」｜standard EXPERT｜关联落雪ID [278]｜版本 GreeN PLUS。
+- 国服NET等级8+｜Conquista Ciela｜光吉猛修「バーチャロン」｜standard EXPERT｜关联落雪ID [778]｜版本 MiLK PLUS。
+- 国服NET等级8+｜City Escape: Act1｜Cash Cash「ソニック ジェネレーションズ」｜standard EXPERT｜关联落雪ID [80]｜版本 maimai。
+- 国服NET等级8+｜In Chaos｜Hiro「Crackin’DJ」｜standard EXPERT｜关联落雪ID [22]｜版本 maimai。
+- 国服NET等级8+｜かせげ！ジャリンコヒーロー｜角田信朗「ヒーローバンク」｜standard EXPERT｜关联落雪ID [329]｜版本 GreeN PLUS。
+- 国服NET等级8+｜りばーぶ｜高橋菜々×岡部啓一(MONACA)｜standard EXPERT｜关联落雪ID [458]｜版本 PiNK。
+- 国服NET等级8+｜Valsqotch｜owl＊tree feat.chi＊tree｜dx ADVANCED｜关联落雪ID [1106]｜版本 舞萌DX。
+- 国服NET等级8+｜TwisteD! XD｜t+pazolite｜dx ADVANCED｜关联落雪ID [1022]｜版本 舞萌DX。
+- 国服NET等级8+｜FFT｜cybermiso｜standard ADVANCED｜关联落雪ID [820]｜版本 FiNALE。
+- 国服NET等级8+｜Panopticon｜cybermiso｜standard ADVANCED｜关联落雪ID [589]｜版本 MURASAKi。
+- 国服NET等级8+｜Alea jacta est!｜BlackY fused with WAiKURO｜standard ADVANCED｜关联落雪ID [812]｜版本 FiNALE。
+- 国服NET等级8+｜天火明命｜削除｜standard ADVANCED｜关联落雪ID [566]｜版本 MURASAKi。
+- 国服NET等级8+｜Lividi｜Feryquitous｜standard ADVANCED｜关联落雪ID [488]｜版本 MURASAKi。
+- 国服NET等级8+｜Contrapasso -paradiso-｜t+pazolite｜standard ADVANCED｜关联落雪ID [431]｜版本 PiNK PLUS。
+- 国服NET等级8+｜Oshama Scramble!｜t+pazolite｜dx ADVANCED｜关联落雪ID [363]｜版本 ORANGE PLUS。
+- 国服NET等级8+｜Schwarzschild｜Tsukasa｜standard ADVANCED｜关联落雪ID [803]｜版本 FiNALE。
+- 国服NET等级8+｜Pixel Voyage｜YMCK｜standard EXPERT｜关联落雪ID [237]｜版本 GreeN。
+- 国服NET等级8+｜タカハせ！名人マン｜ビートまりお + ARM feat. 高橋名人｜standard EXPERT｜关联落雪ID [327]｜版本 GreeN PLUS。
+- 国服NET等级8+｜welcome to maimai!! with マイマイマー｜Hiro feat.越田Rute隆人&ビートまりお｜standard EXPERT｜关联落雪ID [418]｜版本 ORANGE PLUS。
+- 国服NET等级8+｜ぐるぐるWASH！コインランドリー・ディスコ｜D.watt(IOSYS)feat.ちよこ｜standard EXPERT｜关联落雪ID [229]｜版本 GreeN PLUS。
+- 国服NET等级8+｜Color My World｜GOSH/クラシック「悲愴」｜standard EXPERT｜关联落雪ID [9]｜版本 maimai。
+- 国服NET等级8+｜私の中の幻想的世界観及びその顕現を想起させたある現実での出来事に関する一考察｜小仏 凪(CV:佐倉 薫)｜standard EXPERT｜关联落雪ID [547]｜版本 MURASAKi。
+- 国服NET等级8+｜猛進ソリストライフ！｜月鈴 那知(CV:今村 彩夏)｜standard ADVANCED｜关联落雪ID [649]｜版本 MURASAKi PLUS。
+- 国服NET等级8+｜Invitation｜れるりり feat.ろん｜standard EXPERT｜关联落雪ID [528]｜版本 PiNK PLUS。
+- 国服NET等级8+｜エンドマークに希望と涙を添えて｜cosMo＠暴走P｜standard ADVANCED｜关联落雪ID [719]｜版本 MiLK。
+- 国服NET等级8+｜World Vanquisher｜void (Mournfinale)｜standard ADVANCED｜关联落雪ID [736]｜版本 MiLK PLUS。
+- 国服NET等级8+｜怒槌｜光吉猛修｜standard ADVANCED｜关联落雪ID [779]｜版本 MiLK PLUS。
+- 国服NET等级8+｜だから僕は音楽を辞めた｜ヨルシカ｜dx EXPERT｜关联落雪ID [1115]｜版本 舞萌DX 2021。
+- 国服NET等级8+｜STEEL TRANSONIC｜BlackY vs. WAiKURO｜dx ADVANCED｜关联落雪ID [1089]｜版本 舞萌DX 2021。
+- 国服NET等级8+｜ウマイネームイズうまみちゃん｜UMAINA｜dx EXPERT｜关联落雪ID 未匹配｜版本 舞萌DX 2021。
+- 国服NET等级8+｜封焔の135秒｜大国奏音｜dx ADVANCED｜关联落雪ID [1102]｜版本 舞萌DX 2021。
+- 国服NET等级8+｜乙女解剖｜DECO*27｜dx EXPERT｜关联落雪ID [1187]｜版本 舞萌DX 2021。
+- 国服NET等级8+｜ARAIS｜千本松 仁｜dx ADVANCED｜关联落雪ID [1155]｜版本 舞萌DX 2021。
+- 国服NET等级8+｜宛城、炎上！！｜Cranky feat.おもしろ三国志｜dx ADVANCED｜关联落雪ID [1175]｜版本 舞萌DX 2021。
+- 国服NET等级8+｜とりあえずアナタがいなくなるまえに｜作詞作曲：椎名もた　編曲：KTG　映像：Yuma Saito｜dx EXPERT｜关联落雪ID [1190]｜版本 舞萌DX 2021。
+- 国服NET等级8+｜明星ギャラクティカ｜ナユタン星人｜dx EXPERT｜关联落雪ID [1191]｜版本 舞萌DX 2021。
+- 国服NET等级8+｜Virtual to LIVE｜にじさんじ｜dx EXPERT｜关联落雪ID [1184]｜版本 舞萌DX 2021。
+- 国服NET等级8+｜YURUSHITE｜t+pazolite｜dx ADVANCED｜关联落雪ID [1171]｜版本 舞萌DX 2021。
+- 国服NET等级8+｜ネガティブ進化論｜DECO*27｜dx EXPERT｜关联落雪ID [1260]｜版本 舞萌DX 2022。
+- 国服NET等级8+｜今、誰が為のかがり火へ｜幽閉サテライト｜dx EXPERT｜关联落雪ID [1276]｜版本 舞萌DX 2022。
+- 国服NET等级8+｜幽霊東京｜Ayase｜dx EXPERT｜关联落雪ID [1264]｜版本 舞萌DX 2022。
+- 国服NET等级8+｜チエルカ／エソテリカ｜ツミキ × 宮下遊｜dx ADVANCED｜关联落雪ID [1230]｜版本 舞萌DX 2022。
+- 国服NET等级8+｜Big Daddy｜USAO｜dx ADVANCED｜关联落雪ID [1288]｜版本 舞萌DX 2022。
+- 国服NET等级8+｜MEGATON KICK｜DJ Myosuke｜dx ADVANCED｜关联落雪ID [1292]｜版本 舞萌DX 2022。
+- 国服NET等级8+｜再会｜はるまきごはん｜dx EXPERT｜关联落雪ID [1271]｜版本 舞萌DX 2022。
+- 国服NET等级8+｜AMABIE｜OSTER project｜dx ADVANCED｜关联落雪ID [1238]｜版本 舞萌DX 2022。
+- 国服NET等级8+｜竹｜立秋 feat.ちょこ｜dx ADVANCED｜关联落雪ID [1330]｜版本 舞萌DX 2022。
+- 国服NET等级8+｜脳天直撃｜黒沢ダイスケ VS 穴山大輔｜dx ADVANCED｜关联落雪ID [1295]｜版本 舞萌DX 2022。
+- 国服NET等级8+｜さんさーら！｜ARuFa｜dx EXPERT｜关联落雪ID 未匹配｜版本 舞萌DX 2022。
+- 国服NET等级8+｜veil｜須田景凪｜dx EXPERT｜关联落雪ID 未匹配｜版本 舞萌DX 2022。
+- 国服NET等级8+｜on the rocks｜OSTER project｜dx EXPERT｜关联落雪ID [1361]｜版本 舞萌DX 2022。
+- 国服NET等级8+｜Trick tear｜しーけー｜dx ADVANCED｜关联落雪ID [1310]｜版本 舞萌DX 2022。
+- 国服NET等级8+｜スピカの天秤｜Acotto｜dx ADVANCED｜关联落雪ID [1318]｜版本 舞萌DX 2022。
+- 国服NET等级8+｜WiPE OUT MEMORIES｜t+pazolite｜dx ADVANCED｜关联落雪ID [1391]｜版本 舞萌DX 2023。
+- 国服NET等级8+｜Dreadnought｜Mastermind(xi+nora2r)｜dx ADVANCED｜关联落雪ID [1415]｜版本 舞萌DX 2023。
+- 国服NET等级8+｜吾輩よ猫であれ｜Lyrical Lily｜dx EXPERT｜关联落雪ID 未匹配｜版本 舞萌DX 2023。
+- 国服NET等级8+｜otorii INNOVATED -[i]3-｜NAOKI underground｜dx ADVANCED｜关联落雪ID [1446]｜版本 舞萌DX 2023。
+- 国服NET等级8+｜Mjölnir｜xi｜dx ADVANCED｜关联落雪ID [1426]｜版本 舞萌DX 2023。
+- 国服NET等级8+｜Cthugha｜USAO｜dx ADVANCED｜关联落雪ID [1576]｜版本 舞萌DX 2023。
+- 国服NET等级8+｜星空パーティーチューン｜OSTER project feat. そらこ｜dx ADVANCED｜关联落雪ID [1387]｜版本 舞萌DX 2023。
+- 国服NET等级8+｜白花の天使｜Yu-dachi｜dx ADVANCED｜关联落雪ID [1393]｜版本 舞萌DX 2023。
+- 国服NET等级8+｜おジャ魔女カーニバル!!｜covered by 光吉猛修｜dx EXPERT｜关联落雪ID [1253]｜版本 舞萌DX 2022。
+- 国服NET等级8+｜蜘蛛の糸｜きくお×cosMo＠暴走P feat.影縫英｜dx ADVANCED｜关联落雪ID [1471]｜版本 舞萌DX 2023。
+- 国服NET等级8+｜SUPER AMBULANCE｜AJURIKA｜dx ADVANCED｜关联落雪ID [1475]｜版本 舞萌DX 2023。
+- 国服NET等级8+｜Blank Paper (Prod. TEMPLIME)｜日高零奈・東雲和音・茅野ふたば「電音部」｜dx EXPERT｜关联落雪ID [1506]｜版本 舞萌DX 2023。
+- 国服NET等级8+｜エナドリおいしいソング｜冥堂院・アレクサンドル・ヴィクトリア・リヒテンシュタイン・聖斗 feat.TINOP｜dx ADVANCED｜关联落雪ID [1502]｜版本 舞萌DX 2023。
+- 国服NET等级8+｜"411Ψ892"｜Tanchiky｜dx ADVANCED｜关联落雪ID [1469]｜版本 舞萌DX 2023。
+- 国服NET等级8+｜最強STRONGER｜REDALiCE vs USAO｜dx ADVANCED｜关联落雪ID [1517]｜版本 舞萌DX 2023。
+- 国服NET等级8+｜康莊大道｜Spiegel vs Yukino｜dx ADVANCED｜关联落雪ID [1470]｜版本 舞萌DX 2023。
+- 国服NET等级8+｜ロウワー｜ぬゆり｜dx EXPERT｜关联落雪ID [1562]｜版本 舞萌DX 2024。
+- 国服NET等级8+｜キャットラビング｜香椎モイミ｜dx EXPERT｜关联落雪ID [1563]｜版本 舞萌DX 2024。
+- 国服NET等级8+｜神っぽいな｜ピノキオピー｜dx EXPERT｜关联落雪ID [1558]｜版本 舞萌DX 2024。
+- 国服NET等级8+｜はんぶんこ｜三枝明那｜dx EXPERT｜关联落雪ID [1577]｜版本 舞萌DX 2024。
+- 国服NET等级8+｜花となれ｜雄之助　feat.音楽的同位体　可不（KAFU）｜dx EXPERT｜关联落雪ID [1592]｜版本 舞萌DX 2024。
+- 国服NET等级8+｜KHYMΞXΛ｜のらねこさい feat.ricono｜dx ADVANCED｜关联落雪ID [1619]｜版本 舞萌DX 2024。
+- 国服NET等级8+｜raputa｜sasakure.UK × TJ.hangneil｜dx ADVANCED｜关联落雪ID [1662]｜版本 舞萌DX 2024。
+- 国服NET等级8+｜Apollo｜TJ.hangneil｜dx ADVANCED｜关联落雪ID [1661]｜版本 舞萌DX 2024。
+- 国服NET等级8+｜神威｜TJ.hangneil｜dx ADVANCED｜关联落雪ID [1646]｜版本 舞萌DX 2024。
+- 国服NET等级8+｜ozma｜TJ.hangneil｜dx ADVANCED｜关联落雪ID [1647]｜版本 舞萌DX 2024。
+- 国服NET等级8+｜Rush-Hour｜litmus*｜dx ADVANCED｜关联落雪ID [1657]｜版本 舞萌DX 2024。
+- 国服NET等级8+｜QuiQ｜owl＊tree feat.nie＊tree｜dx ADVANCED｜关联落雪ID [1672]｜版本 舞萌DX 2025。
+- 国服NET等级8+｜Bloody Trail｜Hommarju｜dx ADVANCED｜关联落雪ID [1677]｜版本 舞萌DX 2025。
+- 国服NET等级8+｜QUATTUORUX｜打打だいず Vs. Tanchiky Vs. からめる｜dx ADVANCED｜关联落雪ID [1713]｜版本 舞萌DX 2025。
+- 国服NET等级8+｜セカイはまだ始まってすらいない｜ピノキオピー / 初音ミク / ワンダーランズ×ショウタイム「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」｜dx EXPERT｜关联落雪ID [1337]｜版本 舞萌DX 2025。
+- 国服NET等级8+｜Abstruse Dilemma｜Ashrount vs. 打打だいず｜dx ADVANCED｜关联落雪ID [1789]｜版本 舞萌DX 2025。
+- 国服NET等级8+｜Zitronectar｜Reku Mochizuki｜dx ADVANCED｜关联落雪ID [1823]｜版本 舞萌DX 2026。
+- 国服NET等级8+｜Synthesis.｜tn-shi｜dx ADVANCED｜关联落雪ID [1842]｜版本 舞萌DX 2026。
+- 国服NET等级8+｜Unfinished Epic｜SLAVE.V-V-R feat.Sor△｜dx ADVANCED｜关联落雪ID [1812]｜版本 舞萌DX 2026。
+- 国服NET等级8+｜宙天｜t+pazolite vs かねこちはる｜dx ADVANCED｜关联落雪ID [1753]｜版本 舞萌DX 2025。

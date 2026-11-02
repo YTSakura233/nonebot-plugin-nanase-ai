@@ -1,0 +1,8 @@
+include .env.example .gitattributes UPSTREAM.md
+recursive-include docs *.md
+recursive-include tests *.py
+recursive-include scripts *.py
+recursive-include constraints *.txt
+prune .testdeps
+prune build
+prune dist

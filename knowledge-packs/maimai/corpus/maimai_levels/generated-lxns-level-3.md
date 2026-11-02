@@ -1,0 +1,299 @@
+# 等级 3 的常规谱面索引
+
+国服社区快照 2026-11-01；分组依据落雪显示等级，不含宴会场。
+每行保留曲名、类型、难度和来源；两源等级不同已标明。disabled/未配信不代表可游玩。
+
+- 等级3｜ハッピーシンセサイザ｜EasyPop｜dx BASIC｜落雪ID 44｜社区定数 3｜国服NET显示3。
+- 等级3｜Quartet Theme [Reborn]｜COSIO(ZUNTATA/TAITO)「カルテット」｜standard BASIC｜落雪ID 110｜社区定数 3｜国服NET显示4。
+- 等级3｜ぴぴぱぷぅ！｜Hiro/小山あかり｜standard BASIC｜落雪ID 116｜社区定数 3｜国服NET显示3。
+- 等级3｜ゴーゴー幽霊船｜米津玄師｜dx BASIC｜落雪ID 122｜社区定数 3｜国服NET显示3。
+- 等级3｜御旗のもとに｜「サクラ大戦」｜dx BASIC｜落雪ID 128｜社区定数 3｜国服NET显示3。
+- 等级3｜Night Fly｜発熱巫女～ず｜standard BASIC｜落雪ID 134｜社区定数 3｜国服NET显示4。
+- 等级3｜39｜sasakure.UK x DECO*27｜dx BASIC｜落雪ID 146｜社区定数 3｜国服NET显示3。
+- 等级3｜＊ハロー、プラネット。｜sasakure.UK｜standard BASIC｜落雪ID 185｜社区定数 3｜未匹配NET快照。
+- 等级3｜天ノ弱｜164｜dx BASIC｜落雪ID 188｜社区定数 3｜国服NET显示3。
+- 等级3｜モザイクロール｜DECO*27｜dx BASIC｜落雪ID 190｜社区定数 3｜国服NET显示3。
+- 等级3｜モザイクロール｜DECO*27｜standard BASIC｜落雪ID 190｜社区定数 3｜国服NET显示4。
+- 等级3｜チルノのパーフェクトさんすう教室｜ARM＋夕野ヨシミ(IOSYS)feat. miko｜standard BASIC｜落雪ID 199｜社区定数 3｜国服NET显示4。
+- 等级3｜Bad Apple!! feat.nomico｜Masayoshi Minoshima｜standard BASIC｜落雪ID 200｜社区定数 3｜未匹配NET快照。
+- 等级3｜時空を超えて久しぶり！｜アルル(CV 園崎未恵)「ぷよぷよ」｜standard BASIC｜落雪ID 207｜社区定数 3｜国服NET显示3。
+- 等级3｜Terminal Storm｜三草康二郎「CODE OF JOKER」｜standard BASIC｜落雪ID 218｜社区定数 3｜国服NET显示4。
+- 等级3｜Pixel Voyage｜YMCK｜standard BASIC｜落雪ID 237｜社区定数 3｜国服NET显示3。
+- 等级3｜Cosmic Train｜Shoichiro Hirata feat.SUIMI｜standard BASIC｜落雪ID 241｜社区定数 3｜国服NET显示4。
+- 等级3｜Monochrome Rainbow｜Sta｜standard BASIC｜落雪ID 251｜社区定数 3｜国服NET显示4。
+- 等级3｜円舞曲、君に｜「サクラ大戦奏組」｜standard BASIC｜落雪ID 253｜社区定数 3｜国服NET显示4。
+- 等级3｜Living Universe｜「PHANTASY STAR PORTABLE2」｜standard BASIC｜落雪ID 266｜社区定数 3｜国服NET显示4。
+- 等级3｜トルコ行進曲 - オワタ＼(^o^)／｜オワタP｜standard BASIC｜落雪ID 268｜社区定数 3｜国服NET显示3。
+- 等级3｜Brand-new Japanesque｜「龍が如く 見参！」｜standard BASIC｜落雪ID 271｜社区定数 3｜国服NET显示4。
+- 等级3｜からくりピエロ｜40mP｜standard BASIC｜落雪ID 282｜社区定数 3｜国服NET显示3。
+- 等级3｜ハロ／ハワユ｜ナノウ｜standard BASIC｜落雪ID 291｜社区定数 3｜国服NET显示4。
+- 等级3｜お嫁にしなさいっ！｜ARM＋夕野ヨシミ(IOSYS)｜standard BASIC｜落雪ID 298｜社区定数 3｜国服NET显示4。
+- 等级3｜患部で止まってすぐ溶ける～狂気の優曇華院｜ARM＋夕野ヨシミ(IOSYS)feat. miko｜dx BASIC｜落雪ID 301｜社区定数 3｜国服NET显示3。
+- 等级3｜ケロ⑨destiny｜Silver Forest｜dx BASIC｜落雪ID 302｜社区定数 3｜国服NET显示3。
+- 等级3｜Endless, Sleepless Night｜samfree feat.(V)・∀・(V)かにぱん。(A-ONE)｜dx BASIC｜落雪ID 303｜社区定数 3｜国服NET显示3。
+- 等级3｜POP STAR｜平井堅 [cover]｜standard BASIC｜落雪ID 305｜社区定数 3｜国服NET显示4。
+- 等级3｜神々の祈り｜舞風-MAIKAZE/沙紗飛鳥｜standard BASIC｜落雪ID 309｜社区定数 3｜国服NET显示3。
+- 等级3｜エピクロスの虹はもう見えない｜SYNC.ART'S feat. 美里｜standard BASIC｜落雪ID 310｜社区定数 3｜国服NET显示4。
+- 等级3｜ってゐ！ ～えいえんてゐVer～｜石鹸屋｜standard BASIC｜落雪ID 312｜社区定数 3｜国服NET显示4。
+- 等级3｜待チ人ハ来ズ。｜豚乙女｜standard BASIC｜落雪ID 313｜社区定数 3｜国服NET显示4。
+- 等级3｜深海少女｜ゆうゆ｜standard BASIC｜落雪ID 315｜社区定数 3｜国服NET显示4。
+- 等级3｜M.S.S.Planet｜M.S.S Project｜dx BASIC｜落雪ID 316｜社区定数 3｜国服NET显示3。
+- 等级3｜M.S.S.Planet｜M.S.S Project｜standard BASIC｜落雪ID 316｜社区定数 3｜国服NET显示4。
+- 等级3｜バラライカ｜Performed by 光吉猛修｜standard BASIC｜落雪ID 321｜社区定数 3｜国服NET显示4。
+- 等级3｜YATTA!｜はっぱ隊 [cover]｜standard BASIC｜落雪ID 323｜社区定数 3｜国服NET显示3。
+- 等级3｜コトバ・カラフル｜うたよめ575＜正岡小豆(大坪由佳)小林抹茶(大橋彩香)＞｜standard BASIC｜落雪ID 326｜社区定数 3｜国服NET显示3。
+- 等级3｜タカハせ！名人マン｜ビートまりお + ARM feat. 高橋名人｜standard BASIC｜落雪ID 327｜社区定数 3｜国服NET显示4。
+- 等级3｜キズナの物語｜Trefle「チェインクロニクル」｜standard BASIC｜落雪ID 330｜社区定数 3｜国服NET显示4。
+- 等级3｜二息歩行｜DECO*27｜standard BASIC｜落雪ID 341｜社区定数 3｜国服NET显示4。
+- 等级3｜不毛！｜ぽてんしゃる0｜standard BASIC｜落雪ID 399｜社区定数 3｜国服NET显示4。
+- 等级3｜ストリーミングハート｜DECO*27｜standard BASIC｜落雪ID 419｜社区定数 3｜国服NET显示3。
+- 等级3｜四次元跳躍機関｜koutaq｜standard BASIC｜落雪ID 438｜社区定数 3｜国服NET显示4。
+- 等级3｜りばーぶ｜高橋菜々×岡部啓一(MONACA)｜standard BASIC｜落雪ID 458｜社区定数 3｜国服NET显示3。
+- 等级3｜Imitation:Loud Lounge｜Ino(chronoize)｜dx BASIC｜落雪ID 493｜社区定数 3｜国服NET显示3。
+- 等级3｜だんだん早くなる｜40mP｜standard BASIC｜落雪ID 513｜社区定数 3｜国服NET显示4。
+- 等级3｜色は匂へど散りぬるを｜幽閉サテライト(Produce:嵯峨飛鳥 Arranged:Iceon)｜dx BASIC｜落雪ID 535｜社区定数 3｜国服NET显示3。
+- 等级3｜フォルテシモBELL｜天王洲 なずな(CV:山本 彩乃)｜standard BASIC｜落雪ID 546｜社区定数 3｜国服NET显示3。
+- 等级3｜ゴーストルール｜DECO*27｜dx BASIC｜落雪ID 552｜社区定数 3｜国服NET显示3。
+- 等级3｜Scream out! -maimai SONIC WASHER Edit-｜A-One｜dx BASIC｜落雪ID 572｜社区定数 3｜国服NET显示4。
+- 等级3｜四月の雨｜cubesato｜standard BASIC｜落雪ID 573｜社区定数 3｜国服NET显示4。
+- 等级3｜Selector｜Aliesrite* (Ym1024 feat. lamie*)｜dx BASIC｜落雪ID 574｜社区定数 3｜国服NET显示3。
+- 等级3｜Starlight Vision｜矢鴇つかさ feat. 三澤秋｜standard BASIC｜落雪ID 583｜社区定数 3｜国服NET显示4。
+- 等级3｜conflict｜siromaru + cranky｜dx BASIC｜落雪ID 593｜社区定数 3｜国服NET显示4。
+- 等级3｜taboo tears you up｜REDALiCE (HARDCORE TANO*C)｜dx BASIC｜落雪ID 602｜社区定数 3｜国服NET显示4。
+- 等级3｜チルノのパーフェクトさんすう教室　⑨周年バージョン｜IOSYSと愉快な⑨周年フレンズ｜dx BASIC｜落雪ID 665｜社区定数 3｜国服NET显示4。
+- 等级3｜Magical Flavor｜DECO*27 feat.Tia｜standard BASIC｜落雪ID 674｜社区定数 3｜国服NET显示4。
+- 等级3｜しねばいいのに｜どぶウサギ｜standard BASIC｜落雪ID 683｜社区定数 3｜国服NET显示4。
+- 等级3｜ダンスロボットダンス｜ナユタン星人｜dx BASIC｜落雪ID 690｜社区定数 3｜国服NET显示4。
+- 等级3｜天狗の落とし文 feat. ｙｔｒ｜魂音泉｜dx BASIC｜落雪ID 699｜社区定数 3｜国服NET显示3。
+- 等级3｜WARNING×WARNING×WARNING｜暁Records｜dx BASIC｜落雪ID 702｜社区定数 3｜国服NET显示3。
+- 等级3｜シャルル｜バルーン｜dx BASIC｜落雪ID 706｜社区定数 3｜国服NET显示3。
+- 等级3｜アンノウン・マザーグース｜wowaka｜standard BASIC｜落雪ID 726｜社区定数 3｜国服NET显示4。
+- 等级3｜妄想感傷代償連盟｜DECO*27｜standard BASIC｜落雪ID 731｜社区定数 3｜国服NET显示3。
+- 等级3｜Rodeo Machine｜HALFBY｜standard BASIC｜落雪ID 753｜社区定数 3｜国服NET显示3。
+- 等级3｜イロトリドリのメロディ｜小仏凪(CV:佐倉薫)｜standard BASIC｜落雪ID 822｜社区定数 3｜国服NET显示4。
+- 等级3｜超常マイマイン｜ナユタン星人｜dx BASIC｜落雪ID 1007｜社区定数 3｜国服NET显示3。
+- 等级3｜STEREOSCAPE｜164 feat. めいちゃん｜dx BASIC｜落雪ID 1009｜社区定数 3｜国服NET显示3。
+- 等级3｜METEOR｜DIVELA feat.初音ミク｜dx BASIC｜落雪ID 1034｜社区定数 3｜国服NET显示3。
+- 等级3｜HOT LIMIT｜T.M.Revolution [covered by 光吉猛修]｜dx BASIC｜落雪ID 1037｜社区定数 3｜国服NET显示4。
+- 等级3｜メルト｜supercell｜dx BASIC｜落雪ID 1043｜社区定数 3｜国服NET显示3。
+- 等级3｜Bad Apple!! feat.nomico (REDALiCE Remix)｜Masayoshi Minoshima × REDALiCE｜dx BASIC｜落雪ID 1049｜社区定数 3｜国服NET显示4。
+- 等级3｜グリーンライツ・セレナーデ｜Omoi feat. 初音ミク｜dx BASIC｜落雪ID 1052｜社区定数 3｜国服NET显示4。
+- 等级3｜デンパラダイム｜lumo｜dx BASIC｜落雪ID 1058｜社区定数 3｜国服NET显示4。
+- 等级3｜骸骨楽団とリリア｜トーマ｜dx BASIC｜落雪ID 1059｜社区定数 3｜国服NET显示4。
+- 等级3｜星屑ユートピア｜otetsu｜dx BASIC｜落雪ID 1060｜社区定数 3｜国服NET显示4。
+- 等级3｜げきオコスティックファイナリアリティぷんぷんマスタースパーク｜ARM (IOSYS)｜dx BASIC｜落雪ID 1066｜社区定数 3｜国服NET显示4。
+- 等级3｜だからパンを焼いたんだ｜あわのあゆむ｜dx BASIC｜落雪ID 1070｜社区定数 3｜国服NET显示3。
+- 等级3｜アカリがやってきたぞっ｜GYARI｜dx BASIC｜落雪ID 1073｜社区定数 3｜国服NET显示4。
+- 等级3｜Jump!! Jump!! Jump!!｜曲：宮崎誠／歌：オンゲキシューターズ｜dx BASIC｜落雪ID 1080｜社区定数 3｜国服NET显示4。
+- 等级3｜サンバランド｜SAMBA MASTER 佐藤｜dx BASIC｜落雪ID 1081｜社区定数 3｜国服NET显示2。
+- 等级3｜Halcyon｜xi｜dx BASIC｜落雪ID 1085｜社区定数 3｜国服NET显示4。
+- 等级3｜だれかの心臓になれたなら｜ユリイ・カノン feat.GUMI｜dx BASIC｜落雪ID 1086｜社区定数 3｜国服NET显示4。
+- 等级3｜39みゅーじっく！｜みきとP｜dx BASIC｜落雪ID 1088｜社区定数 3｜国服NET显示3。
+- 等级3｜シエルブルーマルシェ｜OSTER project feat. かなたん｜dx BASIC｜落雪ID 1100｜社区定数 3｜国服NET显示3。
+- 等级3｜渦状銀河のシンフォニエッタ｜山本真央樹｜dx BASIC｜落雪ID 1103｜社区定数 3｜国服NET显示4。
+- 等级3｜popcorn｜happy machine｜dx BASIC｜落雪ID 1111｜社区定数 3｜国服NET显示4。
+- 等级3｜クレイジー・ビート｜さつき が てんこもり｜dx BASIC｜落雪ID 1125｜社区定数 3｜国服NET显示4。
+- 等级3｜グラーヴェ｜niki｜dx BASIC｜落雪ID 1127｜社区定数 3｜国服NET显示4。
+- 等级3｜KILLER B｜梅とら｜dx BASIC｜落雪ID 1128｜社区定数 3｜国服NET显示4。
+- 等级3｜表裏一体｜すりぃ｜dx BASIC｜落雪ID 1132｜社区定数 3｜国服NET显示4。
+- 等级3｜Catch the Wave｜livetune｜dx BASIC｜落雪ID 1133｜社区定数 3｜国服NET显示3。
+- 等级3｜Oath Act｜暁Records｜dx BASIC｜落雪ID 1136｜社区定数 3｜国服NET显示3。
+- 等级3｜Witches night｜Liz Triangle｜dx BASIC｜落雪ID 1137｜社区定数 3｜国服NET显示4。
+- 等级3｜Drive Your Fire｜A-One｜dx BASIC｜落雪ID 1138｜社区定数 3｜国服NET显示4。
+- 等级3｜NULCTRL｜Silentroom｜dx BASIC｜落雪ID 1142｜社区定数 3｜国服NET显示4。
+- 等级3｜ぼくたちいつでも　しゅわっしゅわ！｜ヒゲドライバー feat.らいむっくま(CV:村川梨衣) ＆ れもんっくま(CV:MoeMi)｜dx BASIC｜落雪ID 1152｜社区定数 3｜国服NET显示4。
+- 等级3｜居並ぶ穀物と溜息まじりの運送屋｜hanzo｜dx BASIC｜落雪ID 1154｜社区定数 3｜国服NET显示4。
+- 等级3｜Komplexe｜雄之助 feat. Sennzai｜dx BASIC｜落雪ID 1158｜社区定数 3｜国服NET显示3。
+- 等级3｜オリフィス｜40mP feat. シャノ｜dx BASIC｜落雪ID 1161｜社区定数 3｜国服NET显示4。
+- 等级3｜REAL VOICE｜達見 恵 featured by 佐野 宏晃｜dx BASIC｜落雪ID 1163｜社区定数 3｜国服NET显示4。
+- 等级3｜パラボラ｜*Luna feat.NORISTRY｜dx BASIC｜落雪ID 1164｜社区定数 3｜国服NET显示5。
+- 等级3｜BIRTH｜llliiillliiilll｜dx BASIC｜落雪ID 1167｜社区定数 3｜国服NET显示5。
+- 等级3｜ステップアンドライム｜YASUHIRO(康寛)｜dx BASIC｜落雪ID 1169｜社区定数 3｜国服NET显示4。
+- 等级3｜届かない花束｜ELECTROCUTICA｜dx BASIC｜落雪ID 1170｜社区定数 3｜国服NET显示4。
+- 等级3｜ポケットからぬりつぶせ！｜曲：中山真斗／歌：マーチングポケッツ [日向 千夏(CV：岡咲 美保)、柏木 美亜(CV：和氣 あず未)、東雲 つむぎ(CV：和泉 風花)]｜dx BASIC｜落雪ID 1172｜社区定数 3｜国服NET显示3。
+- 等级3｜Virtual to LIVE｜にじさんじ｜dx BASIC｜落雪ID 1184｜社区定数 3｜国服NET显示3。
+- 等级3｜命に嫌われている｜カンザキイオリ｜dx BASIC｜落雪ID 1185｜社区定数 3｜国服NET显示4。
+- 等级3｜アンクローズ・ヒューマン｜作曲：カジャ　作詞：傘村トータ　編曲：ねじ式　調声：シリア｜dx BASIC｜落雪ID 1186｜社区定数 3｜国服NET显示4。
+- 等级3｜絶え間なく藍色｜獅子志司｜dx BASIC｜落雪ID 1188｜社区定数 3｜国服NET显示3。
+- 等级3｜とりあえずアナタがいなくなるまえに｜作詞作曲：椎名もた　編曲：KTG　映像：Yuma Saito｜dx BASIC｜落雪ID 1190｜社区定数 3｜国服NET显示3。
+- 等级3｜デリヘル呼んだら君が来た｜ナナホシ管弦楽団｜dx BASIC｜落雪ID 1193｜社区定数 3｜国服NET显示4。
+- 等级3｜絡繰りドール｜SOUND HOLIC feat. Nana Takahashi｜dx BASIC｜落雪ID 1201｜社区定数 3｜国服NET显示4。
+- 等级3｜カラッポ・ノンフィクション｜Ino(chronoize) feat. 柳瀬マサキ｜dx BASIC｜落雪ID 1211｜社区定数 3｜国服NET显示4。
+- 等级3｜Jörqer｜owl＊tree feat.yu＊tree｜dx BASIC｜落雪ID 1214｜社区定数 3｜国服NET显示4。
+- 等级3｜Prismatic｜CielArc｜dx BASIC｜落雪ID 1219｜社区定数 3｜国服NET显示3。
+- 等级3｜Paradisoda｜魂音泉｜dx BASIC｜落雪ID 1224｜社区定数 3｜国服NET显示3。
+- 等级3｜オーケー？　オーライ！｜五十嵐 撫子(CV:花井 美春)｜dx BASIC｜落雪ID 1239｜社区定数 3｜国服NET显示4。
+- 等级3｜サヨナラフリーウェイ｜萩原 七々瀬(CV:東城 日沙子)｜dx BASIC｜落雪ID 1240｜社区定数 3｜国服NET显示4。
+- 等级3｜単一指向性オーバーブルーム｜葛城 華(CV:丸岡 和佳奈)｜dx BASIC｜落雪ID 1241｜社区定数 3｜国服NET显示3。
+- 等级3｜みなえをチェック！｜小野 美苗(CV:伊藤 美来)｜dx BASIC｜落雪ID 1242｜社区定数 3｜国服NET显示3。
+- 等级3｜BOUNCE & DANCE｜IOSYS TRAX｜dx BASIC｜落雪ID 1246｜社区定数 3｜国服NET显示4。
+- 等级3｜Kiss Me Kiss｜曲：大畑拓也／歌：bitter flavor [桜井 春菜(CV：近藤 玲奈)、早乙女 彩華(CV：中島 唯)]｜dx BASIC｜落雪ID 1247｜社区定数 3｜国服NET显示3。
+- 等级3｜Splash Dance!!｜曲：Q-MHz／歌：オンゲキシューターズ｜dx BASIC｜落雪ID 1249｜社区定数 3｜国服NET显示4。
+- 等级3｜おジャ魔女カーニバル!!｜covered by 光吉猛修｜dx BASIC｜落雪ID 1253｜社区定数 3｜国服NET显示3。
+- 等级3｜タケモトピアノCMソング｜タケモトピアノCM｜dx BASIC｜落雪ID 1255｜社区定数 3｜国服NET显示3。
+- 等级3｜ネガティブ進化論｜DECO*27｜dx BASIC｜落雪ID 1260｜社区定数 3｜国服NET显示3。
+- 等级3｜雨とペトラ｜バルーン｜dx BASIC｜落雪ID 1261｜社区定数 3｜国服NET显示4。
+- 等级3｜KING｜Kanaria｜dx BASIC｜落雪ID 1263｜社区定数 3｜国服NET显示3。
+- 等级3｜Alice in 冷凍庫｜Orangestar｜dx BASIC｜落雪ID 1265｜社区定数 3｜国服NET显示3。
+- 等级3｜猫猫的宇宙論｜ナユタン星人｜dx BASIC｜落雪ID 1268｜社区定数 3｜国服NET显示4。
+- 等级3｜今、誰が為のかがり火へ｜幽閉サテライト(Produce:嵯峨飛鳥 Arranged:Iceon)｜dx BASIC｜落雪ID 1276｜社区定数 3｜国服NET显示3。
+- 等级3｜Melody！｜あ～るの～と（いえろ～ぜぶら）｜dx BASIC｜落雪ID 1277｜社区定数 3｜国服NET显示3。
+- 等级3｜下克上々｜豚乙女｜dx BASIC｜落雪ID 1278｜社区定数 3｜国服NET显示3。
+- 等级3｜ハウリング｜Liz Triangle｜dx BASIC｜落雪ID 1279｜社区定数 3｜国服NET显示3。
+- 等级3｜もぺもぺ｜LeaF & Optie｜dx BASIC｜落雪ID 1282｜社区定数 3｜国服NET显示4。
+- 等级3｜Rush-More｜litmus*｜dx BASIC｜落雪ID 1286｜社区定数 3｜国服NET显示4。
+- 等级3｜ALiVE｜REDALiCE｜dx BASIC｜落雪ID 1290｜社区定数 3｜国服NET显示4。
+- 等级3｜ヒミツCULT｜t+pazolite｜dx BASIC｜落雪ID 1291｜社区定数 3｜国服NET显示4。
+- 等级3｜LOSE CONTROL｜Massive New Krew｜dx BASIC｜落雪ID 1293｜社区定数 3｜国服NET显示4。
+- 等级3｜華の集落、秋のお届け｜Umiai｜dx BASIC｜落雪ID 1301｜社区定数 3｜国服NET显示4。
+- 等级3｜We Are Us｜舞ヶ原シンセ研究会｜dx BASIC｜落雪ID 1316｜社区定数 3｜国服NET显示3。
+- 等级3｜Limits｜舞ヶ原シンセ研究会｜dx BASIC｜落雪ID 1317｜社区定数 3｜国服NET显示3。
+- 等级3｜Southern Cross｜403｜dx BASIC｜落雪ID 1333｜社区定数 3｜国服NET显示4。
+- 等级3｜紅星ミゼラブル～廃憶編｜東京アクティブNEETs｜dx BASIC｜落雪ID 1341｜社区定数 3｜国服NET显示3。
+- 等级3｜幻想に咲いた花｜岸田教団&THE明星ロケッツ×草野華余子「東方ダンマクカグラ」｜dx BASIC｜落雪ID 1342｜社区定数 3｜国服NET显示4。
+- 等级3｜マツヨイナイトバグ｜COOL&CREATE feat.ビートまりおとまろん「東方ダンマクカグラ」｜dx BASIC｜落雪ID 1343｜社区定数 3｜国服NET显示5。
+- 等级3｜失敗作少女｜かいりきベア・MARETU feat.初音ミク｜dx BASIC｜落雪ID 1349｜社区定数 3｜国服NET显示3。
+- 等级3｜ノイローゼ｜蜂屋ななし｜dx BASIC｜落雪ID 1351｜社区定数 3｜国服NET显示3。
+- 等级3｜春嵐｜john｜dx BASIC｜落雪ID 1354｜社区定数 3｜国服NET显示3。
+- 等级3｜リモコン｜じーざす（ワンダフル☆オポチュニティ！）｜dx BASIC｜落雪ID 1360｜社区定数 3｜国服NET显示3。
+- 等级3｜ヒステリックナイトガール｜PSYQUI｜dx BASIC｜落雪ID 1373｜社区定数 3｜国服NET显示4。
+- 等级3｜ミルキースター・シューティングスター｜烏屋茶房 feat. 利香｜dx BASIC｜落雪ID 1375｜社区定数 3｜国服NET显示3。
+- 等级3｜ｉｓｏｐｈｏｔｅ｜パソコン音楽クラブ feat.ぷにぷに電機｜dx BASIC｜落雪ID 1376｜社区定数 3｜国服NET显示3。
+- 等级3｜Irresistible｜MK｜dx BASIC｜落雪ID 1383｜社区定数 3｜国服NET显示3。
+- 等级3｜コスモポップファンクラブ｜ナユタン星人｜dx BASIC｜落雪ID 1401｜社区定数 3｜国服NET显示3。
+- 等级3｜See The Light｜anubasu-anubasu｜dx BASIC｜落雪ID 1404｜社区定数 3｜国服NET显示3。
+- 等级3｜ヴァンパイア｜DECO*27｜dx BASIC｜落雪ID 1410｜社区定数 3｜国服NET显示3。
+- 等级3｜エンヴィーベイビー｜Kanaria｜dx BASIC｜落雪ID 1411｜社区定数 3｜国服NET显示3。
+- 等级3｜enchanted love｜linear ring｜dx BASIC｜落雪ID 1418｜社区定数 3｜国服NET显示3。
+- 等级3｜Caterpillar Song｜Bitplane feat. 葉月ゆら｜dx BASIC｜落雪ID 1419｜社区定数 3｜国服NET显示3。
+- 等级3｜　｜x0o0x_｜dx BASIC｜落雪ID 1422｜社区定数 3｜国服NET显示3。
+- 等级3｜Define｜Zekk｜dx BASIC｜落雪ID 1427｜社区定数 3｜国服NET显示3。
+- 等级3｜Spring of Dreams｜3L (NJK Record)｜dx BASIC｜落雪ID 1434｜社区定数 3｜国服NET显示3。
+- 等级3｜大輪の魂 (feat. AO, 司芭扶)｜魂音泉｜dx BASIC｜落雪ID 1435｜社区定数 3｜国服NET显示3。
+- 等级3｜三妖精SAY YA!!!｜森羅万象｜dx BASIC｜落雪ID 1437｜社区定数 3｜国服NET显示3。
+- 等级3｜ジャンキーナイトタウンオーケストラ｜すりぃ｜dx BASIC｜落雪ID 1439｜社区定数 3｜国服NET显示3。
+- 等级3｜若い力｜作詞：セガ社員、作曲：若草恵、歌：135｜dx BASIC｜落雪ID 1444｜社区定数 3｜国服NET显示3。
+- 等级3｜分解収束テイル｜un:c・konoco×cosMo＠暴走P｜dx BASIC｜落雪ID 1456｜社区定数 3｜国服NET显示3。
+- 等级3｜You Mean the World to Me｜Mameyudoufu feat. Shully｜dx BASIC｜落雪ID 1459｜社区定数 3｜国服NET显示3。
+- 等级3｜RIFFRAIN｜夏代孝明｜dx BASIC｜落雪ID 1463｜社区定数 3｜国服NET显示3。
+- 等级3｜Beat Opera op.1｜bermei.inazawa｜dx BASIC｜落雪ID 1467｜社区定数 3｜国服NET显示3。
+- 等级3｜アニマル｜DECO*27｜dx BASIC｜落雪ID 1481｜社区定数 3｜国服NET显示3。
+- 等级3｜ジレンマ｜DECO*27｜dx BASIC｜落雪ID 1482｜社区定数 3｜国服NET显示3。
+- 等级3｜スカーレット警察のゲットーパトロール24時｜七条レタスグループ｜dx BASIC｜落雪ID 1488｜社区定数 3｜国服NET显示3。
+- 等级3｜Random｜Sobrem × Silentroom｜dx BASIC｜落雪ID 1490｜社区定数 3｜国服NET显示3。
+- 等级3｜ワーワーワールド｜Giga & Mitchie M / 初音ミク、花里みのり、小豆沢こはね「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」｜dx BASIC｜落雪ID 1494｜社区定数 3｜国服NET显示3。
+- 等级3｜銀のめぐり｜SYNC.ART'S feat. 3L｜dx BASIC｜落雪ID 1495｜社区定数 3｜国服NET显示3。
+- 等级3｜In my world (Prod. KOTONOHOUSE)｜鳳凰火凛・瀬戸海月・大賀ルキア「電音部」｜dx BASIC｜落雪ID 1507｜社区定数 3｜国服NET显示3。
+- 等级3｜NightTheater｜わかどり｜dx BASIC｜落雪ID 1509｜社区定数 3｜国服NET显示3。
+- 等级3｜キュートなカノジョ｜syudou　feat.音楽的同位体　可不（KAFU）｜dx BASIC｜落雪ID 1510｜社区定数 3｜国服NET显示3。
+- 等级3｜Lost Desire｜Powerless feat. Sennzai｜dx BASIC｜落雪ID 1514｜社区定数 3｜国服NET显示3。
+- 等级3｜ボッカデラベリタ｜柊キライ｜dx BASIC｜落雪ID 1518｜社区定数 3｜国服NET显示3。
+- 等级3｜Alice's Suitcase｜Endorfin.｜dx BASIC｜落雪ID 1524｜社区定数 3｜国服NET显示3。
+- 等级3｜トノサマビーム｜ぼっちぼろまる｜dx BASIC｜落雪ID 1526｜社区定数 3｜国服NET显示3。
+- 等级3｜enchanted wanderer｜linear ring｜dx BASIC｜落雪ID 1527｜社区定数 3｜国服NET显示3。
+- 等级3｜ヱデン｜koyori（電ポルP）｜dx BASIC｜落雪ID 1532｜社区定数 3｜国服NET显示3。
+- 等级3｜リフヴェイン｜青栗鼠 feat.sekai｜dx BASIC｜落雪ID 1539｜社区定数 3｜国服NET显示3。
+- 等级3｜モ°ルモ°ル (MZK Skippin' Remix)｜sasakure.UK／水野健治｜dx BASIC｜落雪ID 1543｜社区定数 3｜国服NET显示3。
+- 等级3｜隠密あんみつDX｜カルロス袴田 feat. 日南めい, 古川由彩｜dx BASIC｜落雪ID 1545｜社区定数 3｜国服NET显示3。
+- 等级3｜STARRED HEART｜曲：広川恵一 (MONACA)／歌：オンゲキシューターズ｜dx BASIC｜落雪ID 1551｜社区定数 3｜国服NET显示3。
+- 等级3｜不機嫌なスリーカード｜HIMEHINA｜dx BASIC｜落雪ID 1557｜社区定数 3｜国服NET显示3。
+- 等级3｜魔法少女とチョコレゐト｜ピノキオピー｜dx BASIC｜落雪ID 1559｜社区定数 3｜国服NET显示3。
+- 等级3｜阿修羅ちゃん｜Ado｜dx BASIC｜落雪ID 1560｜社区定数 3｜国服NET显示3。
+- 等级3｜おとせサンダー｜ぼっちぼろまる｜dx BASIC｜落雪ID 1561｜社区定数 3｜国服NET显示3。
+- 等级3｜リスペク風神｜ビートまりおとまろん｜dx BASIC｜落雪ID 1564｜社区定数 3｜国服NET显示3。
+- 等级3｜Let you DIVE!｜HARDCORE TANO*C & エリザベス（CV:大西沙織）｜dx BASIC｜落雪ID 1565｜社区定数 3｜国服NET显示3。
+- 等级3｜Lights of Muse｜Ayatsugu_Otowa｜dx BASIC｜落雪ID 1571｜社区定数 3｜国服NET显示3。
+- 等级3｜The 90's Decision｜MYUKKE.｜dx BASIC｜落雪ID 1574｜社区定数 3｜国服NET显示3。
+- 等级3｜インターネットサバイバー｜あやぽんず＊ feat.ビートまりお × まろん｜dx BASIC｜落雪ID 1583｜社区定数 3｜国服NET显示3。
+- 等级3｜Sunday Night feat Kanata.N｜Mameyudoufu｜dx BASIC｜落雪ID 1585｜社区定数 3｜国服NET显示3。
+- 等级3｜DROPS feat. Such｜Zekk & poplavor｜dx BASIC｜落雪ID 1589｜社区定数 3｜国服NET显示3。
+- 等级3｜私のドッペルゲンガー｜DIVELA　feat.音楽的同位体　可不（KAFU）｜dx BASIC｜落雪ID 1593｜社区定数 3｜国服NET显示3。
+- 等级3｜ノンブレス・オブリージュ｜ピノキオピー｜dx BASIC｜落雪ID 1597｜社区定数 3｜国服NET显示3。
+- 等级3｜感情ディシーブ｜ろーある｜dx BASIC｜落雪ID 1600｜社区定数 3｜国服NET显示3。
+- 等级3｜絶対敵対メチャキライヤー｜メドミア｜dx BASIC｜落雪ID 1602｜社区定数 3｜国服NET显示3。
+- 等级3｜Bad Apple!! feat.nomico ～五十嵐 撫子 Ver.～｜Masayoshi Minoshima [covered by 五十嵐 撫子(CV:花井 美春)]｜dx BASIC｜落雪ID 1605｜社区定数 3｜国服NET显示3。
+- 等级3｜Mystic Parade｜ひとしずく×やま△ feat.悠佑＆ないこ（いれいす）｜dx BASIC｜落雪ID 1613｜社区定数 3｜国服NET显示3。
+- 等级3｜ふらふらふら、｜アオワイファイ feat.犀羅｜dx BASIC｜落雪ID 1621｜社区定数 3｜国服NET显示3。
+- 等级3｜1000年生きてる｜いよわ｜dx BASIC｜落雪ID 1630｜社区定数 3｜国服NET显示3。
+- 等级3｜IMAWANOKIWA｜いよわ｜dx BASIC｜落雪ID 1631｜社区定数 3｜国服NET显示3。
+- 等级3｜Love Kills U｜EmoCosine｜dx BASIC｜落雪ID 1641｜社区定数 3｜国服NET显示3。
+- 等级3｜トンデモワンダーズ｜sasakure.UK｜dx BASIC｜落雪ID 1645｜社区定数 3｜国服NET显示3。
+- 等级3｜ずんだもんの朝食　〜目覚ましずんラップ〜｜ひらうみ｜dx BASIC｜落雪ID 1650｜社区定数 3｜国服NET显示3。
+- 等级3｜ULTRA POWER｜SARUKANI｜dx BASIC｜落雪ID 1653｜社区定数 3｜国服NET显示3。
+- 等级3｜QUEEN｜Kanaria｜dx BASIC｜落雪ID 1658｜社区定数 3｜国服NET显示3。
+- 等级3｜RAD DOGS｜八王子P / 初音ミク / Vivid BAD SQUAD「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」｜dx BASIC｜落雪ID 1665｜社区定数 3｜国服NET显示3。
+- 等级3｜アイディスマイル｜とあ / MEIKO / 25時、ナイトコードで。「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」｜dx BASIC｜落雪ID 1666｜社区定数 3｜国服NET显示3。
+- 等级3｜にっこり^^調査隊のテーマ｜ワンダフル☆オポチュニティ！ / 初音ミク / ワンダーランズ×ショウタイム「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」｜dx BASIC｜落雪ID 1667｜社区定数 3｜国服NET显示3。
+- 等级3｜のじゃロリック｜なみぐる feat.ちょこ 桃寝ちのい｜dx BASIC｜落雪ID 1670｜社区定数 3｜国服NET显示3。
+- 等级3｜Cider P@rty｜Ryo Fukuda｜dx BASIC｜落雪ID 1674｜社区定数 3｜国服NET显示3。
+- 等级3｜The Cursed Doll｜清風明月（Drop×葉月ゆら）｜dx BASIC｜落雪ID 1683｜社区定数 3｜国服NET显示3。
+- 等级3｜Baqeela｜owl＊tree｜dx BASIC｜落雪ID 1690｜社区定数 3｜国服NET显示3。
+- 等级3｜寝起きヤシの木｜ゆこぴ｜dx BASIC｜落雪ID 1695｜社区定数 3｜国服NET显示3。
+- 等级3｜アイドル｜YOASOBI｜dx BASIC｜落雪ID 1696｜社区定数 3｜国服NET显示3。
+- 等级3｜ラビットホール｜DECO*27｜dx BASIC｜落雪ID 1697｜社区定数 3｜国服NET显示3。
+- 等级3｜新人類｜まらしぃ×じん×堀江晶太(kemu) feat.鏡音リン｜dx BASIC｜落雪ID 1699｜社区定数 3｜国服NET显示3。
+- 等级3｜Freak Out Hr.｜雄之助 feat. POPY & ROSE｜dx BASIC｜落雪ID 1700｜社区定数 3｜国服NET显示3。
+- 等级3｜さよならヒストリー｜森羅万象｜dx BASIC｜落雪ID 1701｜社区定数 3｜国服NET显示3。
+- 等级3｜New York Back Raise｜saaa + kei_iwata + stuv + わかどり｜dx BASIC｜落雪ID 1702｜社区定数 3｜国服NET显示3。
+- 等级3｜DUAL ROZES｜SOUND HOLIC Vs. Eurobeat Union feat. Nana Takahashi｜dx BASIC｜落雪ID 1704｜社区定数 3｜国服NET显示3。
+- 等级3｜VOLT｜aran｜dx BASIC｜落雪ID 1705｜社区定数 3｜国服NET显示3。
+- 等级3｜おくすり飲んで寝よう｜もちうつね｜dx BASIC｜落雪ID 1711｜社区定数 3｜国服NET显示3。
+- 等级3｜匿名M｜ピノキオピー｜dx BASIC｜落雪ID 1714｜社区定数 3｜国服NET显示3。
+- 等级3｜ライアーダンサー｜マサラダ｜dx BASIC｜落雪ID 1715｜社区定数 3｜国服NET显示3。
+- 等级3｜Trust｜Massive New Krew feat. 光吉猛修｜dx BASIC｜落雪ID 1726｜社区定数 3｜国服NET显示3。
+- 等级3｜スティールユー｜Omoi｜dx BASIC｜落雪ID 1728｜社区定数 3｜国服NET显示3。
+- 等级3｜オシオキGIMMICK!!｜Junky｜dx BASIC｜落雪ID 1729｜社区定数 3｜国服NET显示3。
+- 等级3｜シュガーホリック｜周防パトラ｜dx BASIC｜落雪ID 1731｜社区定数 3｜国服NET显示3。
+- 等级3｜壱雫空｜MyGO!!!!!｜dx BASIC｜落雪ID 1734｜社区定数 3｜国服NET显示3。
+- 等级3｜プリズム△▽リズム｜Shoichiro Hirata feat.Sana｜dx BASIC｜落雪ID 1736｜社区定数 3｜国服NET显示3。
+- 等级3｜パラドクスイヴ｜Teary Planet｜dx BASIC｜落雪ID 1737｜社区定数 3｜国服NET显示3。
+- 等级3｜シスターシスター｜せきこみごはん｜dx BASIC｜落雪ID 1748｜社区定数 3｜国服NET显示3。
+- 等级3｜勇者｜YOASOBI｜dx BASIC｜落雪ID 1760｜社区定数 3｜国服NET显示3。
+- 等级3｜ダーリンダンス｜かいりきベア｜dx BASIC｜落雪ID 1763｜社区定数 3｜国服NET显示3。
+- 等级3｜愛包ダンスホール｜HIMEHINA｜dx BASIC｜落雪ID 1765｜社区定数 3｜国服NET显示3。
+- 等级3｜マツケンサンバⅡ｜松平健 [covered by 光吉猛修]｜dx BASIC｜落雪ID 1766｜社区定数 3｜国服NET显示3。
+- 等级3｜デビルじゃないもん｜DECO*27, ピノキオピー｜dx BASIC｜落雪ID 1767｜社区定数 3｜国服NET显示3。
+- 等级3｜人マニア｜原口沙輔 feat.重音テト｜dx BASIC｜落雪ID 1772｜社区定数 3｜国服NET显示3。
+- 等级3｜メイトなやつら（FEAT. 天開司, 佐藤ホームズ, あっくん大魔王 & 歌衣メイカ）｜MonsterZ MATE｜dx BASIC｜落雪ID 1774｜社区定数 3｜国服NET显示3。
+- 等级3｜モンスターカミング｜おめがシスターズ｜dx BASIC｜落雪ID 1775｜社区定数 3｜国服NET显示3。
+- 等级3｜人間が大好きなこわれた妖怪の唄｜ビートまりお｜dx BASIC｜落雪ID 1777｜社区定数 3｜国服NET显示3。
+- 等级3｜プラネタリウム・レヴュー｜千寿 暦(CV.鳥部万里子)、ラモーナ・ウォルフ(CV.田中美海)、王 雪(CV.花井美春)、リリヤ・クルトベイ(CV.安齋由香里)、与那国緋花里(CV.下地紫野)｜dx BASIC｜落雪ID 1779｜社区定数 3｜国服NET显示3。
+- 等级3｜演劇｜ナノウ｜dx BASIC｜落雪ID 1780｜社区定数 3｜国服NET显示3。
+- 等级3｜無間嫉妬劇場『666』｜森羅万象｜dx BASIC｜落雪ID 1781｜社区定数 3｜国服NET显示3。
+- 等级3｜夢現妄想世界｜夢限大みゅーたいぷ｜dx BASIC｜落雪ID 1782｜社区定数 3｜国服NET显示3。
+- 等级3｜てらてら｜和田たけあき｜dx BASIC｜落雪ID 1785｜社区定数 3｜国服NET显示3。
+- 等级3｜迷える音色は恋の唄｜からとP⍺ոchii少年 feat.はるの｜dx BASIC｜落雪ID 1787｜社区定数 3｜国服NET显示3。
+- 等级3｜On your mark (104期 Ver.)｜蓮ノ空女学院スクールアイドルクラブ｜dx BASIC｜落雪ID 1791｜社区定数 3｜国服NET显示3。
+- 等级3｜右に曲ガール｜はるふり｜dx BASIC｜落雪ID 1795｜社区定数 3｜国服NET显示3。
+- 等级3｜お願い！コンコンお稲荷さま｜ARM×狐夢想 feat. ななひら｜dx BASIC｜落雪ID 1798｜社区定数 3｜国服NET显示3。
+- 等级3｜ワールドワイドワンダー｜TOKOTOKO（西沢さんP）｜dx BASIC｜落雪ID 1802｜社区定数 3｜国服NET显示3。
+- 等级3｜リアライズ｜柊マグネタイト｜dx BASIC｜落雪ID 1805｜社区定数 3｜国服NET显示3。
+- 等级3｜忙シー日｜原口沙輔, 式部めぐり｜dx BASIC｜落雪ID 1813｜社区定数 3｜国服NET显示3。
+- 等级3｜砂の函｜Nego_tiator｜dx BASIC｜落雪ID 1816｜社区定数 3｜国服NET显示3。
+- 等级3｜AFTER PANDORA｜削除｜standard BASIC｜落雪ID 1819｜社区定数 3｜未匹配NET快照。
+- 等级3｜なんかノイズにきこえる｜HaNaMiNa feat.Hana｜dx BASIC｜落雪ID 1824｜社区定数 3｜国服NET显示3。
+- 等级3｜Lover's Trick｜litmus*｜dx BASIC｜落雪ID 1826｜社区定数 3｜未配信；未匹配NET快照。
+- 等级3｜サウンドプレイヤー｜tilt-six feat.バル｜dx BASIC｜落雪ID 1827｜社区定数 3｜国服NET显示3。
+- 等级3｜crazy (about you)｜kamome sano｜dx BASIC｜落雪ID 1828｜社区定数 3｜国服NET显示3。
+- 等级3｜きゅびずむ｜超てんちゃん｜dx BASIC｜落雪ID 1831｜社区定数 3｜国服NET显示3。
+- 等级3｜はいよろこんで｜こっちのけんと｜dx BASIC｜落雪ID 1835｜社区定数 3｜国服NET显示3。
+- 等级3｜シカ色デイズ｜シカ部 [鹿乃子のこ (CV.潘めぐみ)、虎視虎子 (CV.藤田 咲)、虎視餡子 (CV.田辺留依)、馬車芽めめ (CV.和泉風花)]｜dx BASIC｜落雪ID 1837｜社区定数 3｜国服NET显示3。
+- 等级3｜メズマライザー｜サツキ feat.初音ミク・重音テト｜dx BASIC｜落雪ID 1838｜社区定数 3｜国服NET显示3。
+- 等级3｜のだ｜大漠波新｜dx BASIC｜落雪ID 1840｜社区定数 3｜国服NET显示3。
+- 等级3｜Idoratrize World｜A-One｜dx BASIC｜落雪ID 1841｜社区定数 3｜国服NET显示3。
+- 等级3｜モエチャッカファイア｜弌誠「ゲーム『ゼンレスゾーンゼロ』エレン・ジョー 同人イメージソング」｜dx BASIC｜落雪ID 1844｜社区定数 3｜国服NET显示3。
+- 等级3｜マヌルネコのうた｜小田朋美｜dx BASIC｜落雪ID 1845｜社区定数 3｜国服NET显示3。
+- 等级3｜あいたい星人｜DECO*27｜dx BASIC｜落雪ID 1850｜社区定数 3｜国服NET显示3。
+- 等级3｜ハオ｜DECO*27｜dx BASIC｜落雪ID 1851｜社区定数 3｜国服NET显示3。
+- 等级3｜好きな惣菜発表ドラゴン｜ンバヂ｜dx BASIC｜落雪ID 1852｜社区定数 3｜国服NET显示3。
+- 等级3｜空回りライブラリ｜雪乃イト｜dx BASIC｜落雪ID 1857｜社区定数 3｜未配信；未匹配NET快照。
+- 等级3｜㋰責任集合体｜マサラダ｜dx BASIC｜落雪ID 1862｜社区定数 3｜国服NET显示3。
+- 等级3｜三日月ステップ 2023｜r-906｜dx BASIC｜落雪ID 1863｜社区定数 3｜国服NET显示3。
+- 等级3｜うぇいびー｜三枝明那｜dx BASIC｜落雪ID 1867｜社区定数 3｜国服NET显示3。
+- 等级3｜RED｜三枝明那｜dx BASIC｜落雪ID 1868｜社区定数 3｜国服NET显示3。
+- 等级3｜クーネル・エンゲイザー｜電ǂ鯨｜dx BASIC｜落雪ID 1871｜社区定数 3｜国服NET显示3。
+- 等级3｜抜錨｜ナナホシ管弦楽団｜dx BASIC｜落雪ID 1873｜社区定数 3｜国服NET显示3。
+- 等级3｜NO ONE YES MAN｜MYUKKE.｜dx BASIC｜落雪ID 1874｜社区定数 3｜未配信；未匹配NET快照。
+- 等级3｜Leave All Behind｜rider｜dx BASIC｜落雪ID 1875｜社区定数 3｜未配信；未匹配NET快照。
+- 等级3｜Pixel Galaxy｜Snail's House｜dx BASIC｜落雪ID 1878｜社区定数 3｜国服NET显示3。
+- 等级3｜エンジェル ドリーム｜「太鼓の達人」より｜dx BASIC｜落雪ID 1919｜社区定数 3｜国服NET显示3。

@@ -1,0 +1,288 @@
+# 等级 8 的常规谱面索引
+
+国服社区快照 2026-11-01；分组依据落雪显示等级，不含宴会场。
+每行保留曲名、类型、难度和来源；两源等级不同已标明。disabled/未配信不代表可游玩。
+
+- 等级8｜jelly｜capsule [cover]｜standard ADVANCED｜落雪ID 42｜社区定数 8｜国服NET显示7。
+- 等级8｜教えて!! 魔法のLyric｜ちょむP ＜advanced mix＞｜standard ADVANCED｜落雪ID 64｜社区定数 8｜国服NET显示7。
+- 等级8｜天国と地獄｜スーパーラバーズ「赤ちゃんはどこからくるの？」｜standard ADVANCED｜落雪ID 75｜社区定数 8｜国服NET显示7。
+- 等级8｜ソーラン☆節｜光吉猛修｜standard ADVANCED｜落雪ID 119｜社区定数 8｜国服NET显示7。
+- 等级8｜ナイト・オブ・ナイツ｜ビートまりお(COOL＆CREATE)｜standard ADVANCED｜落雪ID 204｜社区定数 8｜国服NET显示7。
+- 等级8｜CYCLES｜Masayoshi Minoshima feat. 綾倉盟｜standard ADVANCED｜落雪ID 230｜社区定数 8｜国服NET显示7。
+- 等级8｜ユビキリ｜山根ミチル｜standard ADVANCED｜落雪ID 236｜社区定数 8｜国服NET显示7。
+- 等级8｜Monochrome Rainbow｜Sta｜dx ADVANCED｜落雪ID 251｜社区定数 8｜国服NET显示8。
+- 等级8｜患部で止まってすぐ溶ける～狂気の優曇華院｜ARM＋夕野ヨシミ(IOSYS)feat. miko｜standard ADVANCED｜落雪ID 301｜社区定数 8｜国服NET显示7。
+- 等级8｜RIDGE RACER STEPS -GMT remix-｜Yuji Masubuchi(BNGI)「RIDGE RACER」｜standard ADVANCED｜落雪ID 344｜社区定数 8｜国服NET显示7。
+- 等级8｜Dragoon｜Shandy kubota｜dx ADVANCED｜落雪ID 367｜社区定数 8｜国服NET显示8。
+- 等级8｜初音ミクの消失｜cosMo＠暴走P｜dx ADVANCED｜落雪ID 411｜社区定数 8｜国服NET显示8。
+- 等级8｜welcome to maimai!! with マイマイマー｜Hiro feat.越田Rute隆人&ビートまりお｜standard ADVANCED｜落雪ID 418｜社区定数 8｜国服NET显示7。
+- 等级8｜ストリーミングハート｜DECO*27｜standard ADVANCED｜落雪ID 419｜社区定数 8｜国服NET显示8。
+- 等级8｜Change Our MIRAI！｜イロドリミドリ「CHUNITHM」｜standard ADVANCED｜落雪ID 420｜社区定数 8｜国服NET显示7。
+- 等级8｜囲い無き世は一期の月影｜豚乙女｜standard ADVANCED｜落雪ID 483｜社区定数 8｜国服NET显示7。
+- 等级8｜チュルリラ・チュルリラ・ダッダッダ！｜和田たけあき(くらげP)｜standard ADVANCED｜落雪ID 553｜社区定数 8｜国服NET显示7。
+- 等级8｜Last Brave ～ Go to zero｜MECHANiCAL PANDA「BORDER BREAK」｜standard ADVANCED｜落雪ID 557｜社区定数 8｜国服NET显示7。
+- 等级8｜conflict｜siromaru + cranky｜standard ADVANCED｜落雪ID 593｜社区定数 8｜国服NET显示7。
+- 等级8｜Maxi｜Nizikawa｜dx ADVANCED｜落雪ID 625｜社区定数 8｜国服NET显示8。
+- 等级8｜光線チューニング｜ナユタン星人｜standard ADVANCED｜落雪ID 628｜社区定数 8｜国服NET显示7。
+- 等级8｜エイリアンエイリアン｜ナユタン星人｜standard ADVANCED｜落雪ID 647｜社区定数 8｜国服NET显示7。
+- 等级8｜オーディエンスを沸かす程度の能力 feat.タイツォン｜D.watt(IOSYS)＋らっぷびと｜standard ADVANCED｜落雪ID 657｜社区定数 8｜国服NET显示7。
+- 等级8｜咲キ誇レ常世ノ華｜Sou×マチゲリータ｜standard ADVANCED｜落雪ID 673｜社区定数 8｜国服NET显示7。
+- 等级8｜ダンスロボットダンス｜ナユタン星人｜standard ADVANCED｜落雪ID 690｜社区定数 8｜国服NET显示7。
+- 等级8｜アウターサイエンス｜じん｜standard ADVANCED｜落雪ID 709｜社区定数 8｜国服NET显示7。
+- 等级8｜REVIVER オルタンシア・サーガ -蒼の騎士団- オリジナルVer.｜MY FIRST STORY｜standard ADVANCED｜落雪ID 710｜社区定数 8｜国服NET显示7。
+- 等级8｜ENERGY SYNERGY MATRIX｜Tanchiky｜dx ADVANCED｜落雪ID 734｜社区定数 8｜国服NET显示8。
+- 等级8｜FestivaLight｜霜月はるか｜standard ADVANCED｜落雪ID 737｜社区定数 8｜国服NET显示7。
+- 等级8｜インビジブル｜kemu｜standard ADVANCED｜落雪ID 741｜社区定数 8｜国服NET显示7。
+- 等级8｜はやくそれになりたい！｜キノシタ feat. 音街ウナ｜standard ADVANCED｜落雪ID 763｜社区定数 8｜国服NET显示7。
+- 等级8｜アマノジャクリバース feat. ｙｔｒ｜魂音泉｜standard ADVANCED｜落雪ID 766｜社区定数 8｜国服NET显示7。
+- 等级8｜ロキ｜みきとP｜standard ADVANCED｜落雪ID 793｜社区定数 8｜国服NET显示7。
+- 等级8｜バーチャルダム　ネーション｜Sampling Masters MEGA｜dx ADVANCED｜落雪ID 1005｜社区定数 8｜国服NET显示8。
+- 等级8｜玩具狂奏曲 -終焉-｜きくお｜dx ADVANCED｜落雪ID 1028｜社区定数 8｜国服NET显示8。
+- 等级8｜Titania｜xi｜dx ADVANCED｜落雪ID 1029｜社区定数 8｜国服NET显示8。
+- 等级8｜Destr0yer｜削除 feat. Nikki Simmons｜standard ADVANCED｜落雪ID 1051｜社区定数 8｜国服NET显示8。
+- 等级8｜Black Lair｜削除 feat. void (Mournfinale)｜dx ADVANCED｜落雪ID 1140｜社区定数 8｜国服NET显示8。
+- 等级8｜Beautiful Future｜PSYQUI｜dx ADVANCED｜落雪ID 1159｜社区定数 8｜国服NET显示8。
+- 等级8｜パラボラ｜*Luna feat.NORISTRY｜dx ADVANCED｜落雪ID 1164｜社区定数 8｜国服NET显示8。
+- 等级8｜Grievous Lady｜Team Grimoire vs Laur｜dx ADVANCED｜落雪ID 1209｜社区定数 8｜国服NET显示8。
+- 等级8｜Arty Party｜yaseta｜dx ADVANCED｜落雪ID 1213｜社区定数 8｜国服NET显示8。
+- 等级8｜Sqlupp (Camellia's "Sqleipd*Hiytex" Remix)｜owl＊tree Remixed by Camellia｜dx ADVANCED｜落雪ID 1215｜社区定数 8｜国服NET显示8。
+- 等级8｜生命不詳｜蜂屋ななし｜dx ADVANCED｜落雪ID 1231｜社区定数 8｜国服NET显示8。
+- 等级8｜Last Samurai｜Street｜dx ADVANCED｜落雪ID 1236｜社区定数 8｜国服NET显示8。
+- 等级8｜Re：End of a Dream｜uma vs. モリモリあつし｜dx ADVANCED｜落雪ID 1281｜社区定数 8｜国服NET显示8。
+- 等级8｜もぺもぺ｜LeaF & Optie｜dx ADVANCED｜落雪ID 1282｜社区定数 8｜国服NET显示8。
+- 等级8｜華の集落、秋のお届け｜Umiai｜standard ADVANCED｜落雪ID 1301｜社区定数 8｜国服NET显示8。
+- 等级8｜Yorugao｜An & Ryunosuke Kudo｜dx ADVANCED｜落雪ID 1307｜社区定数 8｜国服NET显示8。
+- 等级8｜前衛的Landscape｜HiTECH NINJA feat. RANASOL｜dx ADVANCED｜落雪ID 1309｜社区定数 8｜国服NET显示8。
+- 等级8｜Falsum Atlantis.｜kanone｜dx ADVANCED｜落雪ID 1315｜社区定数 8｜国服NET显示8。
+- 等级8｜ハードコア・シンドローム｜t+pazolite (HARDCORE TANO*C) feat.TANO*C ALL STARS｜dx ADVANCED｜落雪ID 1319｜社区定数 8｜国服NET显示8。
+- 等级8｜パラマウント☆ショータイム！！｜翡乃イスカ｜dx ADVANCED｜落雪ID 1377｜社区定数 8｜国服NET显示8。
+- 等级8｜HECATONCHEIR｜Yuta Imai｜dx ADVANCED｜落雪ID 1382｜社区定数 8｜国服NET显示8。
+- 等级8｜Swift Swing｜Laur｜dx ADVANCED｜落雪ID 1386｜社区定数 8｜国服NET显示8。
+- 等级8｜チューリングの跡｜Frums｜dx ADVANCED｜落雪ID 1388｜社区定数 8｜国服NET显示8。
+- 等级8｜Metamorphosism｜削除｜dx ADVANCED｜落雪ID 1392｜社区定数 8｜国服NET显示8。
+- 等级8｜[X]｜Blacklolita｜dx ADVANCED｜落雪ID 1455｜社区定数 8｜国服NET显示8。
+- 等级8｜Rising on the horizon｜TAG｜dx ADVANCED｜落雪ID 1458｜社区定数 8｜国服NET显示8。
+- 等级8｜VSpook!｜s-don｜dx ADVANCED｜落雪ID 1462｜社区定数 8｜国服NET显示8。
+- 等级8｜星見草｜秋田 真典｜dx ADVANCED｜落雪ID 1468｜社区定数 8｜国服NET显示8。
+- 等级8｜MAGNETAR GIRL｜Yu-dachi｜dx ADVANCED｜落雪ID 1474｜社区定数 8｜国服NET显示8。
+- 等级8｜電光石火｜HiTECH NINJA｜dx ADVANCED｜落雪ID 1478｜社区定数 8｜国服NET显示8。
+- 等级8｜Hainuwele｜ETIA.｜dx ADVANCED｜落雪ID 1479｜社区定数 8｜国服NET显示8。
+- 等级8｜The Great Banquet｜Iris｜dx ADVANCED｜落雪ID 1534｜社区定数 8｜国服NET显示8。
+- 等级8｜Trrricksters!!｜s-don vs. 翡乃イスカ｜dx ADVANCED｜落雪ID 1549｜社区定数 8｜国服NET显示8。
+- 等级8｜LAMIA｜BlackY｜dx ADVANCED｜落雪ID 1554｜社区定数 8｜国服NET显示8。
+- 等级8｜僕の和風本当上手｜ボス｜dx ADVANCED｜落雪ID 1575｜社区定数 8｜国服NET显示8。
+- 等级8｜Halfway(＞∀＜)｜Blacklolita｜dx ADVANCED｜落雪ID 1587｜社区定数 8｜国服NET显示8。
+- 等级8｜Vallista｜削除｜dx ADVANCED｜落雪ID 1596｜社区定数 8｜国服NET显示8。
+- 等级8｜Horoscope Express｜pan｜dx ADVANCED｜落雪ID 1610｜社区定数 8｜国服NET显示8。
+- 等级8｜Energizing Flame｜Artifact vs. Dualcast｜dx ADVANCED｜落雪ID 1618｜社区定数 8｜国服NET显示8。
+- 等级8｜WE'RE BACK!!｜Zekk｜dx ADVANCED｜落雪ID 1628｜社区定数 8｜国服NET显示8。
+- 等级8｜OMAKENO Stroke｜t+pazolite｜dx ADVANCED｜落雪ID 1633｜社区定数 8｜国服NET显示8。
+- 等级8｜星界ちゃんと可不ちゃんのおつかい合騒曲｜南ノ南｜dx ADVANCED｜落雪ID 1638｜社区定数 8｜国服NET显示8。
+- 等级8｜ずんだもんの朝食　〜目覚ましずんラップ〜｜ひらうみ｜dx ADVANCED｜落雪ID 1650｜社区定数 8｜国服NET显示8。
+- 等级8｜Edelweiss｜やどりぎ｜dx ADVANCED｜落雪ID 1671｜社区定数 8｜国服NET显示8。
+- 等级8｜IF:U｜MisoilePunch♪｜dx ADVANCED｜落雪ID 1673｜社区定数 8｜国服NET显示8。
+- 等级8｜RE:INCARNATED DRAGNER｜黒沢ダイスケ × 小寺可南子｜dx ADVANCED｜落雪ID 1678｜社区定数 8｜国服NET显示8。
+- 等级8｜Λzure Vixen｜かめりあ｜dx ADVANCED｜落雪ID 1686｜社区定数 8｜国服NET显示8。
+- 等级8｜tiny tales continue｜黒魔｜dx ADVANCED｜落雪ID 1706｜社区定数 8｜国服NET显示8。
+- 等级8｜INFiNiTE ENERZY -Overdoze-｜Reku Mochizuki｜dx ADVANCED｜落雪ID 1721｜社区定数 8｜国服NET显示8。
+- 等级8｜Everybody Say HARDCORE TANO*C｜DJ Noriken｜dx ADVANCED｜落雪ID 1724｜社区定数 8｜国服NET显示8。
+- 等级8｜YKWTD｜r-906｜dx ADVANCED｜落雪ID 1738｜社区定数 8｜国服NET显示8。
+- 等级8｜果ての空、僕らが見た光。｜TAKU1175 ft.駄々子｜dx ADVANCED｜落雪ID 1740｜社区定数 8｜国服NET显示8。
+- 等级8｜Ourania｜satella feat.藍月なくる｜dx ADVANCED｜落雪ID 1742｜社区定数 8｜国服NET显示8。
+- 等级8｜天蓋｜花徒めと（Metomate）｜dx ADVANCED｜落雪ID 1743｜社区定数 8｜国服NET显示8。
+- 等级8｜Divide et impera!｜BlackY a.k.a. WAiKURO survive｜dx ADVANCED｜落雪ID 1746｜社区定数 8｜国服NET显示8。
+- 等级8｜HYP3RTRIBE｜sky_delta vs KO3 vs Tanchiky｜dx ADVANCED｜落雪ID 1790｜社区定数 8｜国服NET显示8。
+- 等级8｜いっぱい食べる君が好きだよ｜ななひら｜dx ADVANCED｜落雪ID 1799｜社区定数 8｜国服NET显示8。
+- 等级8｜ピポピポ -People People- feat. ななひら｜Neko Hacker｜dx ADVANCED｜落雪ID 1800｜社区定数 8｜国服NET显示8。
+- 等级8｜FLΛME/FRΦST｜FANTAGIRAFF｜dx ADVANCED｜落雪ID 1814｜社区定数 8｜国服NET显示8。
+- 等级8｜Amereistr｜rN｜dx ADVANCED｜落雪ID 1817｜社区定数 8｜国服NET显示8。
+- 等级8｜Ref:rain (for 7th Heaven)｜カモメサノエレクトリックオーケストラ include Limonène｜dx ADVANCED｜落雪ID 1821｜社区定数 8｜未匹配NET快照。
+- 等级8｜Supersonic Generation｜Massive New Krew｜dx ADVANCED｜落雪ID 1822｜社区定数 8｜国服NET显示8。
+- 等级8｜きゅびびびびずむ｜超てんちゃん｜dx ADVANCED｜落雪ID 1832｜社区定数 8｜国服NET显示8。
+- 等级8｜月光｜歌：V.I.P／作詞・作曲：廉｜dx ADVANCED｜落雪ID 1834｜社区定数 8｜国服NET显示8。
+- 等级8｜DATAERR0R｜Cosmograph｜dx ADVANCED｜落雪ID 1849｜社区定数 8｜国服NET显示8。
+- 等级8｜MYTH Re：LEASE｜打打だいず Vs. Tanchiky Vs. uma Vs. モリモリあつし｜dx ADVANCED｜落雪ID 1860｜社区定数 8｜国服NET显示8。
+- 等级8｜BlackFlagBreaker!!｜社築 × sasakure.UK｜dx ADVANCED｜落雪ID 1870｜社区定数 8｜国服NET显示8。
+- 等级8｜Retribution ～ Cycle of Redemption ～｜Ardolf vs. Daily天利 (原曲： nm-y & Kry.exe)｜dx ADVANCED｜落雪ID 1876｜社区定数 8｜未配信；未匹配NET快照。
+- 等级8｜魔法仕掛けのファンタジア｜igel｜dx ADVANCED｜落雪ID 2025｜社区定数 8｜国服NET显示8。
+- 等级8｜おちゃめ機能｜ゴジマジP｜standard ADVANCED｜落雪ID 101｜社区定数 8.1｜国服NET显示7。
+- 等级8｜Turn around｜Clean Tears｜standard ADVANCED｜落雪ID 132｜社区定数 8.1｜国服NET显示7。
+- 等级8｜Streak｜ARM(IOSYS)｜standard ADVANCED｜落雪ID 136｜社区定数 8.1｜国服NET显示7。
+- 等级8｜泣き虫O'clock｜Hiro/友香｜standard ADVANCED｜落雪ID 155｜社区定数 8.1｜国服NET显示7。
+- 等级8｜Save This World νMIX｜「PHANTASY STAR PORTABLE」｜standard ADVANCED｜落雪ID 265｜社区定数 8.1｜国服NET显示7。
+- 等级8｜Living Universe｜「PHANTASY STAR PORTABLE2」｜standard ADVANCED｜落雪ID 266｜社区定数 8.1｜国服NET显示7。
+- 等级8｜幻想のサテライト｜豚乙女｜standard ADVANCED｜落雪ID 319｜社区定数 8.1｜国服NET显示7。
+- 等级8｜D✪N’T  ST✪P  R✪CKIN’｜EB(aka EarBreaker)｜standard ADVANCED｜落雪ID 364｜社区定数 8.1｜国服NET显示7。
+- 等级8｜不毛！｜ぽてんしゃる0｜standard ADVANCED｜落雪ID 399｜社区定数 8.1｜国服NET显示7。
+- 等级8｜セハガガガンバッちゃう！！｜Hi☆sCoool! セハガール｜standard ADVANCED｜落雪ID 506｜社区定数 8.1｜国服NET显示7。
+- 等级8｜パーフェクト生命｜ナユタン星人｜standard ADVANCED｜落雪ID 511｜社区定数 8.1｜国服NET显示7。
+- 等级8｜木彫り鯰と右肩ゾンビ｜hanzo/赤飯歌唱Ver｜standard ADVANCED｜落雪ID 520｜社区定数 8.1｜国服NET显示7。
+- 等级8｜GOODMEN｜EBIMAYO｜standard ADVANCED｜落雪ID 555｜社区定数 8.1｜国服NET显示7。
+- 等级8｜空威張りビヘイビア｜un:c・ろん×じーざすP｜standard ADVANCED｜落雪ID 559｜社区定数 8.1｜国服NET显示7。
+- 等级8｜きらっせ☆ウッド村ファーム｜uno(IOSYS) feat.miko｜standard ADVANCED｜落雪ID 601｜社区定数 8.1｜国服NET显示7。
+- 等级8｜もうみんなしねばいいのに｜谷屋楽｜standard ADVANCED｜落雪ID 684｜社区定数 8.1｜国服NET显示7。
+- 等级8｜NIGHT OF FIRE｜NIKO [cover]｜standard ADVANCED｜落雪ID 38｜社区定数 8.2｜国服NET显示7。
+- 等级8｜ダンシング☆サムライ｜mathru(かにみそP)｜standard ADVANCED｜落雪ID 102｜社区定数 8.2｜国服NET显示7。
+- 等级8｜Sky High [Reborn]｜大久保 博(BNGI)「デイトナ USA」｜standard ADVANCED｜落雪ID 111｜社区定数 8.2｜国服NET显示7。
+- 等级8｜ぴぴぱぷぅ！｜Hiro/小山あかり｜standard ADVANCED｜落雪ID 116｜社区定数 8.2｜国服NET显示7。
+- 等级8｜ゴーゴー幽霊船｜米津玄師｜standard ADVANCED｜落雪ID 122｜社区定数 8.2｜国服NET显示7。
+- 等级8｜Night Fly｜発熱巫女～ず｜standard ADVANCED｜落雪ID 134｜社区定数 8.2｜国服NET显示7。
+- 等级8｜Lionheart｜Masayoshi Minoshima｜standard ADVANCED｜落雪ID 138｜社区定数 8.2｜国服NET显示7。
+- 等级8｜Black Out｜Tsukasa(Arte Refact)｜standard ADVANCED｜落雪ID 142｜社区定数 8.2｜国服NET显示7。
+- 等级8｜いーあるふぁんくらぶ｜みきとP｜dx EXPERT｜落雪ID 256｜社区定数 8.2｜国服NET显示8。
+- 等级8｜L'épilogue｜SOUND HOLIC feat. Nana Takahashi｜standard ADVANCED｜落雪ID 264｜社区定数 8.2｜国服NET显示7。
+- 等级8｜裏表ラバーズ｜wowaka｜standard ADVANCED｜落雪ID 269｜社区定数 8.2｜国服NET显示7。
+- 等级8｜最速最高シャッターガール｜ビートまりお(COOL＆CREATE)｜standard ADVANCED｜落雪ID 320｜社区定数 8.2｜国服NET显示7。
+- 等级8｜Link｜Circle of friends(天月-あまつき-・un:c・伊東歌詞太郎・コニー・はしやん)｜standard ADVANCED｜落雪ID 383｜社区定数 8.2｜国服NET显示7。
+- 等级8｜少女幻葬戦慄曲 ～ Necro Fantasia｜どぶウサギ｜standard ADVANCED｜落雪ID 427｜社区定数 8.2｜国服NET显示7。
+- 等级8｜connecting with you｜Takahiro Eguchi feat. 三澤秋｜standard ADVANCED｜落雪ID 529｜社区定数 8.2｜国服NET显示7。
+- 等级8｜ENJOY POLIS｜LOPIT｜standard ADVANCED｜落雪ID 564｜社区定数 8.2｜国服NET显示7。
+- 等级8｜Phantasm Brigade｜Silver Forest｜standard ADVANCED｜落雪ID 585｜社区定数 8.2｜国服NET显示7。
+- 等级8｜白ゆき｜n-buna｜standard ADVANCED｜落雪ID 587｜社区定数 8.2｜国服NET显示7。
+- 等级8｜conflict｜siromaru + cranky｜dx ADVANCED｜落雪ID 593｜社区定数 8.2｜国服NET显示8。
+- 等级8｜taboo tears you up｜REDALiCE (HARDCORE TANO*C)｜standard ADVANCED｜落雪ID 602｜社区定数 8.2｜国服NET显示7。
+- 等级8｜リンカーネイション｜kemu｜standard ADVANCED｜落雪ID 610｜社区定数 8.2｜国服NET显示7。
+- 等级8｜INFINITE WORLD｜SOUND HOLIC feat. Nana Takahashi｜standard ADVANCED｜落雪ID 758｜社区定数 8.2｜国服NET显示7。
+- 等级8｜あねぺったん｜月鈴姉妹（イロドリミドリ）｜standard ADVANCED｜落雪ID 770｜社区定数 8.2｜国服NET显示7。
+- 等级8｜ヒバナ｜DECO*27｜standard ADVANCED｜落雪ID 792｜社区定数 8.2｜国服NET显示7。
+- 等级8｜Technicians High｜HiTECH NINJA｜dx ADVANCED｜落雪ID 1020｜社区定数 8.2｜国服NET显示8。
+- 等级8｜モ°ルモ°ル｜sasakure.UK｜dx ADVANCED｜落雪ID 1096｜社区定数 8.2｜国服NET显示8。
+- 等级8｜VIIIbit Explorer｜Lime｜standard ADVANCED｜落雪ID 1235｜社区定数 8.2｜国服NET显示8。
+- 等级8｜約束｜はるまきごはん｜dx EXPERT｜落雪ID 1272｜社区定数 8.2｜国服NET显示8。
+- 等级8｜Sound Chimera｜Laur｜dx ADVANCED｜落雪ID 1283｜社区定数 8.2｜国服NET显示8。
+- 等级8｜CO5M1C R4ILR0AD｜kanone｜dx ADVANCED｜落雪ID 1284｜社区定数 8.2｜国服NET显示8。
+- 等级8｜ヒミツCULT｜t+pazolite｜dx ADVANCED｜落雪ID 1291｜社区定数 8.2｜国服NET显示8。
+- 等级8｜宿星審判｜suzu｜dx ADVANCED｜落雪ID 1294｜社区定数 8.2｜国服NET显示8。
+- 等级8｜とびだせ！TO THE COSMIC!!｜t+pazolite feat. しゃま(CV:種﨑 敦美) & みるく(CV:伊藤 あすか)｜dx ADVANCED｜落雪ID 1296｜社区定数 8.2｜国服NET显示8。
+- 等级8｜Round Round Spinning Around｜Nhato｜dx ADVANCED｜落雪ID 1304｜社区定数 8.2｜国服NET显示8。
+- 等级8｜Upshift｜s-don as Iriss-Frantzz｜dx ADVANCED｜落雪ID 1334｜社区定数 8.2｜国服NET显示8。
+- 等级8｜GIGANTØMAKHIA｜BlackYooh vs. siromaru｜dx ADVANCED｜落雪ID 1374｜社区定数 8.2｜国服NET显示8。
+- 等级8｜Sage｜かめりあ｜dx ADVANCED｜落雪ID 1389｜社区定数 8.2｜国服NET显示8。
+- 等级8｜BLUE ZONE｜Tatsh x NAOKI｜dx ADVANCED｜落雪ID 1423｜社区定数 8.2｜国服NET显示8。
+- 等级8｜群青シグナル｜テヅカ feat. 獅子神レオナ｜dx ADVANCED｜落雪ID 1466｜社区定数 8.2｜国服NET显示8。
+- 等级8｜れっつ！みらくる☆はーどこあっ！｜Laur feat.みしゃも｜dx ADVANCED｜落雪ID 1505｜社区定数 8.2｜国服NET显示8。
+- 等级8｜回る空うさぎ｜Orangestar｜dx EXPERT｜落雪ID 1513｜社区定数 8.2｜国服NET显示8。
+- 等级8｜VeRForTe αRtE:VEiN｜orangentle｜dx ADVANCED｜落雪ID 1530｜社区定数 8.2｜国服NET显示8。
+- 等级8｜にゃーにゃー冒険譚｜黒魔｜dx ADVANCED｜落雪ID 1533｜社区定数 8.2｜国服NET显示8。
+- 等级8｜POWER OF UNITY｜Zekk｜dx ADVANCED｜落雪ID 1617｜社区定数 8.2｜国服NET显示8。
+- 等级8｜天使光輪｜REDALiCE & cosMo＠暴走P｜dx ADVANCED｜落雪ID 1643｜社区定数 8.2｜国服NET显示8。
+- 等级8｜MarbleBlue.｜MisoilePunch♪｜dx ADVANCED｜落雪ID 1687｜社区定数 8.2｜国服NET显示8。
+- 等级8｜Ai C｜Feryquitous｜dx ADVANCED｜落雪ID 1691｜社区定数 8.2｜国服NET显示8。
+- 等级8｜184億回のマルチトニック｜Pizuya's Cell feat.中村さん｜dx ADVANCED｜落雪ID 1739｜社区定数 8.2｜国服NET显示8。
+- 等级8｜Elemental Ethnic｜Yooh｜dx ADVANCED｜落雪ID 1754｜社区定数 8.2｜国服NET显示8。
+- 等级8｜R'N'R Monsta｜Lite Show Magic｜dx ADVANCED｜落雪ID 1759｜社区定数 8.2｜国服NET显示8。
+- 等级8｜MORNINGLOOM｜saaa｜dx ADVANCED｜落雪ID 1803｜社区定数 8.2｜国服NET显示8。
+- 等级8｜超最終鬼畜妹フランドール・S｜ビートまりお×まろん｜dx ADVANCED｜落雪ID 1854｜社区定数 8.2｜国服NET显示8。
+- 等级8｜Destined Marionette｜ビートまりお｜dx ADVANCED｜落雪ID 1855｜社区定数 8.2｜国服NET显示8。
+- 等级8｜∀｜ああああ｜dx ADVANCED｜落雪ID 1861｜社区定数 8.2｜国服NET显示8。
+- 等级8｜ウッーウッーウマウマ(ﾟ∀ﾟ)｜Caramell/Caramelldansen [cover]｜standard ADVANCED｜落雪ID 56｜社区定数 8.3｜国服NET显示7。
+- 等级8｜リリリリ★バーニングナイト｜samfree｜standard ADVANCED｜落雪ID 290｜社区定数 8.3｜国服NET显示7。
+- 等级8｜Endless, Sleepless Night｜samfree feat.(V)・∀・(V)かにぱん。(A-ONE)｜standard ADVANCED｜落雪ID 303｜社区定数 8.3｜国服NET显示7。
+- 等级8｜Windy Hill -Zone 1｜大谷智哉「ソニック ロストワールド」｜standard ADVANCED｜落雪ID 325｜社区定数 8.3｜国服NET显示7。
+- 等级8｜BETTER CHOICE｜Jimmy Weckl feat.高貴みな｜standard ADVANCED｜落雪ID 362｜社区定数 8.3｜国服NET显示7。
+- 等级8｜アンハッピーリフレイン｜wowaka｜standard ADVANCED｜落雪ID 374｜社区定数 8.3｜国服NET显示7。
+- 等级8｜L9｜paraoka｜standard ADVANCED｜落雪ID 376｜社区定数 8.3｜国服NET显示7。
+- 等级8｜Ignis Danse｜Yuji Masubuchi「太鼓の達人」より｜standard ADVANCED｜落雪ID 385｜社区定数 8.3｜国服NET显示7。
+- 等级8｜FLOWER｜DJ YOSHITAKA「jubeat」より｜standard ADVANCED｜落雪ID 389｜社区定数 8.3｜国服NET显示7。
+- 等级8｜東方妖々夢 ～the maximum moving about～｜石鹸屋｜standard ADVANCED｜落雪ID 425｜社区定数 8.3｜国服NET显示7。
+- 等级8｜最終鬼畜妹・一部声｜ビートまりお｜standard ADVANCED｜落雪ID 439｜社区定数 8.3｜国服NET显示7。
+- 等级8｜+♂｜ギガ/れをる　ダンス　アルスマグナ｜standard ADVANCED｜落雪ID 447｜社区定数 8.3｜国服NET显示7。
+- 等级8｜スリップフリップ｜tilt-six feat.串伊トモミ｜standard ADVANCED｜落雪ID 465｜社区定数 8.3｜国服NET显示7。
+- 等级8｜だんだん早くなる｜40mP｜standard ADVANCED｜落雪ID 513｜社区定数 8.3｜国服NET显示7。
+- 等级8｜ハート・ビート｜明坂 芹菜(CV:新田 恵海)｜standard ADVANCED｜落雪ID 527｜社区定数 8.3｜国服NET显示7。
+- 等级8｜Club Ibuki in Break All｜void＋夕野ヨシミ (IOSYS) feat.藤原鞠菜｜standard ADVANCED｜落雪ID 584｜社区定数 8.3｜国服NET显示7。
+- 等级8｜Sakura Fubuki｜Street｜standard ADVANCED｜落雪ID 592｜社区定数 8.3｜国服NET显示7。
+- 等级8｜すーぱーぬこになりたい｜まふまふ｜standard ADVANCED｜落雪ID 598｜社区定数 8.3｜国服NET显示7。
+- 等级8｜KISS CANDY FLAVOR｜カラフル・サウンズ・ポート｜standard ADVANCED｜落雪ID 624｜社区定数 8.3｜国服NET显示7。
+- 等级8｜Limit Break｜DiGiTAL WiNG｜standard ADVANCED｜落雪ID 629｜社区定数 8.3｜国服NET显示7。
+- 等级8｜My Dearest Song｜月鈴 白奈(CV:高野 麻里佳)｜standard ADVANCED｜落雪ID 648｜社区定数 8.3｜国服NET显示7。
+- 等级8｜Magical Flavor｜DECO*27 feat.Tia｜standard ADVANCED｜落雪ID 674｜社区定数 8.3｜国服NET显示7。
+- 等级8｜このピアノでお前を8759632145回ぶん殴る｜SLAVE.V-V-R｜standard ADVANCED｜落雪ID 762｜社区定数 8.3｜国服NET显示7。
+- 等级8｜ナイトメア☆パーティーナイト｜くちばしP｜standard ADVANCED｜落雪ID 806｜社区定数 8.3｜国服NET显示7。
+- 等级8｜クレイジークレイジーダンサーズ｜ビートまりお＋あまね（COOL&CREATE）｜standard ADVANCED｜落雪ID 816｜社区定数 8.3｜国服NET显示7。
+- 等级8｜【東方ニコカラ】秘神マターラ feat.魂音泉【IOSYS】｜ARM (IOSYS)｜standard ADVANCED｜落雪ID 817｜社区定数 8.3｜国服NET显示7。
+- 等级8｜ネクロファンタジア～Arr.Demetori｜Demetori｜standard ADVANCED｜落雪ID 839｜社区定数 8.3｜国服NET显示7。
+- 等级8｜WORLD'S END UMBRELLA｜ハチ｜standard ADVANCED｜落雪ID 842｜社区定数 8.3｜国服NET显示7。
+- 等级8｜虹と太陽｜GOSH/manami｜standard ADVANCED｜落雪ID 31｜社区定数 8.4｜国服NET显示7。
+- 等级8｜ワールズエンド・ダンスホール｜wowaka｜standard ADVANCED｜落雪ID 66｜社区定数 8.4｜国服NET显示7。
+- 等级8｜Spin me harder｜D.watt(IOSYS)feat. Asana｜standard ADVANCED｜落雪ID 137｜社区定数 8.4｜国服NET显示7。
+- 等级8｜Nerverakes｜Taishi｜standard ADVANCED｜落雪ID 141｜社区定数 8.4｜国服NET显示7。
+- 等级8｜天ノ弱｜164｜standard ADVANCED｜落雪ID 188｜社区定数 8.4｜国服NET显示7。
+- 等级8｜放課後ストライド｜Last Note.｜standard ADVANCED｜落雪ID 194｜社区定数 8.4｜国服NET显示7。
+- 等级8｜Burning Hearts ～炎のANGEL～｜幡谷尚史 Arranged by SEGA Sound Unit [H.]「バーニングレンジャー」｜standard ADVANCED｜落雪ID 255｜社区定数 8.4｜国服NET显示7。
+- 等级8｜Brand-new Japanesque｜「龍が如く 見参！」｜standard ADVANCED｜落雪ID 271｜社区定数 8.4｜国服NET显示7。
+- 等级8｜DRAGONLADY｜Nankumo/CUBE3｜standard ADVANCED｜落雪ID 339｜社区定数 8.4｜国服NET显示7。
+- 等级8｜oboro｜ヒゲドライバー｜standard ADVANCED｜落雪ID 366｜社区定数 8.4｜国服NET显示7。
+- 等级8｜DETARAME ROCK&ROLL THEORY｜箱部 なる(CV:M・A・O)｜standard ADVANCED｜落雪ID 548｜社区定数 8.4｜国服NET显示7。
+- 等级8｜Desperado Waltz｜ぺのれり｜dx ADVANCED｜落雪ID 1174｜社区定数 8.4｜国服NET显示8。
+- 等级8｜初音天地開闢神話｜cosMo＠暴走P｜dx ADVANCED｜落雪ID 1412｜社区定数 8.4｜国服NET显示8。
+- 等级8｜源平大戦絵巻テーマソング｜新小田夢童 ＆ キラ★ロッソ｜standard ADVANCED｜落雪ID 47｜社区定数 8.5｜国服NET显示7+。
+- 等级8｜Sweetiex2｜Dixie Flatline｜standard EXPERT｜落雪ID 108｜社区定数 8.5｜国服NET显示7。
+- 等级8｜awake｜下田麻美「Shining・Force CROSS ELYSION」｜standard ADVANCED｜落雪ID 214｜社区定数 8.5｜国服NET显示7+。
+- 等级8｜JUMPIN' JUMPIN'｜SOUND HOLIC feat. Nana Takahashi｜standard ADVANCED｜落雪ID 263｜社区定数 8.5｜国服NET显示7+。
+- 等级8｜儚きもの人間｜豚乙女｜standard ADVANCED｜落雪ID 467｜社区定数 8.5｜国服NET显示7+。
+- 等级8｜Nitrous Fury｜Jun Senoue｜standard ADVANCED｜落雪ID 534｜社区定数 8.5｜国服NET显示7+。
+- 等级8｜ゴーストルール｜DECO*27｜standard ADVANCED｜落雪ID 552｜社区定数 8.5｜国服NET显示7+。
+- 等级8｜分からない｜ろん×黒魔｜standard ADVANCED｜落雪ID 568｜社区定数 8.5｜国服NET显示7+。
+- 等级8｜吉原ラメント｜亜沙｜standard ADVANCED｜落雪ID 580｜社区定数 8.5｜国服NET显示7+。
+- 等级8｜GO BACK 2 YOUR RAVE｜nora2r｜standard ADVANCED｜落雪ID 612｜社区定数 8.5｜国服NET显示7+。
+- 等级8｜夢花火｜豚乙女｜standard ADVANCED｜落雪ID 614｜社区定数 8.5｜国服NET显示7+。
+- 等级8｜Calamity Fortune｜LeaF｜dx ADVANCED｜落雪ID 641｜社区定数 8.5｜国服NET显示8。
+- 等级8｜猫祭り｜箱部 なる(CV:M・A・O)｜standard ADVANCED｜落雪ID 694｜社区定数 8.5｜国服NET显示7+。
+- 等级8｜SPILL OVER COLORS｜矢鴇つかさ feat. kalon.｜standard ADVANCED｜落雪ID 704｜社区定数 8.5｜国服NET显示7+。
+- 等级8｜拝啓ドッペルゲンガー｜kemu｜standard ADVANCED｜落雪ID 711｜社区定数 8.5｜国服NET显示7+。
+- 等级8｜ラブって♡ジュエリー♪えんじぇる☆ブレイク！！｜あべにゅうぷろじぇくと feat.天月めぐる＆如月すみれ「ツインエンジェルBREAK」｜standard ADVANCED｜落雪ID 717｜社区定数 8.5｜国服NET显示7+。
+- 等级8｜Bang Babang Bang!!!｜御形 アリシアナ(CV:福原 綾香)｜standard ADVANCED｜落雪ID 721｜社区定数 8.5｜国服NET显示7+。
+- 等级8｜Fist Bump｜大谷智哉, Douglas Robb from Hoobastank「ソニック フォース」｜standard ADVANCED｜落雪ID 733｜社区定数 8.5｜国服NET显示7+。
+- 等级8｜進め！イッスン軍団 -Rebellion of the Dwarfs-｜dawn-system｜standard ADVANCED｜落雪ID 739｜社区定数 8.5｜国服NET显示7+。
+- 等级8｜Altale｜削除｜standard ADVANCED｜落雪ID 837｜社区定数 8.5｜国服NET显示7+。
+- 等级8｜終点｜cosMo@暴走P｜standard ADVANCED｜落雪ID 841｜社区定数 8.5｜国服NET显示7+。
+- 等级8｜魔ジョ狩リ｜Nothing But Requiem (feat.Aikapin & Chiyoko)｜dx ADVANCED｜落雪ID 1021｜社区定数 8.5｜国服NET显示8。
+- 等级8｜TEmPTaTiON｜かねこちはる｜dx ADVANCED｜落雪ID 1026｜社区定数 8.5｜国服NET显示8。
+- 等级8｜アポカリプスに反逆の焔を焚べろ｜cosMo＠暴走AlterEgo｜dx ADVANCED｜落雪ID 1027｜社区定数 8.5｜国服NET显示8。
+- 等级8｜CHOCOLATE BOMB!!!!｜YUC'e｜dx ADVANCED｜落雪ID 1032｜社区定数 8.5｜国服NET显示8。
+- 等级8｜プナイプナイせんそう｜立秋 feat.ちょこ｜dx ADVANCED｜落雪ID 1075｜社区定数 8.5｜国服NET显示8。
+- 等级8｜Halcyon｜xi｜dx ADVANCED｜落雪ID 1085｜社区定数 8.5｜国服NET显示8。
+- 等级8｜UniTas｜Masahiro "Godspeed" Aoki VS Kai｜dx ADVANCED｜落雪ID 1093｜社区定数 8.5｜国服NET显示8。
+- 等级8｜渦状銀河のシンフォニエッタ｜山本真央樹｜dx ADVANCED｜落雪ID 1103｜社区定数 8.5｜国服NET显示8。
+- 等级8｜ハム太郎とっとこうた｜ハムちゃんず [covered by 光吉猛修]｜dx EXPERT｜落雪ID 1113｜社区定数 8.5｜国服NET显示8。
+- 等级8｜Mutation｜Laur｜dx ADVANCED｜落雪ID 1160｜社区定数 8.5｜国服NET显示8。
+- 等级8｜Regulus｜お月さま交響曲｜dx ADVANCED｜落雪ID 1165｜社区定数 8.5｜国服NET显示8。
+- 等级8｜Climax｜USAO｜dx ADVANCED｜落雪ID 1176｜社区定数 8.5｜国服NET显示8。
+- 等级8｜絶え間なく藍色｜獅子志司｜dx EXPERT｜落雪ID 1188｜社区定数 8.5｜国服NET显示8。
+- 等级8｜BATTLE NO.1｜TANO*C Sound Team｜dx ADVANCED｜落雪ID 1206｜社区定数 8.5｜国服NET显示8。
+- 等级8｜BREaK! BREaK! BREaK!｜HiTECH NINJA vs Cranky｜dx ADVANCED｜落雪ID 1222｜社区定数 8.5｜国服NET显示8。
+- 等级8｜Xenovcipher｜Juggernaut.｜dx ADVANCED｜落雪ID 1227｜社区定数 8.5｜国服NET显示8。
+- 等级8｜ほしぞらスペクタクル｜奏音｜dx ADVANCED｜落雪ID 1234｜社区定数 8.5｜国服NET显示8。
+- 等级8｜VIIIbit Explorer｜Lime｜dx ADVANCED｜落雪ID 1235｜社区定数 8.5｜国服NET显示8。
+- 等级8｜蒼穹舞楽｜Capchii｜dx ADVANCED｜落雪ID 1237｜社区定数 8.5｜国服NET显示8。
+- 等级8｜NAGAREBOSHI☆ROCKET｜梅干茶漬け｜dx ADVANCED｜落雪ID 1299｜社区定数 8.5｜国服NET显示8。
+- 等级8｜BLACK SWAN｜ぺのれり｜dx ADVANCED｜落雪ID 1302｜社区定数 8.5｜国服NET显示8。
+- 等级8｜Raven Emperor｜Kobaryo｜dx ADVANCED｜落雪ID 1306｜社区定数 8.5｜国服NET显示8。
+- 等级8｜LiftOff｜MAYA AKAI｜dx ADVANCED｜落雪ID 1314｜社区定数 8.5｜国服NET显示8。
+- 等级8｜デッドマンズバラッド｜cosMo＠暴走P｜dx ADVANCED｜落雪ID 1328｜社区定数 8.5｜国服NET显示8。
+- 等级8｜スーパーシンメトリー｜Sta feat. b｜dx ADVANCED｜落雪ID 1331｜社区定数 8.5｜国服NET显示8。
+- 等级8｜sølips｜rintaro soma｜dx ADVANCED｜落雪ID 1379｜社区定数 8.5｜国服NET显示8。
+- 等级8｜folern｜ぬゆり｜dx ADVANCED｜落雪ID 1400｜社区定数 8.5｜国服NET显示8。
+- 等级8｜Armageddon｜LeaF｜dx ADVANCED｜落雪ID 1413｜社区定数 8.5｜国服NET显示8。
+- 等级8｜Love's Theme of BADASS ～バッド・アス 愛のテーマ～｜Hommarju｜dx ADVANCED｜落雪ID 1429｜社区定数 8.5｜国服NET显示8。
+- 等级8｜8-EM｜Sampling Masters AYA｜dx ADVANCED｜落雪ID 1443｜社区定数 8.5｜国服NET显示8。
+- 等级8｜Rainbow Rush Story｜いるかアイス feat.ちょこ｜dx ADVANCED｜落雪ID 1453｜社区定数 8.5｜国服NET显示8。
+- 等级8｜踊｜Ado｜dx EXPERT｜落雪ID 1483｜社区定数 8.5｜国服NET显示8。
+- 等级8｜田中｜立秋 feat.ちょこ｜dx ADVANCED｜落雪ID 1489｜社区定数 8.5｜国服NET显示8。
+- 等级8｜Aegleseeker｜Silentroom vs Frums｜dx ADVANCED｜落雪ID 1516｜社区定数 8.5｜国服NET显示8。
+- 等级8｜独りんぼエンヴィー｜koyori（電ポルP）｜dx EXPERT｜落雪ID 1520｜社区定数 8.5｜国服NET显示8。
+- 等级8｜Straight into the lights｜Cosmograph｜dx ADVANCED｜落雪ID 1537｜社区定数 8.5｜国服NET显示8。
+- 等级8｜FLUFFY FLASH｜Kobaryo｜dx ADVANCED｜落雪ID 1550｜社区定数 8.5｜国服NET显示8。
+- 等级8｜Knight Rider｜USAO｜dx ADVANCED｜落雪ID 1566｜社区定数 8.5｜国服NET显示8。
+- 等级8｜BULK UP (GAME EXCLUSIVE EDIT)｜USAO & Yuta Imai｜dx ADVANCED｜落雪ID 1594｜社区定数 8.5｜国服NET显示8。
+- 等级8｜Latent Kingdom｜Laur vs 大国奏音｜dx ADVANCED｜落雪ID 1612｜社区定数 8.5｜国服NET显示8。
+- 等级8｜RondeauX of RagnaroQ｜Morrigan feat.Lily and 結城碧｜dx ADVANCED｜落雪ID 1684｜社区定数 8.5｜国服NET显示8。
+- 等级8｜酔いどれ知らず｜Kanaria｜dx EXPERT｜落雪ID 1698｜社区定数 8.5｜国服NET显示8。
+- 等级8｜ミラクルポップ☆アドベンチャー!!!!!｜DJ Genki｜dx ADVANCED｜落雪ID 1725｜社区定数 8.5｜国服NET显示8。
+- 等级8｜Cryptarithm｜削除｜dx ADVANCED｜落雪ID 1741｜社区定数 8.5｜国服NET显示8。
+- 等级8｜有明/Ariake｜SIINCA｜dx ADVANCED｜落雪ID 1749｜社区定数 8.5｜国服NET显示8。
+- 等级8｜Chronomia｜Lime｜dx ADVANCED｜落雪ID 1771｜社区定数 8.5｜国服NET显示8。
+- 等级8｜Fraq｜owl＊tree feat. べんざ｜dx ADVANCED｜落雪ID 1806｜社区定数 8.5｜国服NET显示8。
+- 等级8｜Hurtling Boys｜さだきち「太鼓の達人」より｜dx ADVANCED｜落雪ID 1920｜社区定数 8.5｜国服NET显示8。
+- 等级8｜零號車輛｜seatrus｜dx ADVANCED｜落雪ID 1946｜社区定数 8.5｜国服NET显示8。

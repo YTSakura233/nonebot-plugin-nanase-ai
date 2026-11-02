@@ -1,0 +1,629 @@
+{
+  "pack_version": "1.0.2",
+  "checked_on": "2026-11-02",
+  "statistics": {
+    "songs": 1360,
+    "charts": 5623,
+    "chart_types": {
+      "standard": 2260,
+      "dx": 3298,
+      "utage": 65
+    },
+    "cn_records": 1294,
+    "cn_charts": 5520,
+    "alias_records": 1072,
+    "aliases_attached": 2933,
+    "alias_ids_absent_from_song_snapshot": [
+      510,
+      1150,
+      1321,
+      1322,
+      1347,
+      1367,
+      1396,
+      1407,
+      1408,
+      1420,
+      1421,
+      1430,
+      1431,
+      1484,
+      1497,
+      111222
+    ],
+    "level_discrepancies": 2069,
+    "disabled_songs": 1,
+    "unreleased_charts_at_snapshot": 55,
+    "cn_unmatched_regular_songs": 21,
+    "snapshot_time_utc": "2026-11-01 13:21:51 UTC",
+    "documents": 130,
+    "chunks_1200_overlap_120": 3316
+  },
+  "sources": [
+    {
+      "id": "lxns_songs",
+      "file": "lxns_songs.json",
+      "url": "https://maimai.lxns.net/api/v0/maimai/song/list?notes=true",
+      "kind": "community public API",
+      "retrieved_at": "2026-11-01 13:21:51 UTC",
+      "note": "当前默认版本为舞萌DX 2026；包含未配信、disabled、宴会场资料；不等于全部已可游玩"
+    },
+    {
+      "id": "lxns_aliases",
+      "file": "lxns_aliases.json",
+      "url": "https://maimai.lxns.net/api/v0/maimai/alias/list",
+      "kind": "community aliases",
+      "retrieved_at": "2026-11-01 13:21:51 UTC"
+    },
+    {
+      "id": "cn_maidata",
+      "file": "cn_maidata.json",
+      "url": "https://raw.githubusercontent.com/CrazyKidCN/maimaiDX-CN-songs-database/0426b05134ec9d7858aeb2aed3131754699b19f4/maidata.json",
+      "commit": "0426b05134ec9d7858aeb2aed3131754699b19f4",
+      "kind": "community snapshot of CN NET display levels",
+      "retrieved_at": "2026-11-01 13:21:51 UTC",
+      "note": "1294条，2026-10-30提交；项目站标为CN1.56-F，仓库README仍写CN1.56-E，故版本标签仅作社区来源标识"
+    },
+    {
+      "id": "rating_profile",
+      "url": "https://github.com/Diving-Fish/maimaidx-prober/blob/01593811b106b50594ed71026b75ba29a74d6806/database/models/maimai.py",
+      "commit": "01593811b106b50594ed71026b75ba29a74d6806",
+      "kind": "community algorithm source",
+      "retrieved_at": "2026-11-01 13:21:51 UTC"
+    }
+  ],
+  "files": {
+    "data/cn_level_index.json": {
+      "bytes": 1390701,
+      "sha256": "0fdddb310565e2b53b9d43fba4d8aa305e4fdb0068f970d3aae6c5bcaf1f8133"
+    },
+    "data/cn_maidata.json": {
+      "bytes": 372277,
+      "sha256": "7d4263afc359cc59280096c4e1c6e31c02303d2b53df6d991bbddc9a9e107217"
+    },
+    "data/discrepancies.json": {
+      "bytes": 395071,
+      "sha256": "401edfe8c680be317bf664888b7770a055785adcbe6cb8df585bbdc6a7d8e704"
+    },
+    "data/level_index.json": {
+      "bytes": 1702058,
+      "sha256": "1194cdfe30bd890a29b03acd5f64ab98998e90e3b000b520d2be17b1e6ff3922"
+    },
+    "data/lxns_aliases.json": {
+      "bytes": 73034,
+      "sha256": "7a93ba59356ead7abe31a1b17d4f14b35482d82fd412b87bb63c52270199dac8"
+    },
+    "data/lxns_songs.json": {
+      "bytes": 1469620,
+      "sha256": "3947e733a125537f927f1c2433351a653849bacae752931e42e6a17cdf32a405"
+    },
+    "data/provenance.json": {
+      "bytes": 1381,
+      "sha256": "23b170269b8a5d4718d2ec2976012f2d01a3a502f53916962efa51f84eb8b3ba"
+    },
+    "data/songs.json": {
+      "bytes": 3616689,
+      "sha256": "89a3d3a07a14165c7ac9e1034dd1bf2c1fc0ba624fbf2b4874f5e3c4d0fe4d2a"
+    },
+    "corpus/maimai_dev/01_数据模型与身份.md": {
+      "bytes": 2025,
+      "sha256": "798db3d536353858d8d12277886491bc1a79bdd666d1c214b3f3e8df937578b2"
+    },
+    "corpus/maimai_dev/02_水鱼落雪ID映射.md": {
+      "bytes": 1698,
+      "sha256": "15e0a0c7778ecefa6d4c53faae6f35c46ba76d025d844457143d70428a97a284"
+    },
+    "corpus/maimai_dev/03_计算代码与精度.md": {
+      "bytes": 1718,
+      "sha256": "5e909f68b89afed064d7e73d11a521203374e0e58078b34b9ff785175fb4dccf"
+    },
+    "corpus/maimai_dev/04_公开接口与授权.md": {
+      "bytes": 2069,
+      "sha256": "0d41bb68edace1a8729f55bb44d2d11aad43d7770aa94572f2990d8045b8ec03"
+    },
+    "corpus/maimai_dev/05_快照更新与校验.md": {
+      "bytes": 2110,
+      "sha256": "faafb803c467ab5706be0c7d46c6f8ef7f828d2ea5af757d3f2567cf51e6664e"
+    },
+    "corpus/maimai_dev/06_SQL与缓存设计.md": {
+      "bytes": 1815,
+      "sha256": "909c495a8428cb9699190189940919b935de3e76bbd69a072f0c6dfd17a11121"
+    },
+    "corpus/maimai_dev/07_simai格式入门.md": {
+      "bytes": 1627,
+      "sha256": "966501f16681a2c7b0b9c10806e9296173afc9897641a241c8888f679c344c08"
+    },
+    "corpus/maimai_dev/08_谱面解析架构.md": {
+      "bytes": 1802,
+      "sha256": "f5c3d3d85f9ae30f674b3815630510c1f834f2a347e9bdbd4cf0d74ac2b9f64a"
+    },
+    "corpus/maimai_dev/09_NoneBot查曲示例.md": {
+      "bytes": 1843,
+      "sha256": "db07cadb8cf9added9b01eb0748e05e385d4de38412025d38392b460dac7d0f0"
+    },
+    "corpus/maimai_dev/10_知识库检索与证据.md": {
+      "bytes": 1904,
+      "sha256": "b0695c1124c076f4e700c56dff0b008e27834e663435c987320ebf556b6837e8"
+    },
+    "corpus/maimai_dev/11_MCP与只读工具.md": {
+      "bytes": 2453,
+      "sha256": "b598e1a6c5d3f13a903d6ed240a56cc49b481c1877213030729b3c9e3f8b2e11"
+    },
+    "corpus/maimai_dev/12_测试排错与维护.md": {
+      "bytes": 1890,
+      "sha256": "4f336b55b5859f08431bcf95824d6d5362047b451689fdb4fff44245950aa723"
+    },
+    "corpus/maimai_game/00_范围与资料可信度.md": {
+      "bytes": 2197,
+      "sha256": "e972f8c9a350a6ca1e2605fea508cb0c941a3845fb057bb05ae1a6a2e417eb8c"
+    },
+    "corpus/maimai_game/01_机台与首次游玩.md": {
+      "bytes": 1862,
+      "sha256": "f099978acabd50789472e4e36346abf297999f40936626b3dbf60b4cc0745c13"
+    },
+    "corpus/maimai_game/02_音符类型与操作.md": {
+      "bytes": 1807,
+      "sha256": "951a296bd7475d3c324c95bef4fce95a7e3c5489b720cdbaa94b76cacbce8eee"
+    },
+    "corpus/maimai_game/03_滑条与读谱.md": {
+      "bytes": 1769,
+      "sha256": "fb3550070ad1d290342f3fbe6eb6e429a7231e62ee885f7af0dffa3b19414be3"
+    },
+    "corpus/maimai_game/04_传感器与空间编号.md": {
+      "bytes": 1500,
+      "sha256": "5c728296dfb1420a1ce57336c5fc739ede04ce0b3cbf8e0a010fe372c0abe50d"
+    },
+    "corpus/maimai_game/05_难度等级定数与拟合.md": {
+      "bytes": 1949,
+      "sha256": "22c1a0ac7e8fbf9e1d55a57474f03e369cf6180700a319aa768d20c8a087cb57"
+    },
+    "corpus/maimai_game/06_判定与成绩标记.md": {
+      "bytes": 1740,
+      "sha256": "032bc14af0bd7673b1a43ceaa2a98f6efd24d10c5d712655b75d47506ac2a78c"
+    },
+    "corpus/maimai_game/07_达成率与BREAK失分.md": {
+      "bytes": 1871,
+      "sha256": "bf5474b1ea61cda2d044a91e8bcc8b5a28bbd2517edd797bd05f1a4ce81e61fc"
+    },
+    "corpus/maimai_game/08_DX分与理论值.md": {
+      "bytes": 1541,
+      "sha256": "3db2c1cd774e0b0526f237fe252cd4b3d1d11ba21c0ad1441e78af460b7d7814"
+    },
+    "corpus/maimai_game/09_Rating计算与评级.md": {
+      "bytes": 1654,
+      "sha256": "9777a938b6e5c017bf7232d6e1679d3d9f3362069f006dedc751e861f5a096b7"
+    },
+    "corpus/maimai_game/10_B50与新旧曲池.md": {
+      "bytes": 1843,
+      "sha256": "6ec119d76d83bd3c2ee5b81aa27f917d39c92e41f917fdf56440db6e4cf625e3"
+    },
+    "corpus/maimai_game/11_推分与选曲方法.md": {
+      "bytes": 2009,
+      "sha256": "7f4831f8542847c4d4246499ea34be06c369970199971545ed2ea2e0d3aa1c39"
+    },
+    "corpus/maimai_game/12_流速与判定设置.md": {
+      "bytes": 1734,
+      "sha256": "7c3588dc1dc3b2843ba8050487be0005e90463e9d410c00ebfadd71d0f97174d"
+    },
+    "corpus/maimai_game/13_常见谱面结构与手法.md": {
+      "bytes": 1713,
+      "sha256": "9131ea9da2d079975eeb945109e33dd9311bf4813689e1b0bdd3ee040499af55"
+    },
+    "corpus/maimai_game/14_分阶段练习记录.md": {
+      "bytes": 1792,
+      "sha256": "ef5f7ef823ef42363a7adcfe8df7667de0546555a9621e99e065acf4bb5bf5f9"
+    },
+    "corpus/maimai_game/15_歌曲分类与检索.md": {
+      "bytes": 1811,
+      "sha256": "93e12c7c59ba976485b06e5a67e790c98a1dd5a7f2475730a12722a6b7ef5865"
+    },
+    "corpus/maimai_game/16_地区与版本沿革.md": {
+      "bytes": 1790,
+      "sha256": "2020d720d2ff98e3ecc77ed566d734e339d25cc01f6719e181670af8eaface38"
+    },
+    "corpus/maimai_game/17_旅行区域与解锁.md": {
+      "bytes": 1805,
+      "sha256": "df5605c21b86447bb920a13539f53459a3eee2f59b5c58c1b69cce5f1bd6b6ae"
+    },
+    "corpus/maimai_game/18_宴会场与BUDDY.md": {
+      "bytes": 1610,
+      "sha256": "0720ab0f2c0a810c79021539e3a62e5f16e750c7b429cd91ac5fcd2ee891ef0d"
+    },
+    "corpus/maimai_game/19_段位对战与模式.md": {
+      "bytes": 1568,
+      "sha256": "0c7968be565d4fe73c7e40ab0a9957dca22dbf07da22da321191926cae2e1fb5"
+    },
+    "corpus/maimai_game/20_牌子与收藏品.md": {
+      "bytes": 1811,
+      "sha256": "d49f3f30f8cb072542f5960d8f958f46daac7ef66720725eb232626fe4252830"
+    },
+    "corpus/maimai_game/21_万花筒与门.md": {
+      "bytes": 2071,
+      "sha256": "129e285060b55e4284bd69a8e2f7e6a9ba3602e45215af7b489347ff7caf389a"
+    },
+    "corpus/maimai_game/22_账号与查分器.md": {
+      "bytes": 1784,
+      "sha256": "7fa3d019dfa935a8c79d30446dc480968d530249a5dee14191157f43ca411a05"
+    },
+    "corpus/maimai_game/23_术语词典.md": {
+      "bytes": 2041,
+      "sha256": "4fd4b6e8fd2d4e3a0593d07954d2c7246d2fbe70850c1cc2433e383bf685547c"
+    },
+    "corpus/maimai_game/24_常见问题.md": {
+      "bytes": 2207,
+      "sha256": "25732818caf87083613df794e8b6220e3ecbb72ad708c65f1e71aa52fdd02859"
+    },
+    "corpus/maimai_game/25_比赛与排行规则.md": {
+      "bytes": 1655,
+      "sha256": "4818754899cfa3c73b1b9c74565988a7c25182711124a8f2e711644b595e2274"
+    },
+    "corpus/maimai_levels/generated-cn-level-1.md": {
+      "bytes": 1701,
+      "sha256": "7fe10b6933a8310178604f2b6fe8c748634e1bb19d1d10fbf9771255ad26c955"
+    },
+    "corpus/maimai_levels/generated-cn-level-10.md": {
+      "bytes": 32281,
+      "sha256": "89cfe5abcc0b37761c44fc5196674f964033da0b9cacc57cbb87e0075d6e39ae"
+    },
+    "corpus/maimai_levels/generated-cn-level-10plus.md": {
+      "bytes": 27962,
+      "sha256": "a6318ff13000fb1b47217c5c7f7839c2bb8a3d178b7ad78227cc1557f93ffc46"
+    },
+    "corpus/maimai_levels/generated-cn-level-11.md": {
+      "bytes": 24055,
+      "sha256": "7c06b7c94cd613547313f7d9ab90ef34daa506f8cc8ff4f2aa5943eaf8c8c9dd"
+    },
+    "corpus/maimai_levels/generated-cn-level-11plus.md": {
+      "bytes": 24048,
+      "sha256": "3764fd68f8fa6ebd37ad0dcfff154e3e75d16fb65749069fe05a48d8b0800e4a"
+    },
+    "corpus/maimai_levels/generated-cn-level-12.md": {
+      "bytes": 37323,
+      "sha256": "4cb540277a166064b5c820e74b8656ef4b716435aa13e508fb64cad1dfffdbc1"
+    },
+    "corpus/maimai_levels/generated-cn-level-12plus.md": {
+      "bytes": 48430,
+      "sha256": "73da516557fb003ccf47f76da9510b7e9696c0adbacd5dc5dc3899849ea340ef"
+    },
+    "corpus/maimai_levels/generated-cn-level-13.md": {
+      "bytes": 48703,
+      "sha256": "0024903d69cd3c794556772a44fe6bb71abd6c34856babf253a5f0b116f715b7"
+    },
+    "corpus/maimai_levels/generated-cn-level-13plus.md": {
+      "bytes": 37783,
+      "sha256": "67b59533698b69f12916030ab096ad45959f165f41b25b2eeb046db2a5565627"
+    },
+    "corpus/maimai_levels/generated-cn-level-14.md": {
+      "bytes": 22672,
+      "sha256": "105757db72fe52cf78c7cad4fd37fcabd3dc9126c2551a949f39c9f10498662d"
+    },
+    "corpus/maimai_levels/generated-cn-level-14plus.md": {
+      "bytes": 7346,
+      "sha256": "ad9464922db12b9642e73037f9bbc145b31a1fe1da47c1433d7ee6099256b45f"
+    },
+    "corpus/maimai_levels/generated-cn-level-15.md": {
+      "bytes": 431,
+      "sha256": "7f56a816b32cf36a59ca23091dcc21d2189ad01028b02cae98877912d06a3741"
+    },
+    "corpus/maimai_levels/generated-cn-level-2.md": {
+      "bytes": 10980,
+      "sha256": "ed2de6aca6fe2604403b3bcdbd1970f62bd661e047678dd8b39fd9338a0dfc39"
+    },
+    "corpus/maimai_levels/generated-cn-level-3.md": {
+      "bytes": 33790,
+      "sha256": "9bf770e6795784a8f741b1a2af171b33577c7bf0526950678eed3cf2a7bc0674"
+    },
+    "corpus/maimai_levels/generated-cn-level-4.md": {
+      "bytes": 65970,
+      "sha256": "ddd0228dcc32273058d41588be4ee2c169d092ed72727e2c5ec77405b08bb74b"
+    },
+    "corpus/maimai_levels/generated-cn-level-5.md": {
+      "bytes": 48267,
+      "sha256": "455b505c74aa34dd40695e2dee79709b93267ceeb1417f175e2b947ce66f8826"
+    },
+    "corpus/maimai_levels/generated-cn-level-6.md": {
+      "bytes": 73710,
+      "sha256": "f0238b9abfd79c73b3218fd044cbdec991f02dd85f0172afd5e53995e8784b42"
+    },
+    "corpus/maimai_levels/generated-cn-level-7.md": {
+      "bytes": 49850,
+      "sha256": "8aee6ef635de4a8eda2d7a9432ff260bea9a16dd36ddc2dc3f92d1672418fb60"
+    },
+    "corpus/maimai_levels/generated-cn-level-7plus.md": {
+      "bytes": 36499,
+      "sha256": "574a1367923ebfebc06ed26e4787e05f21d1bcfbe2d5cecca55e287c28a80241"
+    },
+    "corpus/maimai_levels/generated-cn-level-8.md": {
+      "bytes": 31569,
+      "sha256": "939e9abdbd28ca9edc77dfabfdaafbbb8e4d77cc8bf8b231224c6f45032d2394"
+    },
+    "corpus/maimai_levels/generated-cn-level-8plus.md": {
+      "bytes": 17453,
+      "sha256": "e3e4339e3b3ea4ed4a16f4f0c760bc384758f55e9d4ac4c54a88ce431662ad14"
+    },
+    "corpus/maimai_levels/generated-cn-level-9.md": {
+      "bytes": 20635,
+      "sha256": "e075d4f1d9e12ec498e373424ae46a7873ce280b5db026f774681b5bdc3a3d7a"
+    },
+    "corpus/maimai_levels/generated-cn-level-9plus.md": {
+      "bytes": 29476,
+      "sha256": "1bbb2df797d2e2b48bf90a722f72dbee53c8a92d08e3659cf6fac72c0ea8df21"
+    },
+    "corpus/maimai_levels/generated-lxns-level-1.md": {
+      "bytes": 1781,
+      "sha256": "2a8d583c44dd1bf04c7fd1bb8deca7aff5dddd6234b36aa24276dea5d55bdaa5"
+    },
+    "corpus/maimai_levels/generated-lxns-level-10.md": {
+      "bytes": 27546,
+      "sha256": "70d426b304beabe3edd041f97ee7d8855b5b914ddfd520867bcd890a76be9bf4"
+    },
+    "corpus/maimai_levels/generated-lxns-level-10plus.md": {
+      "bytes": 33092,
+      "sha256": "cdcf5fa749bf964440e6cd835d844688e97448c0f00842d8435d459eafcefa2e"
+    },
+    "corpus/maimai_levels/generated-lxns-level-11.md": {
+      "bytes": 27030,
+      "sha256": "9d110c24fff266bb221a23380e289a26593f61e64f286c102bfd823b4578a1d0"
+    },
+    "corpus/maimai_levels/generated-lxns-level-11plus.md": {
+      "bytes": 25873,
+      "sha256": "718e50a26540f02fe5a119d124b9030508108c089903503ed4b4af14c5ee9724"
+    },
+    "corpus/maimai_levels/generated-lxns-level-12.md": {
+      "bytes": 29599,
+      "sha256": "d3a961e19c2ecd8745ca50ca5d321b1962f499f9ae02e26fef5515da8513be86"
+    },
+    "corpus/maimai_levels/generated-lxns-level-12plus.md": {
+      "bytes": 50497,
+      "sha256": "c0de863ef34b3edd337a897d42ddecb4192a4cf39fd5bf9b527c64ff8fb9fe37"
+    },
+    "corpus/maimai_levels/generated-lxns-level-13.md": {
+      "bytes": 66302,
+      "sha256": "c96577bdde9d4e9930a298e9da1e86cd1d7419a1204c0dc0cedc755c7a01707a"
+    },
+    "corpus/maimai_levels/generated-lxns-level-13plus.md": {
+      "bytes": 49560,
+      "sha256": "ce6c55f872c70d8300b3d16319c770cb56a57219764597686dea91d9fb4f2ac5"
+    },
+    "corpus/maimai_levels/generated-lxns-level-14.md": {
+      "bytes": 26254,
+      "sha256": "1e41b6775793ca9a6816bbe9c9a799db8f9dd47c9bea93db4ef79406b48e96c0"
+    },
+    "corpus/maimai_levels/generated-lxns-level-14plus.md": {
+      "bytes": 9864,
+      "sha256": "48969d04a96f58e9b20161af6e2c4b472bc03cc77b06c777cb8b33cd0ddfa801"
+    },
+    "corpus/maimai_levels/generated-lxns-level-15.md": {
+      "bytes": 580,
+      "sha256": "a70b0ac314215eb02f2963846730fa1d3ac19504b4f2c31c7f4c6866fe53e695"
+    },
+    "corpus/maimai_levels/generated-lxns-level-2.md": {
+      "bytes": 15709,
+      "sha256": "e2b204e3bcb3690b0771057249da5e7ec05a0eedf00d4d2883633fcf8576c385"
+    },
+    "corpus/maimai_levels/generated-lxns-level-3.md": {
+      "bytes": 38420,
+      "sha256": "6b84cca09514a2377d0d28918745b5dc606ff1e49ad15b46de00e756febbf04e"
+    },
+    "corpus/maimai_levels/generated-lxns-level-4.md": {
+      "bytes": 44723,
+      "sha256": "ef265d68663c8729a3668cce90d2fbf9f2e24aa98f83aa30e2464ef49bbdf2f3"
+    },
+    "corpus/maimai_levels/generated-lxns-level-5.md": {
+      "bytes": 44136,
+      "sha256": "ddb8231a720f02cc16e46e102beb89400827392e0692eb00763fdc8e59e5afde"
+    },
+    "corpus/maimai_levels/generated-lxns-level-6.md": {
+      "bytes": 59170,
+      "sha256": "735122b60251484ca09357d1454a2d566149825aa3b682f227de9e3d52275b38"
+    },
+    "corpus/maimai_levels/generated-lxns-level-7.md": {
+      "bytes": 46986,
+      "sha256": "90fac3b5bad2ecc89b5d7d347eff92d3ae83bef51fdb666667a2096ec874c170"
+    },
+    "corpus/maimai_levels/generated-lxns-level-7plus.md": {
+      "bytes": 43677,
+      "sha256": "54839f18a932560558649aaa28ef807e0b3f7df1d755c6adc0045ea2e9ae93a0"
+    },
+    "corpus/maimai_levels/generated-lxns-level-8.md": {
+      "bytes": 36502,
+      "sha256": "53814d97d80a3bff0a76ebe9903a1b01c9afaa3e873cd03ffaba627f0633a291"
+    },
+    "corpus/maimai_levels/generated-lxns-level-8plus.md": {
+      "bytes": 20447,
+      "sha256": "1b4cb007b648c035cd6532cd80494b87575f6224c49ffc4aba5f6a5ab59d9660"
+    },
+    "corpus/maimai_levels/generated-lxns-level-9.md": {
+      "bytes": 20397,
+      "sha256": "0ed10c4d2decb006cb5d3d65572fb178196e94232509982bc015738491dd32c4"
+    },
+    "corpus/maimai_levels/generated-lxns-level-9plus.md": {
+      "bytes": 24553,
+      "sha256": "e3763b1b5e8b95666124bd6771bd09f0f2b8761ae12d82910f6f0f00b4cf1b09"
+    },
+    "corpus/maimai_project/01_ナナセ架构.md": {
+      "bytes": 2493,
+      "sha256": "dedb208f10b3d783d8d512824b09686758f29fb02e5f39d22d3bd362615ca6da"
+    },
+    "corpus/maimai_project/02_知识库部署与功能边界.md": {
+      "bytes": 2232,
+      "sha256": "afb62a3ddf524242dd19d5378d22a75b8a16374738073d764ca17546b235ed5f"
+    },
+    "corpus/maimai_songs/generated-overview.md": {
+      "bytes": 953,
+      "sha256": "1ad70aea88845b76a103953bc4441c52af95c33bffcf5ffc2b522bcfa5bd7980"
+    },
+    "corpus/maimai_songs/generated-songs-001.md": {
+      "bytes": 128424,
+      "sha256": "71a4dd8fe3853e9d5646d1267e4bb1bfd2034c706c5ddf352c91c9de211569b3"
+    },
+    "corpus/maimai_songs/generated-songs-002.md": {
+      "bytes": 126740,
+      "sha256": "32b3c659ff9df25b8c8df7a392275b435593936857c2cd740ffa3da11da85919"
+    },
+    "corpus/maimai_songs/generated-songs-003.md": {
+      "bytes": 133388,
+      "sha256": "e4b0bfedc842007b0983b31adfc448a55cc092aae11dae1a38c9f8d32e896f11"
+    },
+    "corpus/maimai_songs/generated-songs-004.md": {
+      "bytes": 134711,
+      "sha256": "9c7e0c305b53125500b8e56bc4e941e913e132a2594bf4e239a7964c43361559"
+    },
+    "corpus/maimai_songs/generated-songs-005.md": {
+      "bytes": 129880,
+      "sha256": "12e77a4d41bd125500cea4e5755c437aeb429ba5c5a46d5b561ac65e75a4ffe6"
+    },
+    "corpus/maimai_songs/generated-songs-006.md": {
+      "bytes": 143334,
+      "sha256": "23556758fc7f29433e3dd76f49d7f0018a574e94d176665bb038cc6654a067c9"
+    },
+    "corpus/maimai_songs/generated-songs-007.md": {
+      "bytes": 121910,
+      "sha256": "85ca28dbbf3d7a2a4f9147e88839184f45f2a4b35caa477a4670f2e0b9cc6704"
+    },
+    "corpus/maimai_songs/generated-songs-008.md": {
+      "bytes": 130089,
+      "sha256": "464b713a77f8429519b163e074678182fdf55ccfea951fe251166823e8bad5c0"
+    },
+    "corpus/maimai_songs/generated-songs-009.md": {
+      "bytes": 118009,
+      "sha256": "4abe2489308c41f7c41d31a7b22448962363acb94f31117b48d1893fd38ed63e"
+    },
+    "corpus/maimai_songs/generated-songs-010.md": {
+      "bytes": 119319,
+      "sha256": "9f7e1b73614f72f04a1faf551eb000992da4d3ea20b51d48a502223f9ab6beec"
+    },
+    "corpus/maimai_songs/generated-songs-011.md": {
+      "bytes": 131721,
+      "sha256": "6348e0521cb973b06e69e80433befeb62b105bd6836e3a282f6463f91a4adc38"
+    },
+    "corpus/maimai_songs/generated-songs-012.md": {
+      "bytes": 124450,
+      "sha256": "c24eafa59d65b40cda3b2c634c3193dbde8b8eae361cbbae0d5744a69fd87100"
+    },
+    "corpus/maimai_songs/generated-songs-013.md": {
+      "bytes": 125102,
+      "sha256": "29327660507442bc29edf8d3d4d5eaceae5ea677b28cc5a23a461a7b5dfa7e57"
+    },
+    "corpus/maimai_songs/generated-songs-014.md": {
+      "bytes": 128759,
+      "sha256": "f5eb055592951d84d49de352c0d75aa1cfcf203329d0befbb4f9db790e463007"
+    },
+    "corpus/maimai_songs/generated-songs-015.md": {
+      "bytes": 121519,
+      "sha256": "4b401a4a7975ea2371a159af20a8ce01a7a6b212fb80d09140c1bd2251e8e464"
+    },
+    "corpus/maimai_songs/generated-songs-016.md": {
+      "bytes": 125935,
+      "sha256": "96ce97b5807d27edccde279815005f6d21ebc22138bac780d890806b13f9b699"
+    },
+    "corpus/maimai_songs/generated-songs-017.md": {
+      "bytes": 120524,
+      "sha256": "aa2fdf9d7c8b838c3d1fe80be84a2651923171608d7df23870ced253089ade20"
+    },
+    "corpus/maimai_songs/generated-songs-018.md": {
+      "bytes": 111963,
+      "sha256": "c0ce9aef4a01159e6fc057de09593c92e87df5e58e03799ad85662148264fc2a"
+    },
+    "corpus/maimai_songs/generated-songs-019.md": {
+      "bytes": 111986,
+      "sha256": "9bb6988328013f3ae535f140b75a8a54768067aa53141438cd17bb4ae57b4fec"
+    },
+    "corpus/maimai_songs/generated-songs-020.md": {
+      "bytes": 108789,
+      "sha256": "4e575b6890f24d209f9b0a3993e6d1d4d799ab3edaab223ff50756ef89936361"
+    },
+    "corpus/maimai_songs/generated-songs-021.md": {
+      "bytes": 106002,
+      "sha256": "766b1665b96fea4c07b8bead01fce5be2ca85d4017d530c0ad0fb0a5fe6919c6"
+    },
+    "corpus/maimai_songs/generated-songs-022.md": {
+      "bytes": 104884,
+      "sha256": "e0be87572440ddceec51102ada54894d6150a8d833c37a52671135cfcc376239"
+    },
+    "corpus/maimai_songs/generated-songs-023.md": {
+      "bytes": 107821,
+      "sha256": "a9c47f6d022e8db586d9d04835300101ceff197b8007b1c175d87b6758f3d032"
+    },
+    "corpus/maimai_songs/generated-songs-024.md": {
+      "bytes": 102696,
+      "sha256": "95addfaffd0e36b8cba9cfb25b35a821f21f6e48f63fc71ddb4bb02348aa6dc0"
+    },
+    "corpus/maimai_songs/generated-songs-025.md": {
+      "bytes": 107655,
+      "sha256": "41597040bc042b668f787c866d66b75efc93fcd4aa20f2e4431aa2b0c380865a"
+    },
+    "corpus/maimai_songs/generated-songs-026.md": {
+      "bytes": 107212,
+      "sha256": "9941a3460a96b2e0c1d59fe30e8c23e59825a4a085adf34fa4d72f9994f69751"
+    },
+    "corpus/maimai_songs/generated-songs-027.md": {
+      "bytes": 99628,
+      "sha256": "36b8731e0aa2ba64d120b444b7daff83a791b0c10b4e53e53cf602f392dd8f60"
+    },
+    "corpus/maimai_songs/generated-songs-028.md": {
+      "bytes": 101758,
+      "sha256": "162bad5f0cc953e8b05e903526151d69eaedad9e22ebf2d9a09edb198d43f3e8"
+    },
+    "corpus/maimai_songs/generated-songs-029.md": {
+      "bytes": 98906,
+      "sha256": "14273e20d96830fc8f44b9ec99b856acf1c64a0b7fac4e7a3b49c65027b76a61"
+    },
+    "corpus/maimai_songs/generated-songs-030.md": {
+      "bytes": 104798,
+      "sha256": "61e7c581041f26e8eb9ce846c9e8409910317d496fbf80510662a54835e67596"
+    },
+    "corpus/maimai_songs/generated-songs-031.md": {
+      "bytes": 103573,
+      "sha256": "e1204e017e2a05bdba6a7aabadbaece7d163399d2fed3cb473b148b584a96ec8"
+    },
+    "corpus/maimai_songs/generated-songs-032.md": {
+      "bytes": 101103,
+      "sha256": "e11ad5244a2d5eabf0adcb11a6e47e0d7ac0c80f51a1d2ae168b6e6ddd5b68fa"
+    },
+    "corpus/maimai_songs/generated-songs-033.md": {
+      "bytes": 102373,
+      "sha256": "9d98deba5500a82af4f75b23880925db73d464f6a817bd06a71625f8c37daec1"
+    },
+    "corpus/maimai_songs/generated-songs-034.md": {
+      "bytes": 103336,
+      "sha256": "2c4400d88f6037ba13b76489fba2412d243531ae004a9be6ace622948e6f2e90"
+    },
+    "corpus/maimai_songs/generated-songs-035.md": {
+      "bytes": 100649,
+      "sha256": "d602b0644b4ca71afed09f349755b8d25e862ec3470a6d39a2718d1b11056b3d"
+    },
+    "corpus/maimai_songs/generated-songs-036.md": {
+      "bytes": 107767,
+      "sha256": "ec6e8648a04a94c4f6e0565cd44eb7e084867acaab3d753893bc57e77f68f5a2"
+    },
+    "corpus/maimai_songs/generated-songs-037.md": {
+      "bytes": 100010,
+      "sha256": "755e93368c16be537ea948de4d70b5a9f01f3651335caf0fdfc3ff65ecbeb764"
+    },
+    "corpus/maimai_songs/generated-songs-038.md": {
+      "bytes": 107497,
+      "sha256": "2448873f4a849842928604ae1e3831917a265c38ab326171dc63258569aacaf3"
+    },
+    "corpus/maimai_songs/generated-songs-039.md": {
+      "bytes": 101231,
+      "sha256": "25334c622d2c5d29d41432c884ed17aee69bbb58b26de878b71c5a41e628a811"
+    },
+    "corpus/maimai_songs/generated-songs-040.md": {
+      "bytes": 101118,
+      "sha256": "c51bb8ddd846a7d7199a270743cf9abb10c6216e4ee1b2aa2533740924819655"
+    },
+    "corpus/maimai_songs/generated-songs-041.md": {
+      "bytes": 68971,
+      "sha256": "29423a73dd398ebc16c584ebe688d03adc909475ab92acca28ebfe5fb81887a4"
+    },
+    "corpus/maimai_songs/generated-songs-042.md": {
+      "bytes": 42682,
+      "sha256": "9ff3150cfd95522ff9c7601012eb8d417c2e9099b70d112324a449cc6fba36b5"
+    },
+    "corpus/maimai_songs/generated-songs-043.md": {
+      "bytes": 21012,
+      "sha256": "db3c46b38ede7e2ece09064a164e0f2f1cfdffabd7b8d49aa4de5d4b33f942f4"
+    }
+  }
+}

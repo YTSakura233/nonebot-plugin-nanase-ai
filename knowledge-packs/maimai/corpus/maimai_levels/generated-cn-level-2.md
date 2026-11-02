@@ -1,0 +1,84 @@
+# 国服NET快照显示等级 2 索引
+
+来源：CrazyKidCN国服NET社区快照；快照采集 2026-11-01。
+本表按国服NET观察等级分组，不使用落雪等级代替；不含宴会场。
+
+- 国服NET等级2｜セツナトリップ｜Last Note.｜dx BASIC｜关联落雪ID [193]｜版本 舞萌DX 2023。
+- 国服NET等级2｜深海少女｜ゆうゆ｜dx BASIC｜关联落雪ID [315]｜版本 舞萌DX 2024。
+- 国服NET等级2｜メルティランドナイトメア｜はるまきごはん feat.初音ミク｜dx BASIC｜关联落雪ID [1044]｜版本 舞萌DX。
+- 国服NET等级2｜月に叢雲華に風｜幽閉サテライト｜dx BASIC｜关联落雪ID [536]｜版本 PiNK PLUS。
+- 国服NET等级2｜響縁｜豚乙女｜dx BASIC｜关联落雪ID [404]｜版本 舞萌DX 2023。
+- 国服NET等级2｜サンバランド｜SAMBA MASTER 佐藤｜dx BASIC｜关联落雪ID [1081]｜版本 舞萌DX 2023。
+- 国服NET等级2｜ネコ日和。｜Kai/能登有沙｜dx BASIC｜关联落雪ID [30]｜版本 舞萌DX 2026。
+- 国服NET等级2｜炎歌 -ほむらうた-｜Hiro/森山愛子｜dx BASIC｜关联落雪ID [117]｜版本 舞萌DX 2025。
+- 国服NET等级2｜ガランド｜ピコン｜dx BASIC｜关联落雪ID [1189]｜版本 舞萌DX 2021。
+- 国服NET等级2｜再会｜はるまきごはん｜dx BASIC｜关联落雪ID [1271]｜版本 舞萌DX 2022。
+- 国服NET等级2｜約束｜はるまきごはん｜dx BASIC｜关联落雪ID [1272]｜版本 舞萌DX 2022。
+- 国服NET等级2｜阿吽のビーツ｜羽生まゐご｜dx BASIC｜关联落雪ID [1270]｜版本 舞萌DX 2022。
+- 国服NET等级2｜夜に駆ける｜YOASOBI｜dx BASIC｜关联落雪ID 未匹配｜版本 舞萌DX 2022。
+- 国服NET等级2｜Shooting Stars｜クレシェンドブルー [最上静香 (CV.田所あずさ)、北上麗花 (CV.平山笑美)、北沢志保 (CV.雨宮 天)、野々原 茜 (CV.小笠原早紀)、箱崎星梨花 (CV.麻倉もも)]｜dx BASIC｜关联落雪ID 未匹配｜版本 舞萌DX 2022。
+- 国服NET等级2｜MOON NIGHTのせいにして｜DRAMATIC STARS [天道 輝 (CV.仲村宗悟), 桜庭 薫 (CV.内田雄馬), 柏木 翼 (CV.八代 拓)]｜dx BASIC｜关联落雪ID 未匹配｜版本 舞萌DX 2022。
+- 国服NET等级2｜インドア系ならトラックメイカー｜Yunomi & nicamoq｜dx BASIC｜关联落雪ID [1358]｜版本 舞萌DX 2022。
+- 国服NET等级2｜悪魔の踊り方｜キタニタツヤ｜dx BASIC｜关联落雪ID [1350]｜版本 舞萌DX 2022。
+- 国服NET等级2｜アカツキアライヴァル｜Last Note.｜dx BASIC｜关联落雪ID [1359]｜版本 舞萌DX 2022。
+- 国服NET等级2｜ラグトレイン｜稲葉曇｜dx BASIC｜关联落雪ID [1355]｜版本 舞萌DX 2022。
+- 国服NET等级2｜くらべられっ子｜ツユ｜dx BASIC｜关联落雪ID 未匹配｜版本 舞萌DX 2023。
+- 国服NET等级2｜BANG!｜Shoichiro Hirata feat.Sana｜dx BASIC｜关联落雪ID [1428]｜版本 舞萌DX 2023。
+- 国服NET等级2｜tape/stop/night｜Sugar & Co.｜dx BASIC｜关联落雪ID [1572]｜版本 舞萌DX 2023。
+- 国服NET等级2｜パーフェクション｜柊マグネタイト｜dx BASIC｜关联落雪ID [1380]｜版本 舞萌DX 2023。
+- 国服NET等级2｜Princess♂｜TOPHAMHAT-KYO｜dx BASIC｜关联落雪ID [1432]｜版本 舞萌DX 2023。
+- 国服NET等级2｜ヒトガタ｜HIMEHINA｜dx BASIC｜关联落雪ID [1433]｜版本 舞萌DX 2023。
+- 国服NET等级2｜デーモンベット｜ちいたな feat.flower｜dx BASIC｜关联落雪ID [1381]｜版本 舞萌DX 2023。
+- 国服NET等级2｜ただ選択があった｜フロクロ｜dx BASIC｜关联落雪ID [1448]｜版本 舞萌DX 2023。
+- 国服NET等级2｜紅に染まる恋の花｜幽閉サテライト｜dx BASIC｜关联落雪ID [1436]｜版本 舞萌DX 2023。
+- 国服NET等级2｜ディカディズム｜ぬゆり｜dx BASIC｜关联落雪ID [1267]｜版本 舞萌DX 2022。
+- 国服NET等级2｜踊｜Ado｜dx BASIC｜关联落雪ID [1483]｜版本 舞萌DX 2023。
+- 国服NET等级2｜フォニイ｜ツミキ　feat.音楽的同位体　可不（KAFU）｜dx BASIC｜关联落雪ID [1485]｜版本 舞萌DX 2023。
+- 国服NET等级2｜EYE｜Kanaria｜dx BASIC｜关联落雪ID [1487]｜版本 舞萌DX 2023。
+- 国服NET等级2｜ヴィラン｜flower・てにをは｜dx BASIC｜关联落雪ID [1486]｜版本 舞萌DX 2023。
+- 国服NET等级2｜ばかみたい【Taxi Driver Edition】｜桐生一馬(黒田崇矢)｜dx BASIC｜关联落雪ID [1504]｜版本 舞萌DX 2023。
+- 国服NET等级2｜Blank Paper (Prod. TEMPLIME)｜日高零奈・東雲和音・茅野ふたば「電音部」｜dx BASIC｜关联落雪ID [1506]｜版本 舞萌DX 2023。
+- 国服NET等级2｜アイム・マイヒーロー｜Ino(chronoize) feat. 柳瀬マサキ｜dx BASIC｜关联落雪ID [1508]｜版本 舞萌DX 2023。
+- 国服NET等级2｜『んっあっあっ。』｜SLAVE.V-V-R｜dx BASIC｜关联落雪ID [1519]｜版本 舞萌DX 2023。
+- 国服NET等级2｜回る空うさぎ｜Orangestar｜dx BASIC｜关联落雪ID [1513]｜版本 舞萌DX 2023。
+- 国服NET等级2｜ロータスイーター｜青栗鼠｜dx BASIC｜关联落雪ID [1521]｜版本 舞萌DX 2023。
+- 国服NET等级2｜へべれけジャンキー｜syudou｜dx BASIC｜关联落雪ID [1511]｜版本 舞萌DX 2023。
+- 国服NET等级2｜ヒバリ｜HIMEHINA｜dx BASIC｜关联落雪ID [1555]｜版本 舞萌DX 2024。
+- 国服NET等级2｜ロウワー｜ぬゆり｜dx BASIC｜关联落雪ID [1562]｜版本 舞萌DX 2024。
+- 国服NET等级2｜MAGENTA POTION｜EmoCosine｜dx BASIC｜关联落雪ID [1607]｜版本 舞萌DX 2024。
+- 国服NET等级2｜キャットラビング｜香椎モイミ｜dx BASIC｜关联落雪ID [1563]｜版本 舞萌DX 2024。
+- 国服NET等级2｜神っぽいな｜ピノキオピー｜dx BASIC｜关联落雪ID [1558]｜版本 舞萌DX 2024。
+- 国服NET等级2｜魂のルフラン｜高橋洋子 [covered by 光吉猛修]｜dx BASIC｜关联落雪ID [1569]｜版本 舞萌DX 2024。
+- 国服NET等级2｜花となれ｜雄之助　feat.音楽的同位体　可不（KAFU）｜dx BASIC｜关联落雪ID [1592]｜版本 舞萌DX 2024。
+- 国服NET等级2｜ド屑｜なきそ｜dx BASIC｜关联落雪ID [1601]｜版本 舞萌DX 2024。
+- 国服NET等级2｜あなたは世界の終わりにずんだを食べるのだ｜なみぐる｜dx BASIC｜关联落雪ID [1651]｜版本 舞萌DX 2024。
+- 国服NET等级2｜Snow Colored Score｜イロドリミドリ「CHUNITHM」｜dx BASIC｜关联落雪ID [1606]｜版本 舞萌DX 2024。
+- 国服NET等级2｜さくゆいたいそう｜さくゆい｜dx BASIC｜关联落雪ID [1636]｜版本 舞萌DX 2024。
+- 国服NET等级2｜Play merrily NEO｜Shohei Tsuchiya (ZUNTATA) feat. Aimee B｜dx BASIC｜关联落雪ID [1632]｜版本 舞萌DX 2024。
+- 国服NET等级2｜NOIZY BOUNCE｜八王子P feat. ななひら・まめこ｜dx BASIC｜关联落雪ID [1608]｜版本 舞萌DX 2024。
+- 国服NET等级2｜サンバディ！｜水野健治 feat.光吉猛修｜dx BASIC｜关联落雪ID [1609]｜版本 舞萌DX 2024。
+- 国服NET等级2｜Cry Cry Cry｜FLG4 feat.Flower｜dx BASIC｜关联落雪ID [1614]｜版本 舞萌DX 2024。
+- 国服NET等级2｜ジェヘナ｜wotaku｜dx BASIC｜关联落雪ID [1654]｜版本 舞萌DX 2024。
+- 国服NET等级2｜フタタビ｜KAZE Lab｜dx BASIC｜关联落雪ID [1623]｜版本 舞萌DX 2024。
+- 国服NET等级2｜＊ハロー、プラネット。｜sasakure.UK｜dx BASIC｜关联落雪ID [185]｜版本 舞萌DX 2024。
+- 国服NET等级2｜シックスプラン｜針原翼（はりーP）feat. はく｜dx BASIC｜关联落雪ID [1622]｜版本 舞萌DX 2024。
+- 国服NET等级2｜天使の翼。｜A4。｜dx BASIC｜关联落雪ID [1659]｜版本 舞萌DX 2024。
+- 国服NET等级2｜Ring｜R Sound Design feat.向日葵｜dx BASIC｜关联落雪ID [1626]｜版本 舞萌DX 2024。
+- 国服NET等级2｜強風オールバック｜ゆこぴ｜dx BASIC｜关联落雪ID [1694]｜版本 舞萌DX 2025。
+- 国服NET等级2｜酔いどれ知らず｜Kanaria｜dx BASIC｜关联落雪ID [1698]｜版本 舞萌DX 2025。
+- 国服NET等级2｜バラバラ〜仮初レインボーローズ〜｜花畑チャイカ＆椎名唯華｜dx BASIC｜关联落雪ID [1712]｜版本 舞萌DX 2025。
+- 国服NET等级2｜LOSTPHANTASIA｜岸田教団&THE明星ロケッツ×草野華余子｜dx BASIC｜关联落雪ID [1717]｜版本 舞萌DX 2025。
+- 国服NET等级2｜Bad Apple!! feat.nomico (Tetsuya Komuro Remix)｜Masayoshi Minoshima Remixed by 小室哲哉｜dx BASIC｜关联落雪ID [1718]｜版本 舞萌DX 2025。
+- 国服NET等级2｜needLe｜DECO*27 / 初音ミク / Leo/need「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」｜dx BASIC｜关联落雪ID [1372]｜版本 舞萌DX 2025。
+- 国服NET等级2｜セカイはまだ始まってすらいない｜ピノキオピー / 初音ミク / ワンダーランズ×ショウタイム「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」｜dx BASIC｜关联落雪ID [1337]｜版本 舞萌DX 2025。
+- 国服NET等级2｜セカイ｜DECO*27 × 堀江晶太(kemu) / 初音ミク、星乃一歌、天馬司、宵崎奏「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」｜dx BASIC｜关联落雪ID [1493]｜版本 舞萌DX 2025。
+- 国服NET等级2｜アイドル新鋭隊｜Mitchie M / 初音ミク / MORE MORE JUMP！「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」｜dx BASIC｜关联落雪ID [1371]｜版本 舞萌DX 2025。
+- 国服NET等级2｜自傷無色｜ササノマリイ / 初音ミク / 25時、ナイトコードで。「プロジェクトセカイ カラフルステージ！ feat. 初音ミク」｜dx BASIC｜关联落雪ID [1218]｜版本 舞萌DX 2025。
+- 国服NET等级2｜唱｜Ado｜dx BASIC｜关联落雪ID [1764]｜版本 舞萌DX 2025。
+- 国服NET等级2｜転生林檎｜ピノキオピー｜dx BASIC｜关联落雪ID [1773]｜版本 舞萌DX 2025。
+- 国服NET等级2｜ビビデバ｜星街すいせい（ホロライブ）｜dx BASIC｜关联落雪ID [1836]｜版本 舞萌DX 2026。
+- 国服NET等级2｜もういいよ｜こっちのけんと｜dx BASIC｜关联落雪ID [1843]｜版本 舞萌DX 2026。
+- 国服NET等级2｜ももいろの鍵｜いよわ｜dx BASIC｜关联落雪ID [1839]｜版本 舞萌DX 2026。
+- 国服NET等级2｜ゆりかご｜歌：可不／作詞・作曲：MIMI｜dx BASIC｜关联落雪ID [1833]｜版本 舞萌DX 2026。
+- 国服NET等级2｜スナネコのうた｜ぷにぷに電機｜dx BASIC｜关联落雪ID [1846]｜版本 舞萌DX 2026。
+- 国服NET等级2｜ゼロトーキング｜はるまきごはん｜dx BASIC｜关联落雪ID [1872]｜版本 舞萌DX 2026。
